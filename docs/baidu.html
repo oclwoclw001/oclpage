@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>百度热搜</title>
+  <link rel="stylesheet" href="hot.css">
+</head>
+<body data-board="baidu">
+  <div class="bg bg-a"></div>
+  <div class="bg bg-b"></div>
+  <main class="page">
+    <section class="hero sub-hero">
+      <div>
+        <p class="eyebrow">Baidu</p>
+        <h1>百度热搜</h1>
+        <p class="subtitle">使用页面端拉取并解析百度热搜榜，尽量保持标题和热度格式干净。</p>
+      </div>
+      <div class="hero-actions">
+        <button id="refresh-all" class="primary">立即刷新</button>
+        <a class="secondary" href="index.html">返回首页</a>
+      </div>
+    </section>
+
+    <section class="meta-bar meta-bar-single">
+      <div class="meta-card"><span>上次刷新</span><strong id="last-updated">--</strong></div>
+      <div class="meta-card"><span>数据源</span><strong>top.baidu.com</strong></div>
+      <div class="meta-card"><span>说明</span><strong>解析实时热搜榜</strong></div>
+    </section>
+
+    <section class="board-wrap">
+      <article class="board-card">
+        <div class="board-head">
+          <div>
+            <p class="board-kicker">Realtime</p>
+            <h2>当前榜单</h2>
+          </div>
+        </div>
+        <p class="board-note">如果源站限流或代理抖动，页面会提示失败状态，不会再拿错误内容硬凑。</p>
+        <div id="board-status" class="status">正在加载…</div>
+        <ol id="board-list" class="rank-list"></ol>
+      </article>
+    </section>
+  </main>
+
+  <script src="hot.js"></script>
+</body>
+</html>

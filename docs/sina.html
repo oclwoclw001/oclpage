@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>新浪热点</title>
+  <link rel="stylesheet" href="hot.css">
+</head>
+<body data-board="sina">
+  <div class="bg bg-a"></div>
+  <div class="bg bg-b"></div>
+  <main class="page">
+    <section class="hero sub-hero">
+      <div>
+        <p class="eyebrow">Sina</p>
+        <h1>新浪热点</h1>
+        <p class="subtitle">优先抓新浪新闻首页的“热榜/热点”区，不再把站点导航、汽车报价之类的杂项塞进榜单。</p>
+      </div>
+      <div class="hero-actions">
+        <button id="refresh-all" class="primary">立即刷新</button>
+        <a class="secondary" href="index.html">返回首页</a>
+      </div>
+    </section>
+
+    <section class="meta-bar meta-bar-single">
+      <div class="meta-card"><span>上次刷新</span><strong id="last-updated">--</strong></div>
+      <div class="meta-card"><span>数据源</span><strong>news.sina.com.cn</strong></div>
+      <div class="meta-card"><span>说明</span><strong>解析热点与热榜区</strong></div>
+    </section>
+
+    <section class="board-wrap">
+      <article class="board-card">
+        <div class="board-head">
+          <div>
+            <p class="board-kicker">Focus</p>
+            <h2>当前热点</h2>
+          </div>
+        </div>
+        <p class="board-note">新浪热榜会混合新闻链接和部分微博话题链接，这里保留热点本身，但剔除无关栏目入口。</p>
+        <div id="board-status" class="status">正在加载…</div>
+        <ol id="board-list" class="rank-list"></ol>
+      </article>
+    </section>
+  </main>
+
+  <script src="hot.js"></script>
+</body>
+</html>

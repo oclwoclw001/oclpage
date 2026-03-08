@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>淄博热点</title>
+  <link rel="stylesheet" href="hot.css">
+</head>
+<body data-board="zibo">
+  <div class="bg bg-a"></div>
+  <div class="bg bg-b"></div>
+  <main class="page">
+    <section class="hero sub-hero">
+      <div>
+        <p class="eyebrow">Zibo</p>
+        <h1>淄博热点</h1>
+        <p class="subtitle">聚合与淄博相关的媒体报道，优先展示淄博本地媒体，再补充省级媒体报道，做成一个本地观察页。</p>
+      </div>
+      <div class="hero-actions">
+        <button id="refresh-all" class="primary">立即刷新</button>
+        <a class="secondary" href="index.html">返回首页</a>
+      </div>
+    </section>
+
+    <section class="meta-bar meta-bar-single">
+      <div class="meta-card"><span>上次刷新</span><strong id="last-updated">--</strong></div>
+      <div class="meta-card"><span>数据源</span><strong>淄博本地 / 山东媒体</strong></div>
+      <div class="meta-card"><span>说明</span><strong>多源聚合</strong></div>
+    </section>
+
+    <section class="boards boards-zibo">
+      <article class="board-card">
+        <div class="board-head"><div><p class="board-kicker">Local</p><h2>淄博新闻网</h2></div></div>
+        <div id="zibo-local-status" class="status">正在加载…</div>
+        <ol id="zibo-local-list" class="rank-list"></ol>
+      </article>
+      <article class="board-card">
+        <div class="board-head"><div><p class="board-kicker">Province</p><h2>省级媒体里的淄博</h2></div></div>
+        <div id="zibo-province-status" class="status">正在加载…</div>
+        <ol id="zibo-province-list" class="rank-list"></ol>
+      </article>
+    </section>
+  </main>
+
+  <script src="hot.js"></script>
+</body>
+</html>
