@@ -1,0 +1,236 @@
+:root {
+  --bg: #f6efe2;
+  --ink: #171717;
+  --muted: #665f57;
+  --panel: rgba(255, 251, 245, 0.8);
+  --panel-border: rgba(23, 23, 23, 0.09);
+  --accent: #d14f2d;
+  --accent-2: #0a7c86;
+  --shadow: 0 24px 60px rgba(43, 31, 23, 0.12);
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; min-height: 100%; }
+body {
+  font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: var(--ink);
+  background:
+    radial-gradient(circle at top left, rgba(209, 79, 45, 0.12), transparent 28%),
+    radial-gradient(circle at bottom right, rgba(10, 124, 134, 0.14), transparent 32%),
+    linear-gradient(180deg, #f7f0e4 0%, #f3ede5 52%, #efe7da 100%);
+}
+
+.bg {
+  position: fixed;
+  inset: auto;
+  width: 24rem;
+  height: 24rem;
+  border-radius: 50%;
+  filter: blur(80px);
+  opacity: 0.26;
+  pointer-events: none;
+}
+.bg-a { top: -8rem; right: -6rem; background: #ff8b61; }
+.bg-b { bottom: -8rem; left: -6rem; background: #68c4cb; }
+
+.page {
+  width: min(1180px, calc(100% - 28px));
+  margin: 0 auto;
+  padding: 28px 0 40px;
+  position: relative;
+}
+
+.hero,
+.meta-card,
+.board-card {
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  border-radius: 28px;
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(18px);
+}
+
+.hero {
+  padding: 28px;
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.eyebrow,
+.board-kicker {
+  margin: 0 0 8px;
+  color: var(--accent);
+  font-size: 0.82rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2.4rem, 6vw, 4.6rem);
+  line-height: 0.95;
+}
+
+.subtitle {
+  max-width: 44rem;
+  color: var(--muted);
+  line-height: 1.7;
+  margin: 12px 0 0;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.primary,
+.secondary,
+.ghost-button {
+  appearance: none;
+  border: 0;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 999px;
+  padding: 12px 18px;
+  font-weight: 700;
+  transition: transform 120ms ease, opacity 120ms ease;
+}
+
+.primary {
+  background: linear-gradient(135deg, var(--accent), #f08f56);
+  color: white;
+}
+.secondary {
+  background: rgba(10, 124, 134, 0.12);
+  color: var(--accent-2);
+}
+.ghost-button {
+  background: rgba(23, 23, 23, 0.05);
+  color: var(--ink);
+}
+.primary:hover,
+.secondary:hover,
+.ghost-button:hover { transform: translateY(-1px); }
+
+.meta-bar {
+  margin-top: 18px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+.meta-card {
+  padding: 16px 18px;
+}
+.meta-card span {
+  display: block;
+  color: var(--muted);
+  font-size: 0.88rem;
+  margin-bottom: 8px;
+}
+.meta-card strong {
+  font-size: 1.05rem;
+}
+
+.boards {
+  margin-top: 18px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.board-card {
+  padding: 22px;
+}
+
+.board-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: start;
+}
+
+.board-head h2 {
+  margin: 0;
+  font-size: 1.7rem;
+}
+
+.board-note {
+  margin: 10px 0 14px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.status {
+  min-height: 24px;
+  color: var(--accent-2);
+  font-size: 0.95rem;
+  margin-bottom: 12px;
+}
+
+.rank-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.rank-item {
+  display: grid;
+  grid-template-columns: 56px 1fr auto;
+  gap: 12px;
+  align-items: center;
+  padding: 14px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.58);
+  border: 1px solid rgba(23, 23, 23, 0.06);
+}
+
+.rank-num {
+  font-size: 1.2rem;
+  font-weight: 800;
+  color: var(--accent);
+}
+
+.rank-item a {
+  color: var(--ink);
+  text-decoration: none;
+  line-height: 1.45;
+}
+.rank-item a:hover { text-decoration: underline; }
+
+.heat {
+  color: var(--muted);
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.empty {
+  color: var(--muted);
+  padding: 16px 0;
+}
+
+@media (max-width: 900px) {
+  .hero,
+  .boards,
+  .meta-bar {
+    grid-template-columns: 1fr;
+  }
+  .hero {
+    flex-direction: column;
+    align-items: start;
+  }
+  .boards,
+  .meta-bar {
+    display: grid;
+  }
+}
+
+@media (max-width: 640px) {
+  .page { width: min(100% - 18px, 1180px); padding-top: 18px; }
+  .rank-item { grid-template-columns: 42px 1fr; }
+  .heat { grid-column: 2; }
+}

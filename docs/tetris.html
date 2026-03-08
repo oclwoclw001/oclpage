@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neon Stack Tetris</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="aurora aurora-a"></div>
+  <div class="aurora aurora-b"></div>
+  <main class="app">
+    <section class="hero">
+      <p class="eyebrow">GitHub Pages Ready</p>
+      <h1>Neon Stack</h1>
+      <p class="subtitle">一个霓虹风俄罗斯方块小游戏，键盘和手机都能玩。</p>
+    </section>
+
+    <section class="game-shell">
+      <aside class="panel panel-left">
+        <div class="card stat-grid">
+          <div>
+            <span>分数</span>
+            <strong id="score">0</strong>
+          </div>
+          <div>
+            <span>等级</span>
+            <strong id="level">1</strong>
+          </div>
+          <div>
+            <span>消行</span>
+            <strong id="lines">0</strong>
+          </div>
+          <div>
+            <span>最佳</span>
+            <strong id="best">0</strong>
+          </div>
+        </div>
+
+        <div class="card mini-card">
+          <div class="card-title">Hold</div>
+          <canvas id="hold" width="120" height="120" aria-label="Hold piece"></canvas>
+        </div>
+
+        <div class="card controls-card desktop-controls">
+          <div class="card-title">键盘</div>
+          <ul>
+            <li><kbd>←</kbd><kbd>→</kbd> 左右移动</li>
+            <li><kbd>↓</kbd> 软降</li>
+            <li><kbd>Space</kbd> 硬降</li>
+            <li><kbd>Z</kbd><kbd>X</kbd> 旋转</li>
+            <li><kbd>C</kbd> Hold</li>
+            <li><kbd>P</kbd> 暂停 / 继续</li>
+          </ul>
+        </div>
+      </aside>
+
+      <section class="board-wrap">
+        <div class="board-frame">
+          <canvas id="board" width="360" height="720" aria-label="Tetris board"></canvas>
+          <div class="overlay" id="overlay">
+            <p id="overlay-status">Ready</p>
+            <h2 id="overlay-title">点击 Play 开始</h2>
+            <button id="play-button" class="primary-button">Play</button>
+          </div>
+        </div>
+        <div class="action-row">
+          <button id="pause-button" class="secondary-button">暂停</button>
+          <button id="restart-button" class="secondary-button">重新开始</button>
+        </div>
+      </section>
+
+      <aside class="panel panel-right">
+        <div class="card mini-card">
+          <div class="card-title">Next</div>
+          <div class="queue">
+            <canvas class="queue-canvas" id="next-0" width="120" height="84"></canvas>
+            <canvas class="queue-canvas" id="next-1" width="120" height="84"></canvas>
+            <canvas class="queue-canvas" id="next-2" width="120" height="84"></canvas>
+          </div>
+        </div>
+
+        <div class="card note-card">
+          <div class="card-title">特色</div>
+          <p>7-bag 随机、墙踢、Ghost、Hold、等级加速、触屏操作，一页即可部署到 GitHub Pages。</p>
+        </div>
+      </aside>
+    </section>
+
+    <section class="touch-panel" aria-label="Touch controls">
+      <button data-action="hold">Hold</button>
+      <button data-action="left">←</button>
+      <button data-action="right">→</button>
+      <button data-action="rotate-ccw">↺</button>
+      <button data-action="rotate-cw">↻</button>
+      <button data-action="soft-drop">↓</button>
+      <button data-action="hard-drop" class="accent">Drop</button>
+      <button data-action="pause">Pause</button>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

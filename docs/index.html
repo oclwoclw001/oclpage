@@ -3,102 +3,69 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Neon Stack Tetris</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>热榜雷达</title>
+  <link rel="stylesheet" href="hot.css">
 </head>
 <body>
-  <div class="aurora aurora-a"></div>
-  <div class="aurora aurora-b"></div>
-  <main class="app">
+  <div class="bg bg-a"></div>
+  <div class="bg bg-b"></div>
+  <main class="page">
     <section class="hero">
-      <p class="eyebrow">GitHub Pages Ready</p>
-      <h1>Neon Stack</h1>
-      <p class="subtitle">一个霓虹风俄罗斯方块小游戏，键盘和手机都能玩。</p>
+      <div>
+        <p class="eyebrow">OCLPAGE</p>
+        <h1>热榜雷达</h1>
+        <p class="subtitle">实时聚合百度热搜与新浪热点，打开就能刷当下最热的话题。下方保留俄罗斯方块入口，但不再占首页。</p>
+      </div>
+      <div class="hero-actions">
+        <button id="refresh-all" class="primary">立即刷新</button>
+        <a class="secondary" href="tetris.html">去玩俄罗斯方块</a>
+      </div>
     </section>
 
-    <section class="game-shell">
-      <aside class="panel panel-left">
-        <div class="card stat-grid">
-          <div>
-            <span>分数</span>
-            <strong id="score">0</strong>
-          </div>
-          <div>
-            <span>等级</span>
-            <strong id="level">1</strong>
-          </div>
-          <div>
-            <span>消行</span>
-            <strong id="lines">0</strong>
-          </div>
-          <div>
-            <span>最佳</span>
-            <strong id="best">0</strong>
-          </div>
-        </div>
-
-        <div class="card mini-card">
-          <div class="card-title">Hold</div>
-          <canvas id="hold" width="120" height="120" aria-label="Hold piece"></canvas>
-        </div>
-
-        <div class="card controls-card desktop-controls">
-          <div class="card-title">键盘</div>
-          <ul>
-            <li><kbd>←</kbd><kbd>→</kbd> 左右移动</li>
-            <li><kbd>↓</kbd> 软降</li>
-            <li><kbd>Space</kbd> 硬降</li>
-            <li><kbd>Z</kbd><kbd>X</kbd> 旋转</li>
-            <li><kbd>C</kbd> Hold</li>
-            <li><kbd>P</kbd> 暂停 / 继续</li>
-          </ul>
-        </div>
-      </aside>
-
-      <section class="board-wrap">
-        <div class="board-frame">
-          <canvas id="board" width="360" height="720" aria-label="Tetris board"></canvas>
-          <div class="overlay" id="overlay">
-            <p id="overlay-status">Ready</p>
-            <h2 id="overlay-title">点击 Play 开始</h2>
-            <button id="play-button" class="primary-button">Play</button>
-          </div>
-        </div>
-        <div class="action-row">
-          <button id="pause-button" class="secondary-button">暂停</button>
-          <button id="restart-button" class="secondary-button">重新开始</button>
-        </div>
-      </section>
-
-      <aside class="panel panel-right">
-        <div class="card mini-card">
-          <div class="card-title">Next</div>
-          <div class="queue">
-            <canvas class="queue-canvas" id="next-0" width="120" height="84"></canvas>
-            <canvas class="queue-canvas" id="next-1" width="120" height="84"></canvas>
-            <canvas class="queue-canvas" id="next-2" width="120" height="84"></canvas>
-          </div>
-        </div>
-
-        <div class="card note-card">
-          <div class="card-title">特色</div>
-          <p>7-bag 随机、墙踢、Ghost、Hold、等级加速、触屏操作，一页即可部署到 GitHub Pages。</p>
-        </div>
-      </aside>
+    <section class="meta-bar">
+      <div class="meta-card">
+        <span>上次刷新</span>
+        <strong id="last-updated">--</strong>
+      </div>
+      <div class="meta-card">
+        <span>数据源</span>
+        <strong>百度 / 新浪</strong>
+      </div>
+      <div class="meta-card">
+        <span>说明</span>
+        <strong>页面端实时拉取</strong>
+      </div>
     </section>
 
-    <section class="touch-panel" aria-label="Touch controls">
-      <button data-action="hold">Hold</button>
-      <button data-action="left">←</button>
-      <button data-action="right">→</button>
-      <button data-action="rotate-ccw">↺</button>
-      <button data-action="rotate-cw">↻</button>
-      <button data-action="soft-drop">↓</button>
-      <button data-action="hard-drop" class="accent">Drop</button>
-      <button data-action="pause">Pause</button>
+    <section class="boards">
+      <article class="board-card">
+        <div class="board-head">
+          <div>
+            <p class="board-kicker">Baidu</p>
+            <h2>百度热搜</h2>
+          </div>
+          <button class="ghost-button" data-source="baidu">刷新</button>
+        </div>
+        <p class="board-note">抓取百度实时热搜榜，展示关键词与热度。</p>
+        <div id="baidu-status" class="status">正在加载…</div>
+        <ol id="baidu-list" class="rank-list"></ol>
+      </article>
+
+      <article class="board-card">
+        <div class="board-head">
+          <div>
+            <p class="board-kicker">Sina</p>
+            <h2>新浪热点</h2>
+          </div>
+          <button class="ghost-button" data-source="sina">刷新</button>
+        </div>
+        <p class="board-note">抓取新浪新闻首页热点，展示最新高频头条。</p>
+        <div id="sina-status" class="status">正在加载…</div>
+        <ol id="sina-list" class="rank-list"></ol>
+      </article>
     </section>
   </main>
 
-  <script src="script.js"></script>
+  <script src="hot.js"></script>
 </body>
 </html>
