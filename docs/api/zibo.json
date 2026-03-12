@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-03-12T18:00:19.673Z",
-  "count": 13,
+  "updatedAt": "2026-03-12T19:56:23.956Z",
+  "count": 14,
   "items": [
     {
       "rank": 1,
@@ -80,6 +80,12 @@
       "title": "追踪报道|雷克萨斯厂家客服回应,_淄博_ 4S店最迟于3月13日晚7点前与...",
       "url": "https://baijiahao.baidu.com/s?id=1859449999693370914&wfr=spider&for=pc",
       "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "3月12日 _淄博市_ 铁精粉(65-66 品位)现货报价990元/吨 近一周无变化",
+      "url": "http://news.10jqka.com.cn/20260312/c675253261.shtml",
+      "meta": "news.10jqka.com.cn"
     }
   ],
   "sections": [
@@ -170,6 +176,12 @@
           "title": "追踪报道|雷克萨斯厂家客服回应,_淄博_ 4S店最迟于3月13日晚7点前与...",
           "url": "https://baijiahao.baidu.com/s?id=1859449999693370914&wfr=spider&for=pc",
           "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "3月12日 _淄博市_ 铁精粉(65-66 品位)现货报价990元/吨 近一周无变化",
+          "url": "http://news.10jqka.com.cn/20260312/c675253261.shtml",
+          "meta": "news.10jqka.com.cn"
         }
       ]
     }
