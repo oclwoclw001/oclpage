@@ -1,60 +1,48 @@
 {
   "source": "sina",
-  "updatedAt": "2026-03-31T05:57:38.587Z",
-  "count": 9,
+  "updatedAt": "2026-03-31T09:47:48.893Z",
+  "count": 7,
   "items": [
     {
       "rank": 1,
-      "title": "张雪机车一战封神",
-      "url": "https://k.sina.com.cn/article_2028810631_78ed31870270166m2.html?from=auto&subch=oauto",
-      "meta": "新闻"
+      "title": "国足负于10人喀麦隆",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E8%B4%9F%E4%BA%8E10%E4%BA%BA%E5%96%80%E9%BA%A6%E9%9A%86",
+      "meta": "话题"
     },
     {
       "rank": 2,
-      "title": "AI短剧 偷脸",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903tleg.html?from=ent&subch=oent",
+      "title": "国足9分钟内连丢2球",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903tygc.html",
       "meta": "新闻"
     },
     {
       "rank": 3,
-      "title": "网约车司机高时长工作时代将结束",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903tkoi.html?from=news&subch=onews",
-      "meta": "新闻"
+      "title": "痞幼直播时抽烟",
+      "url": "https://s.weibo.com/weibo?q=%E7%97%9E%E5%B9%BC%E7%9B%B4%E6%92%AD%E6%97%B6%E6%8A%BD%E7%83%9F",
+      "meta": "话题"
     },
     {
       "rank": 4,
-      "title": "中国人海上百米高空吊装百米叶片",
-      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B5%B7%E4%B8%8A%E7%99%BE%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%90%8A%E8%A3%85%E7%99%BE%E7%B1%B3%E5%8F%B6%E7%89%87",
-      "meta": "话题"
-    },
-    {
-      "rank": 5,
-      "title": "韩国向中国14城发放十年签",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903tlea.html?from=travel",
+      "title": "广州长隆回应狮子静坐淋雨",
+      "url": "https://k.sina.com.cn/article_7879776328_1d5abd84806801ev2i.html?from=science",
       "meta": "新闻"
     },
     {
-      "rank": 6,
-      "title": "数学考17的人学会计",
-      "url": "https://s.weibo.com/weibo?q=%E6%95%B0%E5%AD%A6%E8%80%8317%E7%9A%84%E4%BA%BA%E5%AD%A6%E4%BC%9A%E8%AE%A1",
-      "meta": "话题"
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "2026年3月“科学”流言榜发布",
       "url": "https://news.sina.com.cn/2026-03-31/doc-inhsvwqe5878292.shtml",
       "meta": "新闻"
     },
     {
-      "rank": 8,
-      "title": "虎跳峡落水男子遗体打捞失败",
-      "url": "https://k.sina.com.cn/article_1043320390_3e2fce4600102d46e.html?from=news",
-      "meta": "新闻"
+      "rank": 6,
+      "title": "谢谢科学家",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B0%A2%E7%A7%91%E5%AD%A6%E5%AE%B6",
+      "meta": "话题"
     },
     {
-      "rank": 9,
-      "title": "让世界看到中国美妆科研主权",
-      "url": "https://s.weibo.com/weibo?q=%E8%AE%A9%E4%B8%96%E7%95%8C%E7%9C%8B%E5%88%B0%E4%B8%AD%E5%9B%BD%E7%BE%8E%E5%A6%86%E7%A7%91%E7%A0%94%E4%B8%BB%E6%9D%83",
+      "rank": 7,
+      "title": "五菱华为乾崑双向奔赴",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E8%8F%B1%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4",
       "meta": "话题"
     }
   ]
