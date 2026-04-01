@@ -1,42 +1,48 @@
 {
   "source": "sina",
-  "updatedAt": "2026-04-01T06:26:55.271Z",
-  "count": 6,
+  "updatedAt": "2026-04-01T14:55:32.239Z",
+  "count": 7,
   "items": [
     {
       "rank": 1,
-      "title": "世界杯48强全部出炉",
-      "url": "https://k.sina.com.cn/article_7857141481_1d45276e90400143oo.html?from=news&subch=onews",
+      "title": "明星买张雪机车也得排队",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801qiwg.html?from=auto&subch=oauto",
       "meta": "新闻"
     },
     {
       "rank": 2,
-      "title": "有线耳机穿搭火了",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903v322.html?from=digit",
+      "title": "成都一凶宅96.6万成交后买家悔拍",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903vm26.html?from=estate",
       "meta": "新闻"
     },
     {
       "rank": 3,
-      "title": "销冠澳洲优思益竟是假进口",
-      "url": "https://k.sina.com.cn/article_5953740931_162dee08306702y31m.html",
+      "title": "你的公积金悄悄变多了",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903vk6g.html?from=estate",
       "meta": "新闻"
     },
     {
       "rank": 4,
-      "title": "张雪身价上亿还在用两千多块钱坏手机",
-      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E8%BA%AB%E4%BB%B7%E4%B8%8A%E4%BA%BF%E8%BF%98%E5%9C%A8%E7%94%A8%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%9D%97%E9%92%B1%E5%9D%8F%E6%89%8B%E6%9C%BA",
-      "meta": "话题"
+      "title": "雄安新区9岁了",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903vs40.html?from=edu",
+      "meta": "新闻"
     },
     {
       "rank": 5,
-      "title": "雄安大脑赋能智慧城市",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903v32k.html?from=tech",
+      "title": "凯越机车致歉",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903vrfw.html?from=sports&subch=osport",
       "meta": "新闻"
     },
     {
       "rank": 6,
-      "title": "央视曝光优思益多平台下架",
-      "url": "https://news.sina.cn/bignews/2026-04-01/detail-inhsyncf5029835.d.html",
+      "title": "谁能演张雪",
+      "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E8%83%BD%E6%BC%94%E5%BC%A0%E9%9B%AA",
+      "meta": "话题"
+    },
+    {
+      "rank": 7,
+      "title": "JDG对战WB",
+      "url": "https://k.sina.com.cn/article_7096020433_v1a6f4add106801gs6s.html?from=game&subch=ogame",
       "meta": "新闻"
     }
   ]
