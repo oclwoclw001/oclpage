@@ -1,61 +1,67 @@
 {
   "source": "sina",
-  "updatedAt": "2026-04-07T10:38:19.094Z",
-  "count": 9,
+  "updatedAt": "2026-04-07T11:57:41.830Z",
+  "count": 10,
   "items": [
     {
       "rank": 1,
       "title": "天舟十号飞行任务标识正式发布",
-      "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E8%88%9F%E5%8D%81%E5%8F%B7%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1%E6%A0%87%E8%AF%86%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-      "meta": "话题"
+      "url": "https://k.sina.com.cn/article_6192937794_17120bb4202002oz3q.html?from=mil",
+      "meta": "新闻"
     },
     {
       "rank": 2,
-      "title": "浪姐一公小考取消直播",
-      "url": "https://k.sina.com.cn/article_6377398640_17c1f617004001nv84.html?from=edu",
-      "meta": "新闻"
-    },
-    {
-      "rank": 3,
-      "title": "5月放假12天",
-      "url": "https://s.weibo.com/weibo?q=5%E6%9C%88%E6%94%BE%E5%81%8712%E5%A4%A9",
-      "meta": "话题"
-    },
-    {
-      "rank": 4,
-      "title": "黄金或面临长期盘整",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019042h4w.html?from=finance",
-      "meta": "新闻"
-    },
-    {
-      "rank": 5,
-      "title": "保护地球 恒动不息",
-      "url": "https://news.sina.com.cn/zx/2026-04-02/doc-inhtcfxx4341098.shtml",
-      "meta": "新闻"
-    },
-    {
-      "rank": 6,
-      "title": "韩国人称为吃地瓜条专门来中国",
-      "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%A7%B0%E4%B8%BA%E5%90%83%E5%9C%B0%E7%93%9C%E6%9D%A1%E4%B8%93%E9%97%A8%E6%9D%A5%E4%B8%AD%E5%9B%BD",
-      "meta": "话题"
-    },
-    {
-      "rank": 7,
-      "title": "米卢去世？假消息！",
-      "url": "https://news.sina.com.cn/zx/2026-04-07/doc-inhtrytf7273812.shtml",
-      "meta": "新闻"
-    },
-    {
-      "rank": 8,
       "title": "张本智和近距离感受国乒队魂",
       "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%BF%91%E8%B7%9D%E7%A6%BB%E6%84%9F%E5%8F%97%E5%9B%BD%E4%B9%92%E9%98%9F%E9%AD%82",
       "meta": "话题"
     },
     {
-      "rank": 9,
+      "rank": 3,
       "title": "日本撞人族被抓后鞠躬道歉",
       "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%92%9E%E4%BA%BA%E6%97%8F%E8%A2%AB%E6%8A%93%E5%90%8E%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89",
       "meta": "话题"
+    },
+    {
+      "rank": 4,
+      "title": "奥迪登顶亚洲山脊赛道最速SUV",
+      "url": "https://k.sina.com.cn/article_5033715227_12c08661b04001ahoo.html?from=auto&subch=oauto",
+      "meta": "新闻"
+    },
+    {
+      "rank": 5,
+      "title": "中方回应是否延长对俄罗斯免签",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%BB%B6%E9%95%BF%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%8D%E7%AD%BE",
+      "meta": "话题"
+    },
+    {
+      "rank": 6,
+      "title": "保护地球 恒动不息",
+      "url": "https://news.sina.com.cn/zx/2026-04-02/doc-inhtcfxx4341098.shtml",
+      "meta": "新闻"
+    },
+    {
+      "rank": 7,
+      "title": "小徐谈研究生有多挣钱",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%BE%90%E8%B0%88%E7%A0%94%E7%A9%B6%E7%94%9F%E6%9C%89%E5%A4%9A%E6%8C%A3%E9%92%B1",
+      "meta": "话题"
+    },
+    {
+      "rank": 8,
+      "title": "米卢去世？假消息！",
+      "url": "https://news.sina.com.cn/zx/2026-04-07/doc-inhtrytf7273812.shtml",
+      "meta": "新闻"
+    },
+    {
+      "rank": 9,
+      "title": "黄金或面临长期盘整",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019042h4w.html?from=finance",
+      "meta": "新闻"
+    },
+    {
+      "rank": 10,
+      "title": "反诈老陈连续4年晒纳税",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019042jwi.html?from=finance",
+      "meta": "新闻"
     }
   ]
 }
