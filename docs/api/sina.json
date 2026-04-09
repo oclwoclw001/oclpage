@@ -1,31 +1,31 @@
 {
   "source": "sina",
-  "updatedAt": "2026-04-09T14:02:43.757Z",
-  "count": 6,
+  "updatedAt": "2026-04-09T16:22:48.814Z",
+  "count": 7,
   "items": [
     {
       "rank": 1,
-      "title": "爷爷卖16000个烧饼孙女打赏给主播",
-      "url": "https://k.sina.com.cn/article_2863918220_aab3ec8c04001jkju.html?from=news&subch=onews",
-      "meta": "新闻"
+      "title": "男子卖房为母治病打赏女主播22.5万",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E5%8D%96%E6%88%BF%E4%B8%BA%E6%AF%8D%E6%B2%BB%E7%97%85%E6%89%93%E8%B5%8F%E5%A5%B3%E4%B8%BB%E6%92%AD22.5%E4%B8%87",
+      "meta": "话题"
     },
     {
       "rank": 2,
-      "title": "被保时捷车主威胁男子获道歉赔偿",
-      "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%BD%A6%E4%B8%BB%E5%A8%81%E8%83%81%E7%94%B7%E5%AD%90%E8%8E%B7%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF",
+      "title": "武汉有轨电车与电动车相撞",
+      "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E6%9C%89%E8%BD%A8%E7%94%B5%E8%BD%A6%E4%B8%8E%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9B%B8%E6%92%9E",
       "meta": "话题"
     },
     {
       "rank": 3,
-      "title": "sbti测试爆火",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c00190457li.html?from=job",
+      "title": "AI大模型概念股爆发",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019045bqi.html?from=ent",
       "meta": "新闻"
     },
     {
       "rank": 4,
-      "title": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
-      "url": "https://k.sina.com.cn/article_2868370350_aaf7dbae04001qc8q.html?from=ent&subch=oent",
-      "meta": "新闻"
+      "title": "IMSB人格",
+      "url": "https://s.weibo.com/weibo?q=IMSB%E4%BA%BA%E6%A0%BC",
+      "meta": "话题"
     },
     {
       "rank": 5,
@@ -35,9 +35,15 @@
     },
     {
       "rank": 6,
-      "title": "德系品质藏在大众黄金标准里",
-      "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E7%B3%BB%E5%93%81%E8%B4%A8%E8%97%8F%E5%9C%A8%E5%A4%A7%E4%BC%97%E9%BB%84%E9%87%91%E6%A0%87%E5%87%86%E9%87%8C",
+      "title": "测sbti要笑晕了",
+      "url": "https://s.weibo.com/weibo?q=%E6%B5%8Bsbti%E8%A6%81%E7%AC%91%E6%99%95%E4%BA%86",
       "meta": "话题"
+    },
+    {
+      "rank": 7,
+      "title": "农民养老金怎么涨",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019045awu.html?from=news&subch=onews",
+      "meta": "新闻"
     }
   ]
 }
