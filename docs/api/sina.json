@@ -1,60 +1,48 @@
 {
   "source": "sina",
-  "updatedAt": "2026-04-09T09:19:42.919Z",
-  "count": 9,
+  "updatedAt": "2026-04-09T11:07:39.066Z",
+  "count": 7,
   "items": [
     {
       "rank": 1,
-      "title": "孙杨张豆豆有孩子了",
-      "url": "https://k.sina.com.cn/article_6511453608_1841ce5a804001t4eg.html?from=baby",
+      "title": "爷爷卖16000个烧饼孙女打赏给主播",
+      "url": "https://k.sina.com.cn/article_2863918220_aab3ec8c04001jkju.html?from=news&subch=onews",
       "meta": "新闻"
     },
     {
       "rank": 2,
       "title": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
-      "url": "https://k.sina.com.cn/article_1737737970_6793c6f202001rp9w.html?from=news&subch=onews",
+      "url": "https://k.sina.com.cn/article_3995444230_ee25a40600101jskw.html",
       "meta": "新闻"
     },
     {
       "rank": 3,
-      "title": "房贷年利率3.8变8.7五年才发现",
-      "url": "https://k.sina.com.cn/article_1738877650_67a52ad204001aeaw.html?from=estate",
+      "title": "向鹏止步太原站男单首轮",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801rqd6.html?from=sports&subch=osport",
       "meta": "新闻"
     },
     {
       "rank": 4,
-      "title": "莫氏鸡煲老板发声",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019044n98.html?from=ent&subch=oent",
-      "meta": "新闻"
-    },
-    {
-      "rank": 5,
-      "title": "35岁程序员回应转行摆摊月入5万",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019044z62.html?from=food",
-      "meta": "新闻"
-    },
-    {
-      "rank": 6,
-      "title": "王者峡谷变色了",
-      "url": "https://k.sina.com.cn/article_7166576070_1ab2945c6040042heo.html?from=game",
-      "meta": "新闻"
-    },
-    {
-      "rank": 7,
-      "title": "“深圳超大医院遇冷、八万床位空置” ？官方辟谣",
-      "url": "https://news.sina.com.cn/c/2026-04-08/doc-inhtuupx6438862.shtml",
-      "meta": "新闻"
-    },
-    {
-      "rank": 8,
       "title": "民勤种树女生遭恶意凝视引众怒",
       "url": "https://s.weibo.com/weibo?q=%E6%B0%91%E5%8B%A4%E7%A7%8D%E6%A0%91%E5%A5%B3%E7%94%9F%E9%81%AD%E6%81%B6%E6%84%8F%E5%87%9D%E8%A7%86%E5%BC%95%E4%BC%97%E6%80%92",
       "meta": "话题"
     },
     {
-      "rank": 9,
-      "title": "香港飞香港XX102不是公益航班",
-      "url": "https://k.sina.com.cn/article_1645578093_6215876d04001qud8.html?from=ent&subch=oent",
+      "rank": 5,
+      "title": "黄金再反转",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E5%86%8D%E5%8F%8D%E8%BD%AC",
+      "meta": "话题"
+    },
+    {
+      "rank": 6,
+      "title": "“深圳超大医院遇冷、八万床位空置” ？官方辟谣",
+      "url": "https://news.sina.com.cn/c/2026-04-08/doc-inhtuupx6438862.shtml",
+      "meta": "新闻"
+    },
+    {
+      "rank": 7,
+      "title": "孙杨张豆豆有孩子了",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c00190454x2.html?from=sports&subch=osport",
       "meta": "新闻"
     }
   ]
