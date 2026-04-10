@@ -1,60 +1,48 @@
 {
   "source": "sina",
-  "updatedAt": "2026-04-10T10:14:03.203Z",
-  "count": 9,
+  "updatedAt": "2026-04-10T11:54:47.108Z",
+  "count": 7,
   "items": [
     {
       "rank": 1,
-      "title": "打压遏制中国到了疯狂的程度",
-      "url": "https://k.sina.com.cn/article_1686546714_6486a91a019042qxu.html",
-      "meta": "新闻"
-    },
-    {
-      "rank": 2,
       "title": "中方回应日本降级中日关系",
       "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%99%8D%E7%BA%A7%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB",
       "meta": "话题"
     },
     {
+      "rank": 2,
+      "title": "特斯拉ModelY再登国内销量冠军",
+      "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89ModelY%E5%86%8D%E7%99%BB%E5%9B%BD%E5%86%85%E9%94%80%E9%87%8F%E5%86%A0%E5%86%9B",
+      "meta": "话题"
+    },
+    {
       "rank": 3,
-      "title": "一蓄电池企业让员工体检前吃排铅药",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019046g2k.html?from=news&subch=onews",
+      "title": "李天阳3比0陈垣宇",
+      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801rv08.html?from=sports&subch=osport",
       "meta": "新闻"
     },
     {
       "rank": 4,
-      "title": "高质量发展中国行",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019046f3g.html?from=science",
+      "title": "教资将考AI",
+      "url": "https://k.sina.com.cn/article_5541011958_14a4521f604001dkjk.html",
       "meta": "新闻"
     },
     {
       "rank": 5,
-      "title": "猪的抑郁症表现行为",
-      "url": "https://s.weibo.com/weibo?q=%E7%8C%AA%E7%9A%84%E6%8A%91%E9%83%81%E7%97%87%E8%A1%A8%E7%8E%B0%E8%A1%8C%E4%B8%BA",
-      "meta": "话题"
-    },
-    {
-      "rank": 6,
-      "title": "奔驰客服回应奔驰疑似被当陪葬品",
-      "url": "https://k.sina.com.cn/article_2290787940_888aa66401901iui8.html?from=society",
+      "title": "浪姐一公直播",
+      "url": "https://k.sina.com.cn/article_6580970034_18841a23204001aao8.html?from=ent&subch=oent",
       "meta": "新闻"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "特斯拉辟谣研发更小的电动SUV：消息不实",
       "url": "https://k.sina.com.cn/article_1644114654_61ff32de020024nhs.html?from=news&subch=onews",
       "meta": "新闻"
     },
     {
-      "rank": 8,
-      "title": "世界真的越来越安静了",
-      "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E7%9C%9F%E7%9A%84%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%AE%89%E9%9D%99%E4%BA%86",
-      "meta": "话题"
-    },
-    {
-      "rank": 9,
-      "title": "毛晓慧领衔主演十日终焉",
-      "url": "https://k.sina.com.cn/article_5874584452_15e270b8404001aam0.html?from=ent&subch=oent",
+      "rank": 7,
+      "title": "赵丽颖工作室发楚乔传采访",
+      "url": "https://k.sina.com.cn/article_5601456932_14ddf732404002gomq.html?from=movie",
       "meta": "新闻"
     }
   ]
