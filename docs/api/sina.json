@@ -1,36 +1,54 @@
 {
   "source": "sina",
-  "updatedAt": "2026-04-16T03:37:43.851Z",
-  "count": 5,
+  "updatedAt": "2026-04-16T06:08:44.004Z",
+  "count": 8,
   "items": [
     {
       "rank": 1,
-      "title": "皇马两大球星场上吵架",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904dm02.html?from=sports&subch=osport",
+      "title": "外籍乘客对着营区拍照被司机送进部队",
+      "url": "https://k.sina.com.cn/article_5787187353_158f17899020023c16.html",
       "meta": "新闻"
     },
     {
       "rank": 2,
-      "title": "樊振东英文告别主场球迷",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904dlas.html?from=sports&subch=osport",
-      "meta": "新闻"
+      "title": "医院测出智障高三学生再发声",
+      "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E9%99%A2%E6%B5%8B%E5%87%BA%E6%99%BA%E9%9A%9C%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%86%8D%E5%8F%91%E5%A3%B0",
+      "meta": "话题"
     },
     {
       "rank": 3,
-      "title": "全国工程建设小阳春",
-      "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%BB%BA%E8%AE%BE%E5%B0%8F%E9%98%B3%E6%98%A5",
+      "title": "遭割喉男孩还有一段气管没找到",
+      "url": "https://s.weibo.com/weibo?q=%E9%81%AD%E5%89%B2%E5%96%89%E7%94%B7%E5%AD%A9%E8%BF%98%E6%9C%89%E4%B8%80%E6%AE%B5%E6%B0%94%E7%AE%A1%E6%B2%A1%E6%89%BE%E5%88%B0",
       "meta": "话题"
     },
     {
       "rank": 4,
-      "title": "法国将不义之财归还被抢掠的中国",
-      "url": "https://k.sina.com.cn/article_1746067030_6812de56019016asw.html?from=news&subch=onews",
+      "title": "全国工程建设小阳春",
+      "url": "https://news.sina.cn/bignews/2026-04-16/detail-inhuskun1647183.d.html",
       "meta": "新闻"
     },
     {
       "rank": 5,
-      "title": "小米史上最大电池手机曝光",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904dpeu.html?from=digit",
+      "title": "勇士淘汰快船",
+      "url": "https://k.sina.com.cn/article_2431485513_90ed8649040019nao.html?from=sports",
+      "meta": "新闻"
+    },
+    {
+      "rank": 6,
+      "title": "男子伸咸猪手被女老板扇飞眼镜",
+      "url": "https://k.sina.com.cn/article_1844967414_6df7f7f602002grb8.html?from=news&subch=onews",
+      "meta": "新闻"
+    },
+    {
+      "rank": 7,
+      "title": "库里就是三分的神",
+      "url": "https://k.sina.com.cn/article_7096022664_1a6f4b68802001e6q4.html?from=sports&subch=osport",
+      "meta": "新闻"
+    },
+    {
+      "rank": 8,
+      "title": "日本11岁男童失踪20余天惊人反转",
+      "url": "https://k.sina.com.cn/article_1844967414_6df7f7f602002grc4.html?from=news",
       "meta": "新闻"
     }
   ]
