@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-04-17T21:55:25.231Z",
-  "count": 12,
+  "updatedAt": "2026-04-17T22:52:45.786Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,48 +32,6 @@
       "title": "说聊斋 话国安",
       "url": "http://www.zbnews.net/content/2026-04/13/content_3190682.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "「权威发布」巩固粮食产能!_淄博_ 以“两个提升”筑牢粮食安全根基",
-      "url": "https://baijiahao.baidu.com/s?id=1862704320645596946&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "「权威发布」突出规划引领、城乡融合、项目支撑 _淄博_ 聚力打造乡村...",
-      "url": "https://baijiahao.baidu.com/s?id=1862706176065007146&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "权威发布丨科技+改革双轮驱动 _淄博_ 以“片区化”路径推进乡村全面...",
-      "url": "https://baijiahao.baidu.com/s?id=1862688817274145865&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "3天4校1238人次达成意向,_淄博_ 石化名城与东北英才“双向奔赴”",
-      "url": "https://baijiahao.baidu.com/s?id=1862688338738833731&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "沉浸式思政课!_淄博_ 青年这样解锁国家安全教育新打开方式",
-      "url": "https://baijiahao.baidu.com/s?id=1862724553417640733&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博市_ 公安局柳泉分局关于公开征集“六霸”涉黑涉恶犯罪线索的通告",
-      "url": "http://baijiahao.baidu.com/s?id=1862725689561608796&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "金融活水润泽产业链,中华财险 _淄博_ 中支定制“一揽子”保险护航生鲜...",
-      "url": "https://baijiahao.baidu.com/s?id=1862724175809792978&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -116,50 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "「权威发布」巩固粮食产能!_淄博_ 以“两个提升”筑牢粮食安全根基",
-          "url": "https://baijiahao.baidu.com/s?id=1862704320645596946&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "「权威发布」突出规划引领、城乡融合、项目支撑 _淄博_ 聚力打造乡村...",
-          "url": "https://baijiahao.baidu.com/s?id=1862706176065007146&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "权威发布丨科技+改革双轮驱动 _淄博_ 以“片区化”路径推进乡村全面...",
-          "url": "https://baijiahao.baidu.com/s?id=1862688817274145865&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "3天4校1238人次达成意向,_淄博_ 石化名城与东北英才“双向奔赴”",
-          "url": "https://baijiahao.baidu.com/s?id=1862688338738833731&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "沉浸式思政课!_淄博_ 青年这样解锁国家安全教育新打开方式",
-          "url": "https://baijiahao.baidu.com/s?id=1862724553417640733&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博市_ 公安局柳泉分局关于公开征集“六霸”涉黑涉恶犯罪线索的通告",
-          "url": "http://baijiahao.baidu.com/s?id=1862725689561608796&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "金融活水润泽产业链,中华财险 _淄博_ 中支定制“一揽子”保险护航生鲜...",
-          "url": "https://baijiahao.baidu.com/s?id=1862724175809792978&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
