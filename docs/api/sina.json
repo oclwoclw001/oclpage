@@ -1,55 +1,49 @@
 {
   "source": "sina",
-  "updatedAt": "2026-04-20T14:04:14.300Z",
-  "count": 8,
+  "updatedAt": "2026-04-20T16:17:36.203Z",
+  "count": 7,
   "items": [
     {
       "rank": 1,
-      "title": "19岁女孩挪用1700万当榜一大姐",
-      "url": "https://s.weibo.com/weibo?q=19%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%8C%AA%E7%94%A81700%E4%B8%87%E5%BD%93%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%A7%90",
-      "meta": "话题"
+      "title": "丁俊晖回应将对阵赵心童",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904jcyy.html?from=sports&subch=osport",
+      "meta": "新闻"
     },
     {
       "rank": 2,
-      "title": "硬核数据看中国经济动力澎湃",
-      "url": "https://s.weibo.com/weibo?q=%E7%A1%AC%E6%A0%B8%E6%95%B0%E6%8D%AE%E7%9C%8B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8A%A8%E5%8A%9B%E6%BE%8E%E6%B9%83",
-      "meta": "话题"
+      "title": "华为发布会",
+      "url": "https://k.sina.com.cn/article_6581001243_188421c1b04001jl2y.html?from=ent&subch=oent",
+      "meta": "新闻"
     },
     {
       "rank": 3,
-      "title": "老人打赏花330万却交不起15元电费",
-      "url": "https://s.weibo.com/weibo?q=%E8%80%81%E4%BA%BA%E6%89%93%E8%B5%8F%E8%8A%B1330%E4%B8%87%E5%8D%B4%E4%BA%A4%E4%B8%8D%E8%B5%B715%E5%85%83%E7%94%B5%E8%B4%B9",
-      "meta": "话题"
+      "title": "MCN回应女孩挪用1700万打赏主播",
+      "url": "https://k.sina.com.cn/article_1640601392_61c9973004001ko9g.html?from=news&subch=onews",
+      "meta": "新闻"
     },
     {
       "rank": 4,
-      "title": "五花肉里有一块绿色的东西",
-      "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E8%8A%B1%E8%82%89%E9%87%8C%E6%9C%89%E4%B8%80%E5%9D%97%E7%BB%BF%E8%89%B2%E7%9A%84%E4%B8%9C%E8%A5%BF",
+      "title": "各国网民线上嘲讽日本人",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%84%E5%9B%BD%E7%BD%91%E6%B0%91%E7%BA%BF%E4%B8%8A%E5%98%B2%E8%AE%BD%E6%97%A5%E6%9C%AC%E4%BA%BA",
       "meta": "话题"
     },
     {
       "rank": 5,
-      "title": "BLG对战iG",
-      "url": "https://k.sina.com.cn/article_5625254784_14f4a938004001r0s8.html?from=game&subch=ogame",
-      "meta": "新闻"
-    },
-    {
-      "rank": 6,
       "title": "领取失业保险金影响养老金？官方辟谣",
       "url": "https://k.sina.com.cn/article_5812119316_15a6de71402001f02s.html?from=news&subch=onews",
       "meta": "新闻"
     },
     {
-      "rank": 7,
-      "title": "被大众云栖智舱狠狠圈粉了",
-      "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E5%A4%A7%E4%BC%97%E4%BA%91%E6%A0%96%E6%99%BA%E8%88%B1%E7%8B%A0%E7%8B%A0%E5%9C%88%E7%B2%89%E4%BA%86",
-      "meta": "话题"
+      "rank": 6,
+      "title": "丁俊晖晋级世锦赛16强",
+      "url": "https://news.sina.cn/bignews/2026-04-20/detail-inhvczzx8500023.d.html",
+      "meta": "新闻"
     },
     {
-      "rank": 8,
-      "title": "十二星座本周好运tips",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904j6dy.html?from=astro",
-      "meta": "新闻"
+      "rank": 7,
+      "title": "上海男篮vs辽宁男篮",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E7%94%B7%E7%AF%AEvs%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE",
+      "meta": "话题"
     }
   ]
 }
