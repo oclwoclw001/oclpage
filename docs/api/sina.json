@@ -1,42 +1,48 @@
 {
   "source": "sina",
-  "updatedAt": "2026-04-21T03:34:52.297Z",
-  "count": 6,
+  "updatedAt": "2026-04-21T06:09:03.389Z",
+  "count": 7,
   "items": [
     {
       "rank": 1,
-      "title": "平台回应女孩公款打赏主播上千万",
-      "url": "https://k.sina.com.cn/article_1670183810_638cfb8204001ivwk.html?from=news&subch=onews",
+      "title": "苹果新任CEO特努斯是谁",
+      "url": "https://news.sina.cn/2026-04-21/detail-inhvfqch6338164.d.html",
       "meta": "新闻"
     },
     {
       "rank": 2,
-      "title": "爱奇艺再回应AI艺人库",
-      "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%86%8D%E5%9B%9E%E5%BA%94AI%E8%89%BA%E4%BA%BA%E5%BA%93",
-      "meta": "话题"
-    },
-    {
-      "rank": 3,
-      "title": "不尊重观众",
-      "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8A%E9%87%8D%E8%A7%82%E4%BC%97",
-      "meta": "话题"
-    },
-    {
-      "rank": 4,
-      "title": "领取失业保险金影响养老金？官方辟谣",
-      "url": "https://k.sina.com.cn/article_5812119316_15a6de71402001f02s.html?from=news&subch=onews",
+      "title": "SK回应女孩挪用上千万打赏主播",
+      "url": "https://k.sina.com.cn/article_1670183810_638cfb8204001ivwk.html?from=news&subch=onews",
       "meta": "新闻"
     },
     {
+      "rank": 3,
+      "title": "新疆的作息时间太适合年轻人了",
+      "url": "https://k.sina.com.cn/article_2427613143_90b26fd704001dcci.html?from=sports&subch=osport",
+      "meta": "新闻"
+    },
+    {
+      "rank": 4,
+      "title": "县城农村成了AB货重灾区",
+      "url": "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%9F%8E%E5%86%9C%E6%9D%91%E6%88%90%E4%BA%86AB%E8%B4%A7%E9%87%8D%E7%81%BE%E5%8C%BA",
+      "meta": "话题"
+    },
+    {
       "rank": 5,
-      "title": "丁俊晖赵心童回应对决",
-      "url": "https://k.sina.com.cn/article_7095179041_v1a6e7d72106801stxq.html?from=sports&subch=osport",
+      "title": "专家曾辟谣问荆草找黄金",
+      "url": "https://k.sina.com.cn/article_1668589317_m6374a70503301cg4w.html?from=local",
       "meta": "新闻"
     },
     {
       "rank": 6,
-      "title": "骑士2比0猛龙",
-      "url": "https://k.sina.com.cn/article_2431485513_90ed8649040019obw.html?from=sports&subch=osport",
+      "title": "当财务去看演唱会",
+      "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E8%B4%A2%E5%8A%A1%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A",
+      "meta": "话题"
+    },
+    {
+      "rank": 7,
+      "title": "森林狼vs掘金",
+      "url": "https://k.sina.com.cn/article_7879923915_1d5ae18cb06801dtqa.html?from=sports&subch=osport",
       "meta": "新闻"
     }
   ]
