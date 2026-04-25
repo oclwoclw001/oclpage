@@ -1,7 +1,7 @@
 {
   "source": "sina",
-  "updatedAt": "2026-04-25T10:53:01.516Z",
-  "count": 7,
+  "updatedAt": "2026-04-25T11:45:49.333Z",
+  "count": 9,
   "items": [
     {
       "rank": 1,
@@ -17,9 +17,9 @@
     },
     {
       "rank": 3,
-      "title": "近3公斤黄金被扣30年银行账目已毁",
-      "url": "https://s.weibo.com/weibo?q=%E8%BF%913%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E9%93%B6%E8%A1%8C%E8%B4%A6%E7%9B%AE%E5%B7%B2%E6%AF%81",
-      "meta": "话题"
+      "title": "铁路部门将开行179趟旅游列车",
+      "url": "https://k.sina.com.cn/article_1912964267_720584ab040024xay.html?from=news&subch=onews",
+      "meta": "新闻"
     },
     {
       "rank": 4,
@@ -29,21 +29,33 @@
     },
     {
       "rank": 5,
+      "title": "杨威两女儿勇夺全国冠军和季军",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A8%81%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%8B%87%E5%A4%BA%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B%E5%92%8C%E5%AD%A3%E5%86%9B",
+      "meta": "话题"
+    },
+    {
+      "rank": 6,
+      "title": "张雪机车香港爆单遭同行诋毁",
+      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E9%A6%99%E6%B8%AF%E7%88%86%E5%8D%95%E9%81%AD%E5%90%8C%E8%A1%8C%E8%AF%8B%E6%AF%81",
+      "meta": "话题"
+    },
+    {
+      "rank": 7,
       "title": "林俊杰方发布严正声明辟谣网传演唱会",
       "url": "https://news.sina.com.cn/zx/2026-04-25/doc-inhvsqph4072791.shtml",
       "meta": "新闻"
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "大喊不用结账的摊主爆单了",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%96%8A%E4%B8%8D%E7%94%A8%E7%BB%93%E8%B4%A6%E7%9A%84%E6%91%8A%E4%B8%BB%E7%88%86%E5%8D%95%E4%BA%86",
+      "meta": "话题"
+    },
+    {
+      "rank": 9,
       "title": "疾风骤雨中三枚历史首金光芒闪耀",
       "url": "https://k.sina.com.cn/article_5328858693_13d9fee4502002d03m.html?from=news&subch=onews",
       "meta": "新闻"
-    },
-    {
-      "rank": 7,
-      "title": "杨威两女儿勇夺全国冠军和季军",
-      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A8%81%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%8B%87%E5%A4%BA%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B%E5%92%8C%E5%AD%A3%E5%86%9B",
-      "meta": "话题"
     }
   ]
 }
