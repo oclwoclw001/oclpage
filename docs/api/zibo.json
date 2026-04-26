@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-04-26T13:23:57.202Z",
-  "count": 5,
+  "updatedAt": "2026-04-26T14:54:43.192Z",
+  "count": 13,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,54 @@
       "title": "出征",
       "url": "http://www.zbnews.net/content/2026-04/20/content_3191111.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "鲁藏情深双向奔赴 在 _淄博_ 遇见原汁原味的雪域风情",
+      "url": "https://baijiahao.baidu.com/s?id=1863541248621306978&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "2026山东文旅大会 _淄博_ 启幕,共绘高质量发展新蓝图",
+      "url": "https://baijiahao.baidu.com/s?id=1863510189895265351&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "26日午后到夜间,_淄博_ 有一次强对流天气过程",
+      "url": "https://baijiahao.baidu.com/s?id=1863523057408692392&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "财经连线|这家 _淄博_ 企业,与国家发改委主任面对面",
+      "url": "https://baijiahao.baidu.com/s?id=1863522594446434688&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "燃情 _淄博_ 呈现一城精彩",
+      "url": "https://baijiahao.baidu.com/s?id=1863135753924782727&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "「齐风论」_淄博_ 以城之名、举城之力迎盛会",
+      "url": "https://baijiahao.baidu.com/s?id=1863069788309964968&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "淄博_ 迎来小雨转多云天气,未来三天气温波动较大",
+      "url": "https://baijiahao.baidu.com/s?id=1863484302434319875&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "注意啦!_淄博市_ 科技馆2026年春假及五一假期开闭馆安排来了",
+      "url": "https://baijiahao.baidu.com/s?id=1863522531694983039&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +122,56 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "鲁藏情深双向奔赴 在 _淄博_ 遇见原汁原味的雪域风情",
+          "url": "https://baijiahao.baidu.com/s?id=1863541248621306978&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "2026山东文旅大会 _淄博_ 启幕,共绘高质量发展新蓝图",
+          "url": "https://baijiahao.baidu.com/s?id=1863510189895265351&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "26日午后到夜间,_淄博_ 有一次强对流天气过程",
+          "url": "https://baijiahao.baidu.com/s?id=1863523057408692392&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "财经连线|这家 _淄博_ 企业,与国家发改委主任面对面",
+          "url": "https://baijiahao.baidu.com/s?id=1863522594446434688&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "燃情 _淄博_ 呈现一城精彩",
+          "url": "https://baijiahao.baidu.com/s?id=1863135753924782727&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "「齐风论」_淄博_ 以城之名、举城之力迎盛会",
+          "url": "https://baijiahao.baidu.com/s?id=1863069788309964968&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "淄博_ 迎来小雨转多云天气,未来三天气温波动较大",
+          "url": "https://baijiahao.baidu.com/s?id=1863484302434319875&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "注意啦!_淄博市_ 科技馆2026年春假及五一假期开闭馆安排来了",
+          "url": "https://baijiahao.baidu.com/s?id=1863522531694983039&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
