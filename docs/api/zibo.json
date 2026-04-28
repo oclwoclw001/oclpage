@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-04-28T03:55:35.078Z",
-  "count": 13,
+  "updatedAt": "2026-04-28T09:30:36.822Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,54 +32,6 @@
       "title": "灯光焕新 点亮城市",
       "url": "http://www.zbnews.net/content/2026-04/23/content_3191309.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博市_ 博山区四十亩地小学举行数学节活动",
-      "url": "https://baijiahao.baidu.com/s?id=1863677732850695755&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 春日“鲜味接力”串起乡村振兴图景",
-      "url": "http://news.10jqka.com.cn/20260428/c676326978.shtml",
-      "meta": "news.10jqka.com.cn"
-    },
-    {
-      "rank": 3,
-      "title": "五一假期倒计时!_淄博_ 博山交警送教进课堂",
-      "url": "https://baijiahao.baidu.com/s?id=1863677795603159958&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "山东省 _淄博市_ 十中举行五一劳动节主题升旗仪式",
-      "url": "https://baijiahao.baidu.com/s?id=1863678402902637345&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博市_ 今日天气阴转多云,未来三天气温逐步回升",
-      "url": "https://baijiahao.baidu.com/s?id=1863663525470214968&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "警惕!_淄博_ 一11岁学生被骗2.76万元",
-      "url": "https://baijiahao.baidu.com/s?id=1863675381390950337&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "从广州到 _淄博_,员工拒绝调岗遭辞退!法院判公司赔50万元",
-      "url": "https://baijiahao.baidu.com/s?id=1863629269980444507&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "有大变化!就在 _淄博_ 这些网红打卡地!超全宝藏玩法请收好→",
-      "url": "https://baijiahao.baidu.com/s?id=1863251014213847766&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -122,56 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博市_ 博山区四十亩地小学举行数学节活动",
-          "url": "https://baijiahao.baidu.com/s?id=1863677732850695755&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 春日“鲜味接力”串起乡村振兴图景",
-          "url": "http://news.10jqka.com.cn/20260428/c676326978.shtml",
-          "meta": "news.10jqka.com.cn"
-        },
-        {
-          "rank": 3,
-          "title": "五一假期倒计时!_淄博_ 博山交警送教进课堂",
-          "url": "https://baijiahao.baidu.com/s?id=1863677795603159958&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "山东省 _淄博市_ 十中举行五一劳动节主题升旗仪式",
-          "url": "https://baijiahao.baidu.com/s?id=1863678402902637345&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博市_ 今日天气阴转多云,未来三天气温逐步回升",
-          "url": "https://baijiahao.baidu.com/s?id=1863663525470214968&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "警惕!_淄博_ 一11岁学生被骗2.76万元",
-          "url": "https://baijiahao.baidu.com/s?id=1863675381390950337&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "从广州到 _淄博_,员工拒绝调岗遭辞退!法院判公司赔50万元",
-          "url": "https://baijiahao.baidu.com/s?id=1863629269980444507&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "有大变化!就在 _淄博_ 这些网红打卡地!超全宝藏玩法请收好→",
-          "url": "https://baijiahao.baidu.com/s?id=1863251014213847766&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
