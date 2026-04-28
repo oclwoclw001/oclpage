@@ -1,67 +1,61 @@
 {
   "source": "sina",
-  "updatedAt": "2026-04-27T23:05:22.677Z",
-  "count": 10,
+  "updatedAt": "2026-04-28T03:55:35.078Z",
+  "count": 9,
   "items": [
     {
       "rank": 1,
-      "title": "乘客买到高铁08车01C座上车懵了",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904shai.html?from=news&subch=onews",
-      "meta": "新闻"
-    },
-    {
-      "rank": 2,
-      "title": "妇联正在核实孕妇遭丈夫辱骂后引产",
-      "url": "https://s.weibo.com/weibo?q=%E5%A6%87%E8%81%94%E6%AD%A3%E5%9C%A8%E6%A0%B8%E5%AE%9E%E5%AD%95%E5%A6%87%E9%81%AD%E4%B8%88%E5%A4%AB%E8%BE%B1%E9%AA%82%E5%90%8E%E5%BC%95%E4%BA%A7",
+      "title": "境外组织大力资助网红煽动躺平",
+      "url": "https://s.weibo.com/weibo?q=%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E5%A4%A7%E5%8A%9B%E8%B5%84%E5%8A%A9%E7%BD%91%E7%BA%A2%E7%85%BD%E5%8A%A8%E8%BA%BA%E5%B9%B3",
       "meta": "话题"
     },
     {
+      "rank": 2,
+      "title": "乘客买到高铁08车01C座上车懵了",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904swki.html?from=news&subch=onews",
+      "meta": "新闻"
+    },
+    {
       "rank": 3,
-      "title": "国产开源大模型下载量破100亿次",
-      "url": "https://k.sina.com.cn/article_7096020433_v1a6f4add106801hhl2.html?from=tech",
+      "title": "农夫山泉回应瓶盖疑似设计缺陷",
+      "url": "https://k.sina.com.cn/article_5787187353_v158f17899020023nwq.html?from=home",
       "meta": "新闻"
     },
     {
       "rank": 4,
-      "title": "被AI骗去毒蛇窝徒步",
-      "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5",
-      "meta": "话题"
+      "title": "全球最大钠离子电池订单",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904stlu.html?from=tech",
+      "meta": "新闻"
     },
     {
       "rank": 5,
       "title": "莫德里奇赛季报销",
-      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801tvvy.html?from=sports&subch=osport",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904suwu.html",
       "meta": "新闻"
     },
     {
       "rank": 6,
-      "title": "桃黑黑腿太粗按到了电源键",
-      "url": "https://s.weibo.com/weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%E8%85%BF%E5%A4%AA%E7%B2%97%E6%8C%89%E5%88%B0%E4%BA%86%E7%94%B5%E6%BA%90%E9%94%AE",
-      "meta": "话题"
+      "title": "王楚钦孙颖莎凌晨到达伦敦",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904svlk.html?from=sports&subch=osport",
+      "meta": "新闻"
     },
     {
       "rank": 7,
-      "title": "领克900为什么要做这么大的五座",
-      "url": "https://s.weibo.com/weibo?q=%E9%A2%86%E5%85%8B900%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%81%9A%E8%BF%99%E4%B9%88%E5%A4%A7%E7%9A%84%E4%BA%94%E5%BA%A7",
-      "meta": "话题"
+      "title": "广西阳朔辟谣“89岁售卖花环老人无儿无女、生活孤苦”",
+      "url": "https://news.sina.com.cn/c/2026-04-28/doc-inhvzfsq7380334.shtml",
+      "meta": "新闻"
     },
     {
       "rank": 8,
-      "title": "春日辟谣图鉴 | 别让“政策红利”变成“钱包黑洞”",
-      "url": "https://news.sina.com.cn/zx/2026-04-27/doc-inhvxath9071461.shtml",
+      "title": "误闯天家歌词到底啥意思",
+      "url": "https://k.sina.com.cn/article_7879776328_1d5abd84806801ijfc.html?from=ent&subch=oent",
       "meta": "新闻"
     },
     {
       "rank": 9,
-      "title": "恩比德满血回归",
-      "url": "https://s.weibo.com/weibo?q=%E6%81%A9%E6%AF%94%E5%BE%B7%E6%BB%A1%E8%A1%80%E5%9B%9E%E5%BD%92",
-      "meta": "话题"
-    },
-    {
-      "rank": 10,
-      "title": "高中生水杯被同学投放异物饮后抽搐",
-      "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B0%B4%E6%9D%AF%E8%A2%AB%E5%90%8C%E5%AD%A6%E6%8A%95%E6%94%BE%E5%BC%82%E7%89%A9%E9%A5%AE%E5%90%8E%E6%8A%BD%E6%90%90",
-      "meta": "话题"
+      "title": "现货黄金",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904svjs.html?from=finance",
+      "meta": "新闻"
     }
   ]
 }
