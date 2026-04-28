@@ -1,37 +1,73 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-04-28T09:30:36.822Z",
-  "count": 5,
+  "updatedAt": "2026-04-28T11:53:35.850Z",
+  "count": 11,
   "items": [
     {
       "rank": 1,
-      "title": "引用新技术 激发新动能",
-      "url": "http://www.zbnews.net/content/2026-04/28/content_3191633.html",
-      "meta": "zbnews.net"
-    },
-    {
-      "rank": 2,
-      "title": "冲向山巅",
-      "url": "http://www.zbnews.net/content/2026-04/27/content_3191574.html",
-      "meta": "zbnews.net"
-    },
-    {
-      "rank": 3,
       "title": "检修改造保供电",
       "url": "http://www.zbnews.net/content/2026-04/26/content_3191519.html",
       "meta": "zbnews.net"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "茶树管护忙",
       "url": "http://www.zbnews.net/content/2026-04/24/content_3191378.html",
       "meta": "zbnews.net"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "灯光焕新 点亮城市",
       "url": "http://www.zbnews.net/content/2026-04/23/content_3191309.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博市_ 博山区四十亩地小学举行数学节活动",
+      "url": "https://baijiahao.baidu.com/s?id=1863677732850695755&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "一炉烟火,把好“淄”味烤进好客山东——解锁 _淄博_ 文旅多元魅力",
+      "url": "https://baijiahao.baidu.com/s?id=1863705393654971120&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "广交会见闻⑥|从广州到 _淄博_,客商与宝盖新材的“验厂”约定",
+      "url": "https://baijiahao.baidu.com/s?id=1863702241118316429&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "山东省 _淄博市_ 十中举行五一劳动节主题升旗仪式",
+      "url": "https://baijiahao.baidu.com/s?id=1863678402902637345&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "2026山东省文旅产业高质量发展大会 _淄博_ 开幕 文旅融合展现“好客...",
+      "url": "http://news.10jqka.com.cn/20260428/c676335905.shtml",
+      "meta": "news.10jqka.com.cn"
+    },
+    {
+      "rank": 6,
+      "title": "淄博市_ 消防安全治本攻坚三年行动4月份曝光单位台账发布",
+      "url": "https://baijiahao.baidu.com/s?id=1863694071133605120&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "事关春假及五一假期,_淄博市_ 教育局最新发布!",
+      "url": "https://baijiahao.baidu.com/s?id=1863706271101034852&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "闪电评论|聊斋有戏,_淄博_ 有局",
+      "url": "https://baijiahao.baidu.com/s?id=1863700355240129355&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -41,30 +77,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "引用新技术 激发新动能",
-          "url": "http://www.zbnews.net/content/2026-04/28/content_3191633.html",
-          "meta": "zbnews.net"
-        },
-        {
-          "rank": 2,
-          "title": "冲向山巅",
-          "url": "http://www.zbnews.net/content/2026-04/27/content_3191574.html",
-          "meta": "zbnews.net"
-        },
-        {
-          "rank": 3,
           "title": "检修改造保供电",
           "url": "http://www.zbnews.net/content/2026-04/26/content_3191519.html",
           "meta": "zbnews.net"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "茶树管护忙",
           "url": "http://www.zbnews.net/content/2026-04/24/content_3191378.html",
           "meta": "zbnews.net"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "灯光焕新 点亮城市",
           "url": "http://www.zbnews.net/content/2026-04/23/content_3191309.html",
           "meta": "zbnews.net"
@@ -74,7 +98,56 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博市_ 博山区四十亩地小学举行数学节活动",
+          "url": "https://baijiahao.baidu.com/s?id=1863677732850695755&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "一炉烟火,把好“淄”味烤进好客山东——解锁 _淄博_ 文旅多元魅力",
+          "url": "https://baijiahao.baidu.com/s?id=1863705393654971120&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "广交会见闻⑥|从广州到 _淄博_,客商与宝盖新材的“验厂”约定",
+          "url": "https://baijiahao.baidu.com/s?id=1863702241118316429&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "山东省 _淄博市_ 十中举行五一劳动节主题升旗仪式",
+          "url": "https://baijiahao.baidu.com/s?id=1863678402902637345&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "2026山东省文旅产业高质量发展大会 _淄博_ 开幕 文旅融合展现“好客...",
+          "url": "http://news.10jqka.com.cn/20260428/c676335905.shtml",
+          "meta": "news.10jqka.com.cn"
+        },
+        {
+          "rank": 6,
+          "title": "淄博市_ 消防安全治本攻坚三年行动4月份曝光单位台账发布",
+          "url": "https://baijiahao.baidu.com/s?id=1863694071133605120&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "事关春假及五一假期,_淄博市_ 教育局最新发布!",
+          "url": "https://baijiahao.baidu.com/s?id=1863706271101034852&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "闪电评论|聊斋有戏,_淄博_ 有局",
+          "url": "https://baijiahao.baidu.com/s?id=1863700355240129355&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
