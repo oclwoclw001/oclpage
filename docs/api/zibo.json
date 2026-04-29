@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-04-29T10:14:01.522Z",
-  "count": 13,
+  "updatedAt": "2026-04-29T12:20:19.763Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,54 +32,6 @@
       "title": "茶树管护忙",
       "url": "http://www.zbnews.net/content/2026-04/24/content_3191378.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博市_ 精品旅游促进会第一届第四次会员大会举行",
-      "url": "https://baijiahao.baidu.com/s?id=1863788966523176252&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "气温波动较大!局部有小雨!刚刚,_淄博_ 发布节日天气预报",
-      "url": "https://baijiahao.baidu.com/s?id=1863798012820250675&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "好客山东燃情 _淄博_ 厚植融合发展优势",
-      "url": "https://baijiahao.baidu.com/s?id=1863770562488909836&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "五一假期临近 _淄博_ 博山交警送教进课堂",
-      "url": "https://baijiahao.baidu.com/s?id=1863775915719535020&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "“五一”假期 _淄博_ 天气预报出炉,气温波动较大南风持续时间长",
-      "url": "https://baijiahao.baidu.com/s?id=1863798402902015530&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博_ 站多举措保障五一假期旅客安全顺畅出行",
-      "url": "https://baijiahao.baidu.com/s?id=1863788966523147538&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "淄博_ 傅山地质博物馆人气爆棚,亲子研学热掀起科普新风尚",
-      "url": "https://baijiahao.baidu.com/s?id=1863762572627204747&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "淄博_ 发布最新人事任免!",
-      "url": "https://baijiahao.baidu.com/s?id=1863799039059555588&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -122,56 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博市_ 精品旅游促进会第一届第四次会员大会举行",
-          "url": "https://baijiahao.baidu.com/s?id=1863788966523176252&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "气温波动较大!局部有小雨!刚刚,_淄博_ 发布节日天气预报",
-          "url": "https://baijiahao.baidu.com/s?id=1863798012820250675&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "好客山东燃情 _淄博_ 厚植融合发展优势",
-          "url": "https://baijiahao.baidu.com/s?id=1863770562488909836&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "五一假期临近 _淄博_ 博山交警送教进课堂",
-          "url": "https://baijiahao.baidu.com/s?id=1863775915719535020&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "“五一”假期 _淄博_ 天气预报出炉,气温波动较大南风持续时间长",
-          "url": "https://baijiahao.baidu.com/s?id=1863798402902015530&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博_ 站多举措保障五一假期旅客安全顺畅出行",
-          "url": "https://baijiahao.baidu.com/s?id=1863788966523147538&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "淄博_ 傅山地质博物馆人气爆棚,亲子研学热掀起科普新风尚",
-          "url": "https://baijiahao.baidu.com/s?id=1863762572627204747&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "淄博_ 发布最新人事任免!",
-          "url": "https://baijiahao.baidu.com/s?id=1863799039059555588&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
