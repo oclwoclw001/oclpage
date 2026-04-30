@@ -1,7 +1,7 @@
 {
   "source": "sina",
-  "updatedAt": "2026-04-30T16:25:57.453Z",
-  "count": 9,
+  "updatedAt": "2026-04-30T18:16:22.168Z",
+  "count": 8,
   "items": [
     {
       "rank": 1,
@@ -17,14 +17,14 @@
     },
     {
       "rank": 3,
-      "title": "寒武纪涨停",
-      "url": "https://k.sina.com.cn/article_1644114654_61ff32de0200250zi.html?from=news&subch=onews",
+      "title": "2859克黄金被扣30年迎转机",
+      "url": "https://k.sina.com.cn/article_6105713761_16bedcc61020021t2q.html?from=news&subch=onews",
       "meta": "新闻"
     },
     {
       "rank": 4,
-      "title": "苹果电脑废纸篓里的废纸谁扔的",
-      "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E5%BA%9F%E7%BA%B8%E7%AF%93%E9%87%8C%E7%9A%84%E5%BA%9F%E7%BA%B8%E8%B0%81%E6%89%94%E7%9A%84",
+      "title": "DeepSeek思考过程好萌",
+      "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C",
       "meta": "话题"
     },
     {
@@ -35,26 +35,20 @@
     },
     {
       "rank": 6,
-      "title": "收货地址不该成为被歧视的理由",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904x578.html?from=tech",
-      "meta": "新闻"
-    },
-    {
-      "rank": 7,
       "title": "4月“科学”流言榜发布",
       "url": "https://news.sina.com.cn/c/2026-04-30/doc-inhwfyep1337419.shtml",
       "meta": "新闻"
     },
     {
+      "rank": 7,
+      "title": "苹果电脑废纸篓里的废纸谁扔的",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E5%BA%9F%E7%BA%B8%E7%AF%93%E9%87%8C%E7%9A%84%E5%BA%9F%E7%BA%B8%E8%B0%81%E6%89%94%E7%9A%84",
+      "meta": "话题"
+    },
+    {
       "rank": 8,
       "title": "金价突涨",
       "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904x8se.html?from=finance",
-      "meta": "新闻"
-    },
-    {
-      "rank": 9,
-      "title": "天津发布房地产新政",
-      "url": "https://k.sina.com.cn/article_3546332963_d360bf2301901jmui.html",
       "meta": "新闻"
     }
   ]
