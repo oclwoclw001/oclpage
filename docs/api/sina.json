@@ -1,6 +1,6 @@
 {
   "source": "sina",
-  "updatedAt": "2026-05-02T15:55:58.131Z",
+  "updatedAt": "2026-05-02T17:00:12.515Z",
   "count": 7,
   "items": [
     {
@@ -23,27 +23,27 @@
     },
     {
       "rank": 4,
-      "title": "匈牙利站赛道超车难度极高",
-      "url": "https://s.weibo.com/weibo?q=%E5%8C%88%E7%89%99%E5%88%A9%E7%AB%99%E8%B5%9B%E9%81%93%E8%B6%85%E8%BD%A6%E9%9A%BE%E5%BA%A6%E6%9E%81%E9%AB%98",
-      "meta": "话题"
-    },
-    {
-      "rank": 5,
-      "title": "网传一亩青小麦卖千元系谣言",
-      "url": "https://video.sina.com.cn/p/news/2026-05-02/detail-inhwaiea7282370.d.html",
-      "meta": "新闻"
-    },
-    {
-      "rank": 6,
       "title": "Tian闹剧结束了",
       "url": "https://k.sina.com.cn/article_2571217862_9941abc604001p93m.html?from=game&subch=ogame",
       "meta": "新闻"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "一诺被开闪光灯",
       "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%E8%A2%AB%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF",
       "meta": "话题"
+    },
+    {
+      "rank": 6,
+      "title": "网传一亩青小麦卖千元系谣言",
+      "url": "https://video.sina.com.cn/p/news/2026-05-02/detail-inhwaiea7282370.d.html",
+      "meta": "新闻"
+    },
+    {
+      "rank": 7,
+      "title": "药明康德董事长年薪近4000万",
+      "url": "https://k.sina.com.cn/article_7095179294_v1a6e7d81e06802k5ec.html?from=finance",
+      "meta": "新闻"
     }
   ]
 }
