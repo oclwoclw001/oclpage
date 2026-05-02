@@ -1,7 +1,7 @@
 {
   "source": "sina",
-  "updatedAt": "2026-05-02T17:00:12.515Z",
-  "count": 7,
+  "updatedAt": "2026-05-02T17:58:27.286Z",
+  "count": 6,
   "items": [
     {
       "rank": 1,
@@ -23,27 +23,21 @@
     },
     {
       "rank": 4,
-      "title": "Tian闹剧结束了",
-      "url": "https://k.sina.com.cn/article_2571217862_9941abc604001p93m.html?from=game&subch=ogame",
+      "title": "西瓜摊老板戴手套用牙签挑瓜籽",
+      "url": "https://k.sina.com.cn/article_7879776328_1d5abd84806801j1y4.html?from=tech",
       "meta": "新闻"
     },
     {
       "rank": 5,
-      "title": "一诺被开闪光灯",
-      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%E8%A2%AB%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF",
-      "meta": "话题"
-    },
-    {
-      "rank": 6,
       "title": "网传一亩青小麦卖千元系谣言",
       "url": "https://video.sina.com.cn/p/news/2026-05-02/detail-inhwaiea7282370.d.html",
       "meta": "新闻"
     },
     {
-      "rank": 7,
-      "title": "药明康德董事长年薪近4000万",
-      "url": "https://k.sina.com.cn/article_7095179294_v1a6e7d81e06802k5ec.html?from=finance",
-      "meta": "新闻"
+      "rank": 6,
+      "title": "被AI误导闯入毒蛇窝女子发声",
+      "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0",
+      "meta": "话题"
     }
   ]
 }
