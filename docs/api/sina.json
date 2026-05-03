@@ -1,36 +1,36 @@
 {
   "source": "sina",
-  "updatedAt": "2026-05-03T14:56:26.188Z",
-  "count": 7,
+  "updatedAt": "2026-05-03T15:55:55.767Z",
+  "count": 6,
   "items": [
     {
       "rank": 1,
-      "title": "中国男团vs瑞典",
-      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801uhsg.html?from=sports&subch=osport",
+      "title": "国乒女团心系男团战况",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019050vn0.html?from=sports&subch=osport",
       "meta": "新闻"
     },
     {
       "rank": 2,
-      "title": "单日近3亿人跨区域流动",
-      "url": "https://k.sina.com.cn/article_1652484947_627eeb5304001uz18.html?from=news&subch=onews",
-      "meta": "新闻"
+      "title": "王楚钦生气了",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%94%9F%E6%B0%94%E4%BA%86",
+      "meta": "话题"
     },
     {
       "rank": 3,
-      "title": "梁靖崑状态",
-      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801uigq.html?from=sports&subch=osport",
+      "title": "中国男团2比2瑞典",
+      "url": "https://k.sina.com.cn/article_5510773324_14877ba4c040029sku.html?from=sports&subch=osport",
       "meta": "新闻"
     },
     {
       "rank": 4,
-      "title": "林诗栋2比3兰弗利",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019051evu.html?from=sports&subch=osport",
+      "title": "伦敦世乒赛",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c00190513fk.html?from=sports&subch=osport",
       "meta": "新闻"
     },
     {
       "rank": 5,
-      "title": "王楚钦手流血了",
-      "url": "https://k.sina.com.cn/article_7879995911_1d5af320706801ui8y.html?from=sports&subch=osport",
+      "title": "梁靖崑状态",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019051fsm.html?from=sports",
       "meta": "新闻"
     },
     {
@@ -38,12 +38,6 @@
       "title": "医生辟谣肌肉痛是横纹肌溶解前兆",
       "url": "https://video.sina.com.cn/p/finance/2026-05-02/detail-inhwpcha9643131.d.html",
       "meta": "新闻"
-    },
-    {
-      "rank": 7,
-      "title": "张继科说国乒男队技术迭代不足",
-      "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E6%8A%80%E6%9C%AF%E8%BF%AD%E4%BB%A3%E4%B8%8D%E8%B6%B3",
-      "meta": "话题"
     }
   ]
 }
