@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-05-06T06:38:33.755Z",
-  "count": 14,
+  "updatedAt": "2026-05-06T09:31:42.228Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,60 +32,6 @@
       "title": "冲向山巅",
       "url": "http://www.zbnews.net/content/2026-04/27/content_3191574.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "“五一”假期 _淄博市_ 文旅市场活力拉满",
-      "url": "https://baijiahao.baidu.com/s?id=1864403262458702065&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "白天赏花灯晚上嗨音乐 _淄博_ 齐彩城玩法拉满",
-      "url": "https://baijiahao.baidu.com/s?id=1864408141984526553&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博_ 博山:爱心捐赠暖人心 乡村振兴添动能",
-      "url": "https://baijiahao.baidu.com/s?id=1864408298265471514&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_:“志愿红”护航“五一”假期 暖心服务彰显城市温度",
-      "url": "https://baijiahao.baidu.com/s?id=1864402539532911094&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "释放文旅大会长尾效应,_淄博_“三思”后行",
-      "url": "https://baijiahao.baidu.com/s?id=1864403174782358049&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "记者观察|从“吃一顿”到“玩一场” _淄博_ 烧烤进阶沉浸式旅游新体验",
-      "url": "https://baijiahao.baidu.com/s?id=1864357993535168373&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "淄博_“五一”假期消费市场活力迸发 销售额达5.64亿元",
-      "url": "http://news.10jqka.com.cn/20260506/c676459321.shtml",
-      "meta": "news.10jqka.com.cn"
-    },
-    {
-      "rank": 8,
-      "title": "山东 _淄博_:假期登山摔伤骨折 消防紧急营救",
-      "url": "https://baijiahao.baidu.com/s?id=1864405653861995645&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 9,
-      "title": "淄博_ 绿周全力筑牢民生保障线",
-      "url": "https://baijiahao.baidu.com/s?id=1863718323825147080&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -128,62 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "“五一”假期 _淄博市_ 文旅市场活力拉满",
-          "url": "https://baijiahao.baidu.com/s?id=1864403262458702065&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "白天赏花灯晚上嗨音乐 _淄博_ 齐彩城玩法拉满",
-          "url": "https://baijiahao.baidu.com/s?id=1864408141984526553&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博_ 博山:爱心捐赠暖人心 乡村振兴添动能",
-          "url": "https://baijiahao.baidu.com/s?id=1864408298265471514&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_:“志愿红”护航“五一”假期 暖心服务彰显城市温度",
-          "url": "https://baijiahao.baidu.com/s?id=1864402539532911094&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "释放文旅大会长尾效应,_淄博_“三思”后行",
-          "url": "https://baijiahao.baidu.com/s?id=1864403174782358049&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "记者观察|从“吃一顿”到“玩一场” _淄博_ 烧烤进阶沉浸式旅游新体验",
-          "url": "https://baijiahao.baidu.com/s?id=1864357993535168373&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "淄博_“五一”假期消费市场活力迸发 销售额达5.64亿元",
-          "url": "http://news.10jqka.com.cn/20260506/c676459321.shtml",
-          "meta": "news.10jqka.com.cn"
-        },
-        {
-          "rank": 8,
-          "title": "山东 _淄博_:假期登山摔伤骨折 消防紧急营救",
-          "url": "https://baijiahao.baidu.com/s?id=1864405653861995645&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 9,
-          "title": "淄博_ 绿周全力筑牢民生保障线",
-          "url": "https://baijiahao.baidu.com/s?id=1863718323825147080&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }

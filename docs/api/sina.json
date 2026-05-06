@@ -1,13 +1,13 @@
 {
   "source": "sina",
-  "updatedAt": "2026-05-06T06:38:33.755Z",
-  "count": 8,
+  "updatedAt": "2026-05-06T09:31:42.228Z",
+  "count": 7,
   "items": [
     {
       "rank": 1,
-      "title": "五一档票房TOP5",
-      "url": "https://k.sina.com.cn/article_1868493055_6f5ef0ff04001ch9y.html?from=movie",
-      "meta": "新闻"
+      "title": "女子将高锰酸钾塞体内消毒引大出血",
+      "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%B0%86%E9%AB%98%E9%94%B0%E9%85%B8%E9%92%BE%E5%A1%9E%E4%BD%93%E5%86%85%E6%B6%88%E6%AF%92%E5%BC%95%E5%A4%A7%E5%87%BA%E8%A1%80",
+      "meta": "话题"
     },
     {
       "rank": 2,
@@ -17,39 +17,33 @@
     },
     {
       "rank": 3,
-      "title": "没绑紧三个字不该成最后遗言",
-      "url": "https://s.weibo.com/weibo?q=%E6%B2%A1%E7%BB%91%E7%B4%A7%E4%B8%89%E4%B8%AA%E5%AD%97%E4%B8%8D%E8%AF%A5%E6%88%90%E6%9C%80%E5%90%8E%E9%81%97%E8%A8%80",
-      "meta": "话题"
-    },
-    {
-      "rank": 4,
       "title": "淘宝免单轮番上阵",
       "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905536s.html?from=tech",
       "meta": "新闻"
     },
     {
+      "rank": 4,
+      "title": "跟着中国国家地理去旅行",
+      "url": "https://s.weibo.com/weibo?q=%E8%B7%9F%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86%E5%8E%BB%E6%97%85%E8%A1%8C",
+      "meta": "话题"
+    },
+    {
       "rank": 5,
-      "title": "以旧换新加力扩围掀起消费新热潮",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019054ztc.html",
-      "meta": "新闻"
+      "title": "iPhone17或成史上最长寿苹果手机",
+      "url": "https://s.weibo.com/weibo?q=iPhone17%E6%88%96%E6%88%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%95%BF%E5%AF%BF%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA",
+      "meta": "话题"
     },
     {
       "rank": 6,
-      "title": "高速全面免费还有多远",
-      "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9F%E5%85%A8%E9%9D%A2%E5%85%8D%E8%B4%B9%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
+      "title": "林诗栋vsO约内斯库",
+      "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8BvsO%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93",
       "meta": "话题"
     },
     {
       "rank": 7,
-      "title": "詹姆斯尽力局",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001905511s.html?from=sports&subch=osport",
-      "meta": "新闻"
-    },
-    {
-      "rank": 8,
-      "title": "高速上一车辆主副驾疑似全在睡觉",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c00190552ek.html?from=news&subch=onews",
-      "meta": "新闻"
+      "title": "帆帆回应",
+      "url": "https://s.weibo.com/weibo?q=%E5%B8%86%E5%B8%86%E5%9B%9E%E5%BA%94",
+      "meta": "话题"
     }
   ]
 }
