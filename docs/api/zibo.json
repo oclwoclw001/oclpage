@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-05-09T09:26:33.947Z",
-  "count": 13,
+  "updatedAt": "2026-05-09T11:03:31.258Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,54 +32,6 @@
       "title": "义诊送健康",
       "url": "http://www.zbnews.net/content/2026-04/30/content_3191765.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博市_ 博山区实验中学:以检促研明方向 深耕细研提质量",
-      "url": "https://baijiahao.baidu.com/s?id=1864693236284281870&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博市_ 博山区实验中学:书香浸润校园 阅读引领成长",
-      "url": "https://baijiahao.baidu.com/s?id=1864692858164368128&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博市_ 博山区实验中学:以青春之声 讲好中国故事",
-      "url": "https://baijiahao.baidu.com/s?id=1864693236287076588&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "深耕电缆检测运维 守护 _淄博_ 工业电力安全",
-      "url": "https://baijiahao.baidu.com/s?id=1864694149848005733&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "打破环节壁垒、重构审批流程 _淄博_ 推出30个审批场景",
-      "url": "https://baijiahao.baidu.com/s?id=1864670302865387854&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博市_ 博山区:奔跑吧少年!校园运动会解锁青春新姿态",
-      "url": "https://baijiahao.baidu.com/s?id=1864702266436550155&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "5月10日直播探秘 _淄博_ 深山古村,看“大锅菜”如何治愈全网",
-      "url": "https://baijiahao.baidu.com/s?id=1864680023561690957&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "淄博_ 交警发布“齐鲁足球超级联赛”临时管控路段和停车提醒",
-      "url": "https://baijiahao.baidu.com/s?id=1864667946318816898&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -122,56 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博市_ 博山区实验中学:以检促研明方向 深耕细研提质量",
-          "url": "https://baijiahao.baidu.com/s?id=1864693236284281870&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博市_ 博山区实验中学:书香浸润校园 阅读引领成长",
-          "url": "https://baijiahao.baidu.com/s?id=1864692858164368128&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博市_ 博山区实验中学:以青春之声 讲好中国故事",
-          "url": "https://baijiahao.baidu.com/s?id=1864693236287076588&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "深耕电缆检测运维 守护 _淄博_ 工业电力安全",
-          "url": "https://baijiahao.baidu.com/s?id=1864694149848005733&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "打破环节壁垒、重构审批流程 _淄博_ 推出30个审批场景",
-          "url": "https://baijiahao.baidu.com/s?id=1864670302865387854&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博市_ 博山区:奔跑吧少年!校园运动会解锁青春新姿态",
-          "url": "https://baijiahao.baidu.com/s?id=1864702266436550155&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "5月10日直播探秘 _淄博_ 深山古村,看“大锅菜”如何治愈全网",
-          "url": "https://baijiahao.baidu.com/s?id=1864680023561690957&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "淄博_ 交警发布“齐鲁足球超级联赛”临时管控路段和停车提醒",
-          "url": "https://baijiahao.baidu.com/s?id=1864667946318816898&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
