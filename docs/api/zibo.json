@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-05-09T21:54:41.080Z",
-  "count": 14,
+  "updatedAt": "2026-05-09T22:55:56.094Z",
+  "count": 15,
   "items": [
     {
       "rank": 1,
@@ -85,6 +85,12 @@
       "rank": 9,
       "title": "5月10日直播探秘 _淄博_ 深山古村,看“大锅菜”如何治愈全网",
       "url": "https://baijiahao.baidu.com/s?id=1864680023561690957&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 10,
+      "title": "山东 _淄博_ 一公司制氢装置闪爆2死1伤,事故调查报告公布",
+      "url": "https://baijiahao.baidu.com/s?id=1864625791710198314&wfr=spider&for=pc",
       "meta": "baijiahao.baidu.com"
     }
   ],
@@ -181,6 +187,12 @@
           "rank": 9,
           "title": "5月10日直播探秘 _淄博_ 深山古村,看“大锅菜”如何治愈全网",
           "url": "https://baijiahao.baidu.com/s?id=1864680023561690957&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 10,
+          "title": "山东 _淄博_ 一公司制氢装置闪爆2死1伤,事故调查报告公布",
+          "url": "https://baijiahao.baidu.com/s?id=1864625791710198314&wfr=spider&for=pc",
           "meta": "baijiahao.baidu.com"
         }
       ]
