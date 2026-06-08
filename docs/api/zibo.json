@@ -1,49 +1,25 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-06-08T00:17:49.083Z",
-  "count": 7,
+  "updatedAt": "2026-06-08T05:59:30.281Z",
+  "count": 3,
   "items": [
     {
       "rank": 1,
-      "title": "黄河壶口瀑布现 “半清半浊”景观",
-      "url": "http://www.zbnews.net/content/2026-06/08/content_3194336.html",
-      "meta": "zbnews.net"
-    },
-    {
-      "rank": 2,
-      "title": "淄博市今年2.88万人参加夏季高考",
-      "url": "http://www.zbnews.net/content/2026-06/07/content_3194278.html",
-      "meta": "zbnews.net"
-    },
-    {
-      "rank": 3,
       "title": "携手献热血 同心护生命",
       "url": "http://www.zbnews.net/content/2026-06/06/content_3194224.html",
       "meta": "zbnews.net"
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "碧水蓝天 美景入画",
       "url": "http://www.zbnews.net/content/2026-06/05/content_3194136.html",
       "meta": "zbnews.net"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "人民日报|_淄博_ 桓台县:更新改造城市闲置地 废旧工厂变身足球公园",
-      "url": "https://baijiahao.baidu.com/s?id=1867023967166897118&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 10个项目入选国家、省2026年高级研修计划",
-      "url": "https://baijiahao.baidu.com/s?id=1867147815812188759&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -53,30 +29,18 @@
       "items": [
         {
           "rank": 1,
-          "title": "黄河壶口瀑布现 “半清半浊”景观",
-          "url": "http://www.zbnews.net/content/2026-06/08/content_3194336.html",
-          "meta": "zbnews.net"
-        },
-        {
-          "rank": 2,
-          "title": "淄博市今年2.88万人参加夏季高考",
-          "url": "http://www.zbnews.net/content/2026-06/07/content_3194278.html",
-          "meta": "zbnews.net"
-        },
-        {
-          "rank": 3,
           "title": "携手献热血 同心护生命",
           "url": "http://www.zbnews.net/content/2026-06/06/content_3194224.html",
           "meta": "zbnews.net"
         },
         {
-          "rank": 4,
+          "rank": 2,
           "title": "碧水蓝天 美景入画",
           "url": "http://www.zbnews.net/content/2026-06/05/content_3194136.html",
           "meta": "zbnews.net"
         },
         {
-          "rank": 5,
+          "rank": 3,
           "title": "非遗蹴鞠进校园",
           "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
           "meta": "zbnews.net"
@@ -86,20 +50,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "人民日报|_淄博_ 桓台县:更新改造城市闲置地 废旧工厂变身足球公园",
-          "url": "https://baijiahao.baidu.com/s?id=1867023967166897118&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 10个项目入选国家、省2026年高级研修计划",
-          "url": "https://baijiahao.baidu.com/s?id=1867147815812188759&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
