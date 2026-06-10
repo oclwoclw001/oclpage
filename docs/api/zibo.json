@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-06-10T08:56:43.949Z",
-  "count": 5,
+  "updatedAt": "2026-06-10T12:32:22.445Z",
+  "count": 12,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,48 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "从矿山“星火”到产业“星河”,_淄博_ 工矿老区蝶变汽车新城",
+      "url": "https://baijiahao.baidu.com/s?id=1867556384463702153&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "淄博_ 师专学子在山东省大学生数学竞赛总决赛中获一等奖",
+      "url": "https://baijiahao.baidu.com/s?id=1867593002263580255&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博市_ 举行国际档案日系列活动",
+      "url": "https://baijiahao.baidu.com/s?id=1867570889254907416&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博市_ 医疗保障局原党组成员,市医疗保障服务中心原党总支书记...",
+      "url": "https://baijiahao.baidu.com/s?id=1867590673828575838&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "未成年人租车上路肇事,租车行竟找人赴现场冒名顶替!_淄博_ 交警处置...",
+      "url": "https://baijiahao.baidu.com/s?id=1867570915781624704&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "淄博_ 淄川烟草:为烟农办实事、解难题",
+      "url": "https://baijiahao.baidu.com/s?id=1867504734478415433&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "央视又推荐 _淄博_ 美食了!隔着屏幕都被香懵了~",
+      "url": "https://baijiahao.baidu.com/s?id=1866898425850804217&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +116,50 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "从矿山“星火”到产业“星河”,_淄博_ 工矿老区蝶变汽车新城",
+          "url": "https://baijiahao.baidu.com/s?id=1867556384463702153&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "淄博_ 师专学子在山东省大学生数学竞赛总决赛中获一等奖",
+          "url": "https://baijiahao.baidu.com/s?id=1867593002263580255&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博市_ 举行国际档案日系列活动",
+          "url": "https://baijiahao.baidu.com/s?id=1867570889254907416&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博市_ 医疗保障局原党组成员,市医疗保障服务中心原党总支书记...",
+          "url": "https://baijiahao.baidu.com/s?id=1867590673828575838&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "未成年人租车上路肇事,租车行竟找人赴现场冒名顶替!_淄博_ 交警处置...",
+          "url": "https://baijiahao.baidu.com/s?id=1867570915781624704&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "淄博_ 淄川烟草:为烟农办实事、解难题",
+          "url": "https://baijiahao.baidu.com/s?id=1867504734478415433&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "央视又推荐 _淄博_ 美食了!隔着屏幕都被香懵了~",
+          "url": "https://baijiahao.baidu.com/s?id=1866898425850804217&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
