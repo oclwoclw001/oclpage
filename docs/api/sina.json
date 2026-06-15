@@ -1,6 +1,6 @@
 {
   "source": "sina",
-  "updatedAt": "2026-06-15T21:15:55.677Z",
+  "updatedAt": "2026-06-15T23:53:06.754Z",
   "count": 10,
   "items": [
     {
@@ -11,9 +11,9 @@
     },
     {
       "rank": 2,
-      "title": "比利时vs埃及",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906usae.html?from=sports&subch=osport",
-      "meta": "新闻"
+      "title": "佛得角门将哭了",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E5%93%AD%E4%BA%86",
+      "meta": "话题"
     },
     {
       "rank": 3,
@@ -23,26 +23,26 @@
     },
     {
       "rank": 4,
-      "title": "佛得角门将哭了",
-      "url": "https://s.weibo.com/weibo?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E5%93%AD%E4%BA%86",
-      "meta": "话题"
-    },
-    {
-      "rank": 5,
       "title": "世界杯开赛以来最大冷门",
       "url": "https://k.sina.com.cn/article_1436416680_559dfaa800101du88.html?from=sports&subch=global",
       "meta": "新闻"
     },
     {
+      "rank": 5,
+      "title": "比利时vs埃及",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906uvzy.html?from=sports&subch=osport",
+      "meta": "新闻"
+    },
+    {
       "rank": 6,
-      "title": "西班牙爆冷",
-      "url": "https://k.sina.com.cn/article_5390000634_14144e1fa04001fsoo.html?from=sports&subch=osport",
+      "title": "沙特vs乌拉圭",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906uv1s.html?from=sports&subch=osport",
       "meta": "新闻"
     },
     {
       "rank": 7,
-      "title": "亚马尔世界杯首秀",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906uq3s.html?from=sports&subch=osport",
+      "title": "西班牙爆冷",
+      "url": "https://k.sina.com.cn/article_7095179045_1a6e7d72506801kz58.html?from=sports&subch=osport",
       "meta": "新闻"
     },
     {
@@ -53,14 +53,14 @@
     },
     {
       "rank": 9,
-      "title": "世界杯 看力竭了",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906ucas.html?from=sports&subch=osport",
+      "title": "亚马尔世界杯首秀",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906uq3s.html?from=sports&subch=osport",
       "meta": "新闻"
     },
     {
       "rank": 10,
-      "title": "郑钦文2比1萨卡里",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906uhnc.html?from=sports&subch=osport",
+      "title": "亚马尔替补出场过人最多",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001906ut8s.html?from=sports&subch=osport",
       "meta": "新闻"
     }
   ]
