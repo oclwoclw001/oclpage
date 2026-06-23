@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-06-23T04:12:33.155Z",
-  "count": 5,
+  "updatedAt": "2026-06-23T08:33:36.983Z",
+  "count": 10,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,36 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博市_ 淄川区柳泉幼儿园:急救护航守初心 中医护佑伴童行",
+      "url": "https://baijiahao.baidu.com/s?id=1868749716813854269&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "淄博市_ 博山区四十亩地小学:粉墨润初心 练字强师能",
+      "url": "https://baijiahao.baidu.com/s?id=1868755314904608882&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博市_ 高青县常家中心小学:幼小衔接零距离 探秘小学启新程",
+      "url": "https://baijiahao.baidu.com/s?id=1868755314891660555&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "“收得快”,更要“种得好”:_淄博_“三夏”生产圆满收官",
+      "url": "https://baijiahao.baidu.com/s?id=1868754464799376664&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "40个汽车流通消费改革试点名单公布!山东青岛、_淄博_ 入选,将侧重...",
+      "url": "https://baijiahao.baidu.com/s?id=1868772381257132691&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +104,38 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博市_ 淄川区柳泉幼儿园:急救护航守初心 中医护佑伴童行",
+          "url": "https://baijiahao.baidu.com/s?id=1868749716813854269&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "淄博市_ 博山区四十亩地小学:粉墨润初心 练字强师能",
+          "url": "https://baijiahao.baidu.com/s?id=1868755314904608882&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博市_ 高青县常家中心小学:幼小衔接零距离 探秘小学启新程",
+          "url": "https://baijiahao.baidu.com/s?id=1868755314891660555&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "“收得快”,更要“种得好”:_淄博_“三夏”生产圆满收官",
+          "url": "https://baijiahao.baidu.com/s?id=1868754464799376664&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "40个汽车流通消费改革试点名单公布!山东青岛、_淄博_ 入选,将侧重...",
+          "url": "https://baijiahao.baidu.com/s?id=1868772381257132691&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
