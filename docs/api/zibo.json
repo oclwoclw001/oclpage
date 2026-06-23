@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-06-22T21:09:13.600Z",
-  "count": 13,
+  "updatedAt": "2026-06-23T04:12:33.155Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,54 +32,6 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "市场添生机 科创拓新程——农行 _淄博_ 淄川支行金融赋能民营经济高...",
-      "url": "https://baijiahao.baidu.com/s?id=1868661225198186748&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "山东省 _淄博市_ 第十中学举行高三毕业典礼",
-      "url": "https://baijiahao.baidu.com/s?id=1868677614531933381&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博市_ 博山区实验中学:三尺讲台育桃李 挽袖献血传暖流",
-      "url": "https://baijiahao.baidu.com/s?id=1868680509495357724&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博市_“银龄行动 防非反诈”共建阵地启动仪式在齐商银行举办",
-      "url": "https://baijiahao.baidu.com/s?id=1868664057600226411&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博市_ 博山区中心路小学:烟火杏林寻本草 凌云少年赴端午",
-      "url": "https://baijiahao.baidu.com/s?id=1868680414927286354&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博市_ 新增三家社保卡合作金融机构",
-      "url": "https://baijiahao.baidu.com/s?id=1868701269789560273&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "金融活水润麦田,护航夏粮保丰收,_淄博市_ 分行多措并举做好夏粮收储...",
-      "url": "https://baijiahao.baidu.com/s?id=1868677112564903521&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "暑期“淄”味漫游指南出炉!_淄博_ 张店一日游解锁新玩法",
-      "url": "https://baijiahao.baidu.com/s?id=1868328409490744597&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -122,56 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "市场添生机 科创拓新程——农行 _淄博_ 淄川支行金融赋能民营经济高...",
-          "url": "https://baijiahao.baidu.com/s?id=1868661225198186748&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "山东省 _淄博市_ 第十中学举行高三毕业典礼",
-          "url": "https://baijiahao.baidu.com/s?id=1868677614531933381&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博市_ 博山区实验中学:三尺讲台育桃李 挽袖献血传暖流",
-          "url": "https://baijiahao.baidu.com/s?id=1868680509495357724&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博市_“银龄行动 防非反诈”共建阵地启动仪式在齐商银行举办",
-          "url": "https://baijiahao.baidu.com/s?id=1868664057600226411&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博市_ 博山区中心路小学:烟火杏林寻本草 凌云少年赴端午",
-          "url": "https://baijiahao.baidu.com/s?id=1868680414927286354&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博市_ 新增三家社保卡合作金融机构",
-          "url": "https://baijiahao.baidu.com/s?id=1868701269789560273&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "金融活水润麦田,护航夏粮保丰收,_淄博市_ 分行多措并举做好夏粮收储...",
-          "url": "https://baijiahao.baidu.com/s?id=1868677112564903521&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "暑期“淄”味漫游指南出炉!_淄博_ 张店一日游解锁新玩法",
-          "url": "https://baijiahao.baidu.com/s?id=1868328409490744597&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
