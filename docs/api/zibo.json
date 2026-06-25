@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-06-25T08:28:18.812Z",
-  "count": 14,
+  "updatedAt": "2026-06-25T11:46:02.398Z",
+  "count": 15,
   "items": [
     {
       "rank": 1,
@@ -47,45 +47,51 @@
     },
     {
       "rank": 3,
+      "title": "淄博市_“银龄行动 防非反诈”共建阵地启动仪式在齐商银行举办",
+      "url": "https://baijiahao.baidu.com/s?id=1868954000181114022&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "中国石油 _淄博_ 公司:以志愿之力铺就乡村振兴致富路",
+      "url": "https://baijiahao.baidu.com/s?id=1868957962706862979&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
       "title": "淄博_ 工贸学校:产教融合以练促学 直播实训赋能成长",
       "url": "https://baijiahao.baidu.com/s?id=1868936918517478609&wfr=spider&for=pc",
       "meta": "baijiahao.baidu.com"
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "汽车后市场新政出台!青岛 _淄博_ 入选试点,万亿蓝海开启“齐鲁机遇”",
+      "url": "https://baijiahao.baidu.com/s?id=1868960514241721271&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "中国石油 _淄博_ 公司:借力“饮水节”掀起非油销售热潮",
+      "url": "https://baijiahao.baidu.com/s?id=1868957962706425676&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
       "title": "淄博市_ 临淄区政协党组副书记、副主席刘恩慧被查",
       "url": "https://baijiahao.baidu.com/s?id=1868953572671899254&wfr=spider&for=pc",
       "meta": "baijiahao.baidu.com"
     },
     {
-      "rank": 5,
+      "rank": 9,
+      "title": "中国石油 _淄博_ 公司:助力三夏“油”行动,为丰收加油",
+      "url": "https://baijiahao.baidu.com/s?id=1868957962708014544&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 10,
       "title": "淄博市_ 举办“沿链揭榜·聚才赋能”京淄科技人才技术项目对接活动",
       "url": "https://baijiahao.baidu.com/s?id=1868939938257755303&wfr=spider&for=pc",
       "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "再增八个本科专业,_淄博_ 职业技术大学探索职业本科人才培养新范式",
-      "url": "https://baijiahao.baidu.com/s?id=1868931162504534259&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "淄博市_ 桓台县开展“铭记革命历史 厚植国防情怀”主题活动",
-      "url": "https://baijiahao.baidu.com/s?id=1868932389540246952&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "淄博_ 两高校将举办夏季校园双选会 助力企业吸纳青年人才",
-      "url": "http://news.10jqka.com.cn/20260625/c677696980.shtml",
-      "meta": "news.10jqka.com.cn"
-    },
-    {
-      "rank": 9,
-      "title": "淄博市_ 第一医院周六晚举办中医药健康夜市 市民可免费体验",
-      "url": "http://news.10jqka.com.cn/20260625/c677696983.shtml",
-      "meta": "news.10jqka.com.cn"
     }
   ],
   "sections": [
@@ -143,45 +149,51 @@
         },
         {
           "rank": 3,
+          "title": "淄博市_“银龄行动 防非反诈”共建阵地启动仪式在齐商银行举办",
+          "url": "https://baijiahao.baidu.com/s?id=1868954000181114022&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "中国石油 _淄博_ 公司:以志愿之力铺就乡村振兴致富路",
+          "url": "https://baijiahao.baidu.com/s?id=1868957962706862979&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
           "title": "淄博_ 工贸学校:产教融合以练促学 直播实训赋能成长",
           "url": "https://baijiahao.baidu.com/s?id=1868936918517478609&wfr=spider&for=pc",
           "meta": "baijiahao.baidu.com"
         },
         {
-          "rank": 4,
+          "rank": 6,
+          "title": "汽车后市场新政出台!青岛 _淄博_ 入选试点,万亿蓝海开启“齐鲁机遇”",
+          "url": "https://baijiahao.baidu.com/s?id=1868960514241721271&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "中国石油 _淄博_ 公司:借力“饮水节”掀起非油销售热潮",
+          "url": "https://baijiahao.baidu.com/s?id=1868957962706425676&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
           "title": "淄博市_ 临淄区政协党组副书记、副主席刘恩慧被查",
           "url": "https://baijiahao.baidu.com/s?id=1868953572671899254&wfr=spider&for=pc",
           "meta": "baijiahao.baidu.com"
         },
         {
-          "rank": 5,
+          "rank": 9,
+          "title": "中国石油 _淄博_ 公司:助力三夏“油”行动,为丰收加油",
+          "url": "https://baijiahao.baidu.com/s?id=1868957962708014544&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 10,
           "title": "淄博市_ 举办“沿链揭榜·聚才赋能”京淄科技人才技术项目对接活动",
           "url": "https://baijiahao.baidu.com/s?id=1868939938257755303&wfr=spider&for=pc",
           "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "再增八个本科专业,_淄博_ 职业技术大学探索职业本科人才培养新范式",
-          "url": "https://baijiahao.baidu.com/s?id=1868931162504534259&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "淄博市_ 桓台县开展“铭记革命历史 厚植国防情怀”主题活动",
-          "url": "https://baijiahao.baidu.com/s?id=1868932389540246952&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "淄博_ 两高校将举办夏季校园双选会 助力企业吸纳青年人才",
-          "url": "http://news.10jqka.com.cn/20260625/c677696980.shtml",
-          "meta": "news.10jqka.com.cn"
-        },
-        {
-          "rank": 9,
-          "title": "淄博市_ 第一医院周六晚举办中医药健康夜市 市民可免费体验",
-          "url": "http://news.10jqka.com.cn/20260625/c677696983.shtml",
-          "meta": "news.10jqka.com.cn"
         }
       ]
     }
