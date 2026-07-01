@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-01T10:04:26.741Z",
-  "count": 12,
+  "updatedAt": "2026-07-01T13:37:19.863Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,48 +32,6 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "窑火衬珍馐 匠心赴齐鲁 _淄博_ 中强瓷业以瓷为媒,讲好鲁菜与鲁瓷共生...",
-      "url": "https://baijiahao.baidu.com/s?id=1869497597349030862&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_:党建引领聚合力 歌声嘹亮庆“七一”",
-      "url": "https://baijiahao.baidu.com/s?id=1869478422025124615&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博_ 海关关长刘晓黎:用实干促高水平对外开放",
-      "url": "https://baijiahao.baidu.com/s?id=1869466531505757916&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博市_ 博山区委区直机关工委:“情景党课下乡”的博山样板",
-      "url": "https://baijiahao.baidu.com/s?id=1869475970348522935&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博_ 举行“七一”榜样讲党课 先进典型讲述实干故事凝聚奋进力量",
-      "url": "http://news.10jqka.com.cn/20260701/c677861522.shtml",
-      "meta": "news.10jqka.com.cn"
-    },
-    {
-      "rank": 6,
-      "title": "淄博_ 高端装备中心南高村举办“赓续红色初心 振兴和美乡村”文艺汇演",
-      "url": "https://baijiahao.baidu.com/s?id=1869478422025053394&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "歇脚有处,文明有心:_淄博市_ 博山101个驿站传递城市温度",
-      "url": "https://baijiahao.baidu.com/s?id=1869315539441407008&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -116,50 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "窑火衬珍馐 匠心赴齐鲁 _淄博_ 中强瓷业以瓷为媒,讲好鲁菜与鲁瓷共生...",
-          "url": "https://baijiahao.baidu.com/s?id=1869497597349030862&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_:党建引领聚合力 歌声嘹亮庆“七一”",
-          "url": "https://baijiahao.baidu.com/s?id=1869478422025124615&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博_ 海关关长刘晓黎:用实干促高水平对外开放",
-          "url": "https://baijiahao.baidu.com/s?id=1869466531505757916&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博市_ 博山区委区直机关工委:“情景党课下乡”的博山样板",
-          "url": "https://baijiahao.baidu.com/s?id=1869475970348522935&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博_ 举行“七一”榜样讲党课 先进典型讲述实干故事凝聚奋进力量",
-          "url": "http://news.10jqka.com.cn/20260701/c677861522.shtml",
-          "meta": "news.10jqka.com.cn"
-        },
-        {
-          "rank": 6,
-          "title": "淄博_ 高端装备中心南高村举办“赓续红色初心 振兴和美乡村”文艺汇演",
-          "url": "https://baijiahao.baidu.com/s?id=1869478422025053394&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "歇脚有处,文明有心:_淄博市_ 博山101个驿站传递城市温度",
-          "url": "https://baijiahao.baidu.com/s?id=1869315539441407008&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
