@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-02T04:12:23.685Z",
-  "count": 5,
+  "updatedAt": "2026-07-02T08:16:55.988Z",
+  "count": 15,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,66 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "柳泉录|_淄博_ 五中名师何以“成峰”?",
+      "url": "https://baijiahao.baidu.com/s?id=1869582076775007690&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "淄博_:无偿献血消夏晚会在市工人文化宫举行",
+      "url": "https://baijiahao.baidu.com/s?id=1869563357138003629&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博_ 师专开展庆“七一”主题党日活动",
+      "url": "https://baijiahao.baidu.com/s?id=1869586482294730654&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "让党旗在互联网企业高高飘扬(第三季)|_淄博_ 大趣将红色力量转化为...",
+      "url": "https://baijiahao.baidu.com/s?id=1869587612083183327&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "淄博_ 高新产业投资有限公司5.00亿元私募项目状态更新为“通过”",
+      "url": "http://news.10jqka.com.cn/20260702/c677885187.shtml",
+      "meta": "news.10jqka.com.cn"
+    },
+    {
+      "rank": 6,
+      "title": "「权威发布」_淄博_ 推出十项电力举措 全力保障2026年迎峰度夏用电",
+      "url": "https://baijiahao.baidu.com/s?id=1869581541014192218&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "【权威发布】直面高温用电考验 _淄博_ 精准施策筑牢民生用电、产业用...",
+      "url": "http://news.10jqka.com.cn/20260702/c677895208.shtml",
+      "meta": "news.10jqka.com.cn"
+    },
+    {
+      "rank": 8,
+      "title": "为城而战!_淄博_ 齐稷联合锐思达队7月5日将迎战威海队",
+      "url": "https://baijiahao.baidu.com/s?id=1869570407699929732&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "时光深处的“守灯人”——记中国人寿 _淄博_ 桓台公司柜面张频频扎根...",
+      "url": "https://baijiahao.baidu.com/s?id=1869567039419682988&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 10,
+      "title": "淄博_:7月全市户籍窗口周末轮值服务安排出炉",
+      "url": "https://baijiahao.baidu.com/s?id=1869481599226528595&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +134,68 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "柳泉录|_淄博_ 五中名师何以“成峰”?",
+          "url": "https://baijiahao.baidu.com/s?id=1869582076775007690&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "淄博_:无偿献血消夏晚会在市工人文化宫举行",
+          "url": "https://baijiahao.baidu.com/s?id=1869563357138003629&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博_ 师专开展庆“七一”主题党日活动",
+          "url": "https://baijiahao.baidu.com/s?id=1869586482294730654&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "让党旗在互联网企业高高飘扬(第三季)|_淄博_ 大趣将红色力量转化为...",
+          "url": "https://baijiahao.baidu.com/s?id=1869587612083183327&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "淄博_ 高新产业投资有限公司5.00亿元私募项目状态更新为“通过”",
+          "url": "http://news.10jqka.com.cn/20260702/c677885187.shtml",
+          "meta": "news.10jqka.com.cn"
+        },
+        {
+          "rank": 6,
+          "title": "「权威发布」_淄博_ 推出十项电力举措 全力保障2026年迎峰度夏用电",
+          "url": "https://baijiahao.baidu.com/s?id=1869581541014192218&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "【权威发布】直面高温用电考验 _淄博_ 精准施策筑牢民生用电、产业用...",
+          "url": "http://news.10jqka.com.cn/20260702/c677895208.shtml",
+          "meta": "news.10jqka.com.cn"
+        },
+        {
+          "rank": 8,
+          "title": "为城而战!_淄博_ 齐稷联合锐思达队7月5日将迎战威海队",
+          "url": "https://baijiahao.baidu.com/s?id=1869570407699929732&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "时光深处的“守灯人”——记中国人寿 _淄博_ 桓台公司柜面张频频扎根...",
+          "url": "https://baijiahao.baidu.com/s?id=1869567039419682988&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 10,
+          "title": "淄博_:7月全市户籍窗口周末轮值服务安排出炉",
+          "url": "https://baijiahao.baidu.com/s?id=1869481599226528595&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
