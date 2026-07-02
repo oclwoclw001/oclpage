@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-01T23:22:22.091Z",
-  "count": 12,
+  "updatedAt": "2026-07-02T04:12:23.685Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,48 +32,6 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "窑火衬珍馐 匠心赴齐鲁 _淄博_ 中强瓷业以瓷为媒,讲好鲁菜与鲁瓷共生...",
-      "url": "https://baijiahao.baidu.com/s?id=1869497597349030862&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_:党建引领聚合力 歌声嘹亮庆“七一”",
-      "url": "https://baijiahao.baidu.com/s?id=1869478422025124615&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "全省科创企业家 _淄博_“论剑” 为机器人产业提质升级注入“源头活水”",
-      "url": "https://baijiahao.baidu.com/s?id=1869521268681134479&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "线上研判+线下严查!_淄博_ 精准整治非法网约车 护航暑期出行",
-      "url": "https://baijiahao.baidu.com/s?id=1869517726696944739&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "健身别白跑!_淄博市_ 体育中心赛事期间场馆开放、交通管控时间汇总",
-      "url": "https://baijiahao.baidu.com/s?id=1869499973530806480&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "开放时间调整!_淄博_ 一场馆发布重要公告",
-      "url": "https://baijiahao.baidu.com/s?id=1869495988120436649&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "淄博_:7月全市户籍窗口周末轮值服务安排出炉",
-      "url": "https://baijiahao.baidu.com/s?id=1869481599226528595&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -116,50 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "窑火衬珍馐 匠心赴齐鲁 _淄博_ 中强瓷业以瓷为媒,讲好鲁菜与鲁瓷共生...",
-          "url": "https://baijiahao.baidu.com/s?id=1869497597349030862&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_:党建引领聚合力 歌声嘹亮庆“七一”",
-          "url": "https://baijiahao.baidu.com/s?id=1869478422025124615&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "全省科创企业家 _淄博_“论剑” 为机器人产业提质升级注入“源头活水”",
-          "url": "https://baijiahao.baidu.com/s?id=1869521268681134479&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "线上研判+线下严查!_淄博_ 精准整治非法网约车 护航暑期出行",
-          "url": "https://baijiahao.baidu.com/s?id=1869517726696944739&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "健身别白跑!_淄博市_ 体育中心赛事期间场馆开放、交通管控时间汇总",
-          "url": "https://baijiahao.baidu.com/s?id=1869499973530806480&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "开放时间调整!_淄博_ 一场馆发布重要公告",
-          "url": "https://baijiahao.baidu.com/s?id=1869495988120436649&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "淄博_:7月全市户籍窗口周末轮值服务安排出炉",
-          "url": "https://baijiahao.baidu.com/s?id=1869481599226528595&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
