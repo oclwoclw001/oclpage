@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-03T14:26:13.008Z",
-  "count": 5,
+  "updatedAt": "2026-07-03T16:41:21.348Z",
+  "count": 15,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,66 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "深耕产改育匠才!_淄博市_ 总工会一行到访科顺",
+      "url": "https://baijiahao.baidu.com/s?id=1869691641425317333&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "琉光汇圣城 文脉共传承|_淄博_ 琉璃特展邂逅济宁研学季,双城联动让...",
+      "url": "https://baijiahao.baidu.com/s?id=1869689876477903047&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博市_ 中心医院第八党总支荣获“山东省先进基层党组织”称号",
+      "url": "https://baijiahao.baidu.com/s?id=1869678555534054774&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "133件 _淄博_ 琉璃珍品亮相济宁 千年窑火诉说东方美学",
+      "url": "https://baijiahao.baidu.com/s?id=1869678460208601534&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "国家消防救援局暗访 _淄博_ 医疗机构:有医院动火作业未经审批,承包商...",
+      "url": "https://baijiahao.baidu.com/s?id=1869656379060988756&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "情暖高原夕阳红 义诊送药护安康——_淄博市_ 中心医院援藏医疗队开展...",
+      "url": "https://baijiahao.baidu.com/s?id=1869678586425509867&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "为一座城而战 _淄博_ 齐稷联合锐思达队7月5日将迎战威海队",
+      "url": "https://baijiahao.baidu.com/s?id=1869670186345990818&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "感知山东记者谈丨从“监管”到“陪跑”:_淄博_ 张店营商环境的暖心进阶",
+      "url": "https://baijiahao.baidu.com/s?id=1869045634093017497&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "多瘤共治循证致远 精准诊疗赋能鲁中——2026年 _淄博市_ 肿瘤学术大会...",
+      "url": "https://baijiahao.baidu.com/s?id=1869687363012121104&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 10,
+      "title": "权威发布丨 _淄博_:一以贯之推进河湖长制 十年治水绘就碧水新画卷",
+      "url": "https://baijiahao.baidu.com/s?id=1869415573881913524&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +134,68 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "深耕产改育匠才!_淄博市_ 总工会一行到访科顺",
+          "url": "https://baijiahao.baidu.com/s?id=1869691641425317333&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "琉光汇圣城 文脉共传承|_淄博_ 琉璃特展邂逅济宁研学季,双城联动让...",
+          "url": "https://baijiahao.baidu.com/s?id=1869689876477903047&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博市_ 中心医院第八党总支荣获“山东省先进基层党组织”称号",
+          "url": "https://baijiahao.baidu.com/s?id=1869678555534054774&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "133件 _淄博_ 琉璃珍品亮相济宁 千年窑火诉说东方美学",
+          "url": "https://baijiahao.baidu.com/s?id=1869678460208601534&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "国家消防救援局暗访 _淄博_ 医疗机构:有医院动火作业未经审批,承包商...",
+          "url": "https://baijiahao.baidu.com/s?id=1869656379060988756&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "情暖高原夕阳红 义诊送药护安康——_淄博市_ 中心医院援藏医疗队开展...",
+          "url": "https://baijiahao.baidu.com/s?id=1869678586425509867&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "为一座城而战 _淄博_ 齐稷联合锐思达队7月5日将迎战威海队",
+          "url": "https://baijiahao.baidu.com/s?id=1869670186345990818&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "感知山东记者谈丨从“监管”到“陪跑”:_淄博_ 张店营商环境的暖心进阶",
+          "url": "https://baijiahao.baidu.com/s?id=1869045634093017497&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "多瘤共治循证致远 精准诊疗赋能鲁中——2026年 _淄博市_ 肿瘤学术大会...",
+          "url": "https://baijiahao.baidu.com/s?id=1869687363012121104&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 10,
+          "title": "权威发布丨 _淄博_:一以贯之推进河湖长制 十年治水绘就碧水新画卷",
+          "url": "https://baijiahao.baidu.com/s?id=1869415573881913524&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
