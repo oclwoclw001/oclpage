@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-06T09:06:24.559Z",
-  "count": 5,
+  "updatedAt": "2026-07-06T13:54:19.450Z",
+  "count": 14,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,60 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博_ 外国语实验学校:蝉鸣盛夏话别离 逐梦扬帆赴山海",
+      "url": "https://baijiahao.baidu.com/s?id=1869942482482575464&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "淄博市_ 张店区马尚街道:“审批服务进楼宇”破解企业审批烦忧",
+      "url": "https://baijiahao.baidu.com/s?id=1869955504819300505&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博市_ 精神卫生中心开展基层精神卫生服务能力调研指导工作",
+      "url": "https://baijiahao.baidu.com/s?id=1869954938149574436&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博_ 张店发布暑期两日游全攻略 解锁城市AB面",
+      "url": "https://baijiahao.baidu.com/s?id=1869959153115752493&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "进球or进职?_淄博_ 这场“球赛+招聘”夜市,全都有!",
+      "url": "https://baijiahao.baidu.com/s?id=1869965601425088474&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "未制定应急救援预案,_淄博_ 光正铝盐化工有限公司被罚",
+      "url": "https://baijiahao.baidu.com/s?id=1869933704573234351&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "志愿护航赛事活动 文明彰显 _淄博_ 风采",
+      "url": "https://baijiahao.baidu.com/s?id=1869928955005982649&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "淄博_ 主场遭威海逆转 遭遇赛季首败",
+      "url": "http://news.10jqka.com.cn/20260706/c677960841.shtml",
+      "meta": "news.10jqka.com.cn"
+    },
+    {
+      "rank": 9,
+      "title": "“移动杯”2026 _淄博市_“技能兴淄”直播电商技能大赛启动仪式举行",
+      "url": "http://news.10jqka.com.cn/20260706/c677984838.shtml",
+      "meta": "news.10jqka.com.cn"
     }
   ],
   "sections": [
@@ -74,7 +128,62 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博_ 外国语实验学校:蝉鸣盛夏话别离 逐梦扬帆赴山海",
+          "url": "https://baijiahao.baidu.com/s?id=1869942482482575464&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "淄博市_ 张店区马尚街道:“审批服务进楼宇”破解企业审批烦忧",
+          "url": "https://baijiahao.baidu.com/s?id=1869955504819300505&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博市_ 精神卫生中心开展基层精神卫生服务能力调研指导工作",
+          "url": "https://baijiahao.baidu.com/s?id=1869954938149574436&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博_ 张店发布暑期两日游全攻略 解锁城市AB面",
+          "url": "https://baijiahao.baidu.com/s?id=1869959153115752493&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "进球or进职?_淄博_ 这场“球赛+招聘”夜市,全都有!",
+          "url": "https://baijiahao.baidu.com/s?id=1869965601425088474&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "未制定应急救援预案,_淄博_ 光正铝盐化工有限公司被罚",
+          "url": "https://baijiahao.baidu.com/s?id=1869933704573234351&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "志愿护航赛事活动 文明彰显 _淄博_ 风采",
+          "url": "https://baijiahao.baidu.com/s?id=1869928955005982649&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "淄博_ 主场遭威海逆转 遭遇赛季首败",
+          "url": "http://news.10jqka.com.cn/20260706/c677960841.shtml",
+          "meta": "news.10jqka.com.cn"
+        },
+        {
+          "rank": 9,
+          "title": "“移动杯”2026 _淄博市_“技能兴淄”直播电商技能大赛启动仪式举行",
+          "url": "http://news.10jqka.com.cn/20260706/c677984838.shtml",
+          "meta": "news.10jqka.com.cn"
+        }
+      ]
     }
   ]
 }
