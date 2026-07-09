@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-09T08:38:59.458Z",
-  "count": 5,
+  "updatedAt": "2026-07-09T16:06:09.401Z",
+  "count": 13,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,54 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "沿着水网看山东丨 _淄博_:水脉重生绘就生态新画卷",
+      "url": "https://baijiahao.baidu.com/s?id=1870200366079509989&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "火里烧出东方浪漫,_淄博_ 琉璃特展亮相济宁",
+      "url": "https://baijiahao.baidu.com/s?id=1870234028072401502&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "权威发布丨 _淄博_ 多措并举护航退役军人就业创业",
+      "url": "https://baijiahao.baidu.com/s?id=1870208295364497339&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博市_“思政大先生”走进文化书院暨夏季故事会张店主场活动举行",
+      "url": "https://baijiahao.baidu.com/s?id=1870223394049705315&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "淄博_ 张店发布暑期两日游全攻略 解锁城市AB面",
+      "url": "https://baijiahao.baidu.com/s?id=1869959153115752493&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "15分钟,四位好心人,一场默契接力的 _淄博_ 温暖",
+      "url": "https://baijiahao.baidu.com/s?id=1870227390680373975&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "不赶路,不将就,两天一夜,解锁 _淄博_ 张店的AB面!",
+      "url": "https://baijiahao.baidu.com/s?id=1870030404909462760&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "淄博_ 一地位列“国家级风景名胜区”!盛夏来这个避暑小城,享受治愈...",
+      "url": "https://baijiahao.baidu.com/s?id=1870048418532655686&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +122,56 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "沿着水网看山东丨 _淄博_:水脉重生绘就生态新画卷",
+          "url": "https://baijiahao.baidu.com/s?id=1870200366079509989&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "火里烧出东方浪漫,_淄博_ 琉璃特展亮相济宁",
+          "url": "https://baijiahao.baidu.com/s?id=1870234028072401502&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "权威发布丨 _淄博_ 多措并举护航退役军人就业创业",
+          "url": "https://baijiahao.baidu.com/s?id=1870208295364497339&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博市_“思政大先生”走进文化书院暨夏季故事会张店主场活动举行",
+          "url": "https://baijiahao.baidu.com/s?id=1870223394049705315&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "淄博_ 张店发布暑期两日游全攻略 解锁城市AB面",
+          "url": "https://baijiahao.baidu.com/s?id=1869959153115752493&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "15分钟,四位好心人,一场默契接力的 _淄博_ 温暖",
+          "url": "https://baijiahao.baidu.com/s?id=1870227390680373975&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "不赶路,不将就,两天一夜,解锁 _淄博_ 张店的AB面!",
+          "url": "https://baijiahao.baidu.com/s?id=1870030404909462760&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "淄博_ 一地位列“国家级风景名胜区”!盛夏来这个避暑小城,享受治愈...",
+          "url": "https://baijiahao.baidu.com/s?id=1870048418532655686&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
