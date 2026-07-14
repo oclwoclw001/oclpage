@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-14T09:10:21.686Z",
-  "count": 5,
+  "updatedAt": "2026-07-14T11:37:33.058Z",
+  "count": 14,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,60 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "山东 _淄博_ 招聘夜市赛场外揽才人气旺",
+      "url": "https://baijiahao.baidu.com/s?id=1870668168178351098&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "补短板、拓业态,创新转型!_淄博_ “十八般武艺”织就新丝路",
+      "url": "https://baijiahao.baidu.com/s?id=1870658228971139048&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "权威发布丨深化产教融合 精准对接需求 _淄博_ 打出驻淄高校毕业生...",
+      "url": "https://baijiahao.baidu.com/s?id=1870683928488105912&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博市_ 中医医院联合山东轻工职业学院开展岐黄驿站研学活动",
+      "url": "https://baijiahao.baidu.com/s?id=1870683928486030512&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "山东:“相约 _齐国故都_,携手向蒙而行 ”文旅推介会在 _淄博_ 举行",
+      "url": "https://baijiahao.baidu.com/s?id=1870617679054700080&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "别只知道 _淄博_ 烧烤!这座山靠红果远销海外圈粉全球客商",
+      "url": "https://baijiahao.baidu.com/s?id=1870658228969948827&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "权威发布丨 _淄博_:“就在淄博”就业行动方案出炉 构建就业友好型...",
+      "url": "https://baijiahao.baidu.com/s?id=1870661280005324331&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "淄博_ 淄川志愿者千里驰援广西,在灾区搭起爱心供餐点",
+      "url": "https://baijiahao.baidu.com/s?id=1870659141111632962&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "百年人寿 _淄博_ 中心支公司开展“以爱为钟,守护星光”爱心公益活动",
+      "url": "https://baijiahao.baidu.com/s?id=1870672510848822912&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +128,62 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "山东 _淄博_ 招聘夜市赛场外揽才人气旺",
+          "url": "https://baijiahao.baidu.com/s?id=1870668168178351098&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "补短板、拓业态,创新转型!_淄博_ “十八般武艺”织就新丝路",
+          "url": "https://baijiahao.baidu.com/s?id=1870658228971139048&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "权威发布丨深化产教融合 精准对接需求 _淄博_ 打出驻淄高校毕业生...",
+          "url": "https://baijiahao.baidu.com/s?id=1870683928488105912&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博市_ 中医医院联合山东轻工职业学院开展岐黄驿站研学活动",
+          "url": "https://baijiahao.baidu.com/s?id=1870683928486030512&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "山东:“相约 _齐国故都_,携手向蒙而行 ”文旅推介会在 _淄博_ 举行",
+          "url": "https://baijiahao.baidu.com/s?id=1870617679054700080&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "别只知道 _淄博_ 烧烤!这座山靠红果远销海外圈粉全球客商",
+          "url": "https://baijiahao.baidu.com/s?id=1870658228969948827&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "权威发布丨 _淄博_:“就在淄博”就业行动方案出炉 构建就业友好型...",
+          "url": "https://baijiahao.baidu.com/s?id=1870661280005324331&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "淄博_ 淄川志愿者千里驰援广西,在灾区搭起爱心供餐点",
+          "url": "https://baijiahao.baidu.com/s?id=1870659141111632962&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "百年人寿 _淄博_ 中心支公司开展“以爱为钟,守护星光”爱心公益活动",
+          "url": "https://baijiahao.baidu.com/s?id=1870672510848822912&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
