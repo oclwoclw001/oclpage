@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-22T06:37:01.660Z",
-  "count": 11,
+  "updatedAt": "2026-07-22T09:32:24.230Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,42 +32,6 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博_:“职通未来‘淄’此启航”大学生就业体验暑假营启动仪式举行",
-      "url": "https://baijiahao.baidu.com/s?id=1871386056958678725&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博市_ 集中开展电动自行车安全管理及畅通生命通道夜查行动",
-      "url": "https://baijiahao.baidu.com/s?id=1871386056957995332&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "权威发布丨 _淄博_:热血筑就文明底色 礼遇温暖城市人心",
-      "url": "https://baijiahao.baidu.com/s?id=1871386056959077979&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "注意绕行!7月27日起,_淄博_ 这一路段封闭施工",
-      "url": "https://baijiahao.baidu.com/s?id=1871384368587409744&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "财界观察|40亿答卷的背后:窑火新生中的 _淄博_ 建陶",
-      "url": "https://baijiahao.baidu.com/s?id=1870682298516676467&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博_ 高新区招基层医务人员,专科可报!",
-      "url": "https://baijiahao.baidu.com/s?id=1871325640043097674&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -110,44 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博_:“职通未来‘淄’此启航”大学生就业体验暑假营启动仪式举行",
-          "url": "https://baijiahao.baidu.com/s?id=1871386056958678725&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博市_ 集中开展电动自行车安全管理及畅通生命通道夜查行动",
-          "url": "https://baijiahao.baidu.com/s?id=1871386056957995332&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "权威发布丨 _淄博_:热血筑就文明底色 礼遇温暖城市人心",
-          "url": "https://baijiahao.baidu.com/s?id=1871386056959077979&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "注意绕行!7月27日起,_淄博_ 这一路段封闭施工",
-          "url": "https://baijiahao.baidu.com/s?id=1871384368587409744&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "财界观察|40亿答卷的背后:窑火新生中的 _淄博_ 建陶",
-          "url": "https://baijiahao.baidu.com/s?id=1870682298516676467&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博_ 高新区招基层医务人员,专科可报!",
-          "url": "https://baijiahao.baidu.com/s?id=1871325640043097674&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
