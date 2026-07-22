@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-21T23:04:09.448Z",
-  "count": 12,
+  "updatedAt": "2026-07-22T03:29:38.544Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,48 +32,6 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "基层动态丨山东新华书店集团 _淄博_ 分公司:立足本地资源 做实文化服务",
-      "url": "https://baijiahao.baidu.com/s?id=1871326215332775590&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 张店发布暑期两日游全攻略 解锁城市AB面",
-      "url": "https://baijiahao.baidu.com/s?id=1869959153115752493&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博_ 疾控发布三伏天气提醒",
-      "url": "https://baijiahao.baidu.com/s?id=1871317668123577392&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "权威发布丨 _淄博_:“就在淄博”就业行动方案出炉 构建就业友好型...",
-      "url": "https://baijiahao.baidu.com/s?id=1870661280005324331&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "财界观察|40亿答卷的背后:窑火新生中的 _淄博_ 建陶",
-      "url": "https://baijiahao.baidu.com/s?id=1870682298516676467&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博_ 高新区招基层医务人员,专科可报!",
-      "url": "https://baijiahao.baidu.com/s?id=1871325640043097674&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "淄博市_ 住房和城乡建设局原党组书记、局长、一级调研员王立明严重...",
-      "url": "https://baijiahao.baidu.com/s?id=1870959881526073418&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -116,50 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "基层动态丨山东新华书店集团 _淄博_ 分公司:立足本地资源 做实文化服务",
-          "url": "https://baijiahao.baidu.com/s?id=1871326215332775590&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 张店发布暑期两日游全攻略 解锁城市AB面",
-          "url": "https://baijiahao.baidu.com/s?id=1869959153115752493&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博_ 疾控发布三伏天气提醒",
-          "url": "https://baijiahao.baidu.com/s?id=1871317668123577392&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "权威发布丨 _淄博_:“就在淄博”就业行动方案出炉 构建就业友好型...",
-          "url": "https://baijiahao.baidu.com/s?id=1870661280005324331&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "财界观察|40亿答卷的背后:窑火新生中的 _淄博_ 建陶",
-          "url": "https://baijiahao.baidu.com/s?id=1870682298516676467&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博_ 高新区招基层医务人员,专科可报!",
-          "url": "https://baijiahao.baidu.com/s?id=1871325640043097674&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "淄博市_ 住房和城乡建设局原党组书记、局长、一级调研员王立明严重...",
-          "url": "https://baijiahao.baidu.com/s?id=1870959881526073418&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
