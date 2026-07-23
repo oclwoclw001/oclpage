@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-23T21:13:51.873Z",
-  "count": 5,
+  "updatedAt": "2026-07-23T23:04:21.675Z",
+  "count": 13,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,54 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "感知山东记者谈丨从“托得住”到“育得好” _淄博_ 社区小课堂写就...",
+      "url": "https://baijiahao.baidu.com/s?id=1871499303644251330&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "不去景点去工厂?_淄博_ 大学生就业体验营为这个暑假解锁另一种city...",
+      "url": "https://baijiahao.baidu.com/s?id=1871510878896982164&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博_ 博山交警送清凉 让“小扇子”承载“大安全”",
+      "url": "https://baijiahao.baidu.com/s?id=1871491752813209416&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "省运战报|省运绿茵再创佳绩!_淄博_ 男足乙组斩获亚军 再添4枚金牌",
+      "url": "https://baijiahao.baidu.com/s?id=1871496565280479908&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "省运战报|斩获亚军!_淄博_ 男子手球队实现历史性突破",
+      "url": "https://baijiahao.baidu.com/s?id=1871496439638781684&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "淄博市_ 住房和城乡建设局原党组书记、局长、一级调研员王立明严重...",
+      "url": "https://baijiahao.baidu.com/s?id=1870959881526073418&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "黄色预警!预计7月23日20时至24日20时,济南、_淄博_ 等5市局地山洪...",
+      "url": "https://baijiahao.baidu.com/s?id=1871527770261294821&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "本周 _淄博_ 云量多雷雨频",
+      "url": "https://baijiahao.baidu.com/s?id=1871207221200274419&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +122,56 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "感知山东记者谈丨从“托得住”到“育得好” _淄博_ 社区小课堂写就...",
+          "url": "https://baijiahao.baidu.com/s?id=1871499303644251330&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "不去景点去工厂?_淄博_ 大学生就业体验营为这个暑假解锁另一种city...",
+          "url": "https://baijiahao.baidu.com/s?id=1871510878896982164&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博_ 博山交警送清凉 让“小扇子”承载“大安全”",
+          "url": "https://baijiahao.baidu.com/s?id=1871491752813209416&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "省运战报|省运绿茵再创佳绩!_淄博_ 男足乙组斩获亚军 再添4枚金牌",
+          "url": "https://baijiahao.baidu.com/s?id=1871496565280479908&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "省运战报|斩获亚军!_淄博_ 男子手球队实现历史性突破",
+          "url": "https://baijiahao.baidu.com/s?id=1871496439638781684&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "淄博市_ 住房和城乡建设局原党组书记、局长、一级调研员王立明严重...",
+          "url": "https://baijiahao.baidu.com/s?id=1870959881526073418&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "黄色预警!预计7月23日20时至24日20时,济南、_淄博_ 等5市局地山洪...",
+          "url": "https://baijiahao.baidu.com/s?id=1871527770261294821&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "本周 _淄博_ 云量多雷雨频",
+          "url": "https://baijiahao.baidu.com/s?id=1871207221200274419&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
