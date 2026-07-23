@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-23T04:21:35.993Z",
-  "count": 12,
+  "updatedAt": "2026-07-23T07:39:00.012Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,48 +32,6 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "山东 _淄博_:靠前服务 “链”启共赢",
-      "url": "https://baijiahao.baidu.com/s?id=1871398177496574064&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "济南机场走进 _淄博_ 张店开展地推活动",
-      "url": "https://baijiahao.baidu.com/s?id=1871414304430034388&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "一分钱没花拿下上市公司!_淄博_ 国资这波操作,把A股都看傻了",
-      "url": "https://baijiahao.baidu.com/s?id=1871469532696637629&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 文创组团上新!“繁花”“十二花神”……这些爆款展品都能带...",
-      "url": "https://baijiahao.baidu.com/s?id=1871413356541056003&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "受道路施工影响,_淄博_ 公交临时调整线路增至15条",
-      "url": "https://baijiahao.baidu.com/s?id=1871469287456314883&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "异常时期市场调控管理研究——_淄博市_ 异常时期市场调控管理的分析...",
-      "url": "https://baijiahao.baidu.com/s?id=1870858201771159222&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "淄博市_ 住房和城乡建设局原党组书记、局长、一级调研员王立明严重...",
-      "url": "https://baijiahao.baidu.com/s?id=1870959881526073418&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -116,50 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "山东 _淄博_:靠前服务 “链”启共赢",
-          "url": "https://baijiahao.baidu.com/s?id=1871398177496574064&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "济南机场走进 _淄博_ 张店开展地推活动",
-          "url": "https://baijiahao.baidu.com/s?id=1871414304430034388&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "一分钱没花拿下上市公司!_淄博_ 国资这波操作,把A股都看傻了",
-          "url": "https://baijiahao.baidu.com/s?id=1871469532696637629&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 文创组团上新!“繁花”“十二花神”……这些爆款展品都能带...",
-          "url": "https://baijiahao.baidu.com/s?id=1871413356541056003&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "受道路施工影响,_淄博_ 公交临时调整线路增至15条",
-          "url": "https://baijiahao.baidu.com/s?id=1871469287456314883&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "异常时期市场调控管理研究——_淄博市_ 异常时期市场调控管理的分析...",
-          "url": "https://baijiahao.baidu.com/s?id=1870858201771159222&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "淄博市_ 住房和城乡建设局原党组书记、局长、一级调研员王立明严重...",
-          "url": "https://baijiahao.baidu.com/s?id=1870959881526073418&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
