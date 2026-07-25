@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-25T17:08:53.528Z",
-  "count": 5,
+  "updatedAt": "2026-07-25T19:19:23.741Z",
+  "count": 12,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,48 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "曲师大传媒学院和 _淄博_ 大趣信息科技有限公司共建学生就业基地",
+      "url": "https://baijiahao.baidu.com/s?id=1871696225718709939&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "黄色预警!济南、_淄博_、泰安、临沂局部地区或发生山洪灾害",
+      "url": "https://baijiahao.baidu.com/s?id=1871705282838365486&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "75毫米!昨天这场雨,最大降雨量出现在这里!_淄博_ 再发预警,未来几天...",
+      "url": "https://baijiahao.baidu.com/s?id=1871650389502199315&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "本周 _淄博_ 云量多雷雨频",
+      "url": "https://baijiahao.baidu.com/s?id=1871207221200274419&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "瞄准“鸡毛蒜皮”,下足“绣花功夫”——_淄博市_ 博山区民生实事见闻",
+      "url": "https://baijiahao.baidu.com/s?id=1871181081498008773&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "山东省 _淄博市_ 高青县发布雷电黄色预警信号",
+      "url": "https://baijiahao.baidu.com/s?id=1871651175039570912&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "淄博_ 夏夜再添新地标|红叶柿岩“一千零一夜”埃及秘境正式亮相",
+      "url": "https://baijiahao.baidu.com/s?id=1871590968725933044&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +116,50 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "曲师大传媒学院和 _淄博_ 大趣信息科技有限公司共建学生就业基地",
+          "url": "https://baijiahao.baidu.com/s?id=1871696225718709939&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "黄色预警!济南、_淄博_、泰安、临沂局部地区或发生山洪灾害",
+          "url": "https://baijiahao.baidu.com/s?id=1871705282838365486&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "75毫米!昨天这场雨,最大降雨量出现在这里!_淄博_ 再发预警,未来几天...",
+          "url": "https://baijiahao.baidu.com/s?id=1871650389502199315&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "本周 _淄博_ 云量多雷雨频",
+          "url": "https://baijiahao.baidu.com/s?id=1871207221200274419&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "瞄准“鸡毛蒜皮”,下足“绣花功夫”——_淄博市_ 博山区民生实事见闻",
+          "url": "https://baijiahao.baidu.com/s?id=1871181081498008773&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "山东省 _淄博市_ 高青县发布雷电黄色预警信号",
+          "url": "https://baijiahao.baidu.com/s?id=1871651175039570912&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "淄博_ 夏夜再添新地标|红叶柿岩“一千零一夜”埃及秘境正式亮相",
+          "url": "https://baijiahao.baidu.com/s?id=1871590968725933044&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
