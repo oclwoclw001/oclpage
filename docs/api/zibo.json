@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-07-30T11:15:45.074Z",
-  "count": 12,
+  "updatedAt": "2026-07-30T14:23:12.244Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,48 +32,6 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博_:宣讲科普思政课 红色教育润童心",
-      "url": "https://baijiahao.baidu.com/s?id=1872125931209426175&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 张店:星火耀童心 书香伴成长",
-      "url": "https://baijiahao.baidu.com/s?id=1872110831373762698&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "加码 _淄博_ 妇女儿童幸福感|2026年上半年为全市妇女儿童办实事“成绩...",
-      "url": "https://baijiahao.baidu.com/s?id=1872127728331429715&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 夏夜再添新地标|红叶柿岩“一千零一夜”埃及秘境正式亮相",
-      "url": "https://baijiahao.baidu.com/s?id=1871590968725933044&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "高温预警升级!局地39℃以上!正在影响 _淄博",
-      "url": "https://baijiahao.baidu.com/s?id=1872130351592844555&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "局部可达40℃!未来一周山东将出现持续性高温天气!_淄博_ 未来几天...",
-      "url": "https://baijiahao.baidu.com/s?id=1872123065727904206&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "山东省 _淄博市_ 临淄区发布高温橙色预警信号",
-      "url": "https://baijiahao.baidu.com/s?id=1872131090377150596&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -116,50 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博_:宣讲科普思政课 红色教育润童心",
-          "url": "https://baijiahao.baidu.com/s?id=1872125931209426175&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 张店:星火耀童心 书香伴成长",
-          "url": "https://baijiahao.baidu.com/s?id=1872110831373762698&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "加码 _淄博_ 妇女儿童幸福感|2026年上半年为全市妇女儿童办实事“成绩...",
-          "url": "https://baijiahao.baidu.com/s?id=1872127728331429715&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 夏夜再添新地标|红叶柿岩“一千零一夜”埃及秘境正式亮相",
-          "url": "https://baijiahao.baidu.com/s?id=1871590968725933044&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "高温预警升级!局地39℃以上!正在影响 _淄博",
-          "url": "https://baijiahao.baidu.com/s?id=1872130351592844555&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "局部可达40℃!未来一周山东将出现持续性高温天气!_淄博_ 未来几天...",
-          "url": "https://baijiahao.baidu.com/s?id=1872123065727904206&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "山东省 _淄博市_ 临淄区发布高温橙色预警信号",
-          "url": "https://baijiahao.baidu.com/s?id=1872131090377150596&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
