@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-07T15:00:54.277Z",
-  "count": 11,
+  "updatedAt": "2026-08-07T16:59:27.364Z",
+  "count": 12,
   "items": [
     {
       "rank": 1,
@@ -67,6 +67,12 @@
       "rank": 8,
       "title": "...今天仍是高温橙色预警;省气象台:济南、德州、_淄博_ 等12市局部40...",
       "url": "https://baijiahao.baidu.com/s?id=1872851696959464623&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "...今天仍是高温橙色预警;省气象台:德州、济南、_淄博_ 等12市局部40...",
+      "url": "https://baijiahao.baidu.com/s?id=1872817809885976618&wfr=spider&for=pc",
       "meta": "baijiahao.baidu.com"
     }
   ],
@@ -145,6 +151,12 @@
           "rank": 8,
           "title": "...今天仍是高温橙色预警;省气象台:济南、德州、_淄博_ 等12市局部40...",
           "url": "https://baijiahao.baidu.com/s?id=1872851696959464623&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "...今天仍是高温橙色预警;省气象台:德州、济南、_淄博_ 等12市局部40...",
+          "url": "https://baijiahao.baidu.com/s?id=1872817809885976618&wfr=spider&for=pc",
           "meta": "baijiahao.baidu.com"
         }
       ]
