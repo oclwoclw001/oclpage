@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-07T00:09:25.161Z",
-  "count": 12,
+  "updatedAt": "2026-08-07T03:54:55.774Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,48 +32,6 @@
       "title": "非遗蹴鞠进校园",
       "url": "http://www.zbnews.net/content/2026-06/04/content_3194067.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博市_ 婚姻家庭纠纷调解工作骨干培训班举办",
-      "url": "https://baijiahao.baidu.com/s?id=1872808021299718116&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "15分钟“圈”出文化新生活,_淄博_ 高新区“微光学堂”启动,12项非遗...",
-      "url": "https://baijiahao.baidu.com/s?id=1872769893234672669&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "权威发布丨 _淄博市_ 商务局:聚焦四大主线!全力深耕扩内需、稳增长",
-      "url": "https://baijiahao.baidu.com/s?id=1872763222872446591&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_:坚韧向前 稳步向好",
-      "url": "https://zibo.iqilu.com/zbyaowen/2026/0731/5932749.shtml",
-      "meta": "zibo.iqilu.com"
-    },
-    {
-      "rank": 5,
-      "title": "权威发布丨争创区域性消费中心城市 _淄博_ 加力实施消费提振扩容工程",
-      "url": "https://baijiahao.baidu.com/s?id=1872669512751362048&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "...今天仍是高温橙色预警;省气象台:德州、济南、_淄博_ 等12市局部40...",
-      "url": "https://baijiahao.baidu.com/s?id=1872817809885976618&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "越夜越美味!一口解锁盛夏烟火,_淄博_ 宝藏夜市推荐!公交一站直达→",
-      "url": "https://baijiahao.baidu.com/s?id=1872138630088973013&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -116,50 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博市_ 婚姻家庭纠纷调解工作骨干培训班举办",
-          "url": "https://baijiahao.baidu.com/s?id=1872808021299718116&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "15分钟“圈”出文化新生活,_淄博_ 高新区“微光学堂”启动,12项非遗...",
-          "url": "https://baijiahao.baidu.com/s?id=1872769893234672669&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "权威发布丨 _淄博市_ 商务局:聚焦四大主线!全力深耕扩内需、稳增长",
-          "url": "https://baijiahao.baidu.com/s?id=1872763222872446591&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_:坚韧向前 稳步向好",
-          "url": "https://zibo.iqilu.com/zbyaowen/2026/0731/5932749.shtml",
-          "meta": "zibo.iqilu.com"
-        },
-        {
-          "rank": 5,
-          "title": "权威发布丨争创区域性消费中心城市 _淄博_ 加力实施消费提振扩容工程",
-          "url": "https://baijiahao.baidu.com/s?id=1872669512751362048&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "...今天仍是高温橙色预警;省气象台:德州、济南、_淄博_ 等12市局部40...",
-          "url": "https://baijiahao.baidu.com/s?id=1872817809885976618&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "越夜越美味!一口解锁盛夏烟火,_淄博_ 宝藏夜市推荐!公交一站直达→",
-          "url": "https://baijiahao.baidu.com/s?id=1872138630088973013&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
