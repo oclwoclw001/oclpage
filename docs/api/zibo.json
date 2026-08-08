@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-08T09:45:44.575Z",
-  "count": 10,
+  "updatedAt": "2026-08-08T10:40:54.227Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,36 +32,6 @@
       "title": "夏日乡野乐趣多",
       "url": "http://www.zbnews.net/content/2026-08/03/content_3198414.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "2026高端全屋定制选购标准与家装避坑指南:_淄博_ 本地业主专属干货解析",
-      "url": "https://baijiahao.baidu.com/s?id=1872943914410099336&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "「头条」白墨筑基·专色赋能!佰致达七色数码印刷机落户 _淄博_ 鑫印...",
-      "url": "https://baijiahao.baidu.com/s?id=1872871663188610949&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "权威发布丨争创区域性消费中心城市 _淄博_ 加力实施消费提振扩容工程",
-      "url": "https://baijiahao.baidu.com/s?id=1872669512751362048&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "已超40℃!这份 _淄博_ 夏日“清凉”指南请收好!体感直降10℃→",
-      "url": "https://baijiahao.baidu.com/s?id=1872677428200183045&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "越夜越美味!一口解锁盛夏烟火,_淄博_ 宝藏夜市推荐!公交一站直达→",
-      "url": "https://baijiahao.baidu.com/s?id=1872138630088973013&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -104,38 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "2026高端全屋定制选购标准与家装避坑指南:_淄博_ 本地业主专属干货解析",
-          "url": "https://baijiahao.baidu.com/s?id=1872943914410099336&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "「头条」白墨筑基·专色赋能!佰致达七色数码印刷机落户 _淄博_ 鑫印...",
-          "url": "https://baijiahao.baidu.com/s?id=1872871663188610949&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "权威发布丨争创区域性消费中心城市 _淄博_ 加力实施消费提振扩容工程",
-          "url": "https://baijiahao.baidu.com/s?id=1872669512751362048&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "已超40℃!这份 _淄博_ 夏日“清凉”指南请收好!体感直降10℃→",
-          "url": "https://baijiahao.baidu.com/s?id=1872677428200183045&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "越夜越美味!一口解锁盛夏烟火,_淄博_ 宝藏夜市推荐!公交一站直达→",
-          "url": "https://baijiahao.baidu.com/s?id=1872138630088973013&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
