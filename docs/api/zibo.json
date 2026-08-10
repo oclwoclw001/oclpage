@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-10T06:15:31.446Z",
-  "count": 10,
+  "updatedAt": "2026-08-10T08:45:03.614Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,36 +32,6 @@
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博_ 正上再生资源有限公司完成商务部绿色流通服务企业备案公示...",
-      "url": "https://baijiahao.baidu.com/s?id=1873103704492024471&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "权威发布丨 _淄博市_ 商务局:聚焦四大主线!全力深耕扩内需、稳增长",
-      "url": "https://baijiahao.baidu.com/s?id=1872763222872446591&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "权威发布丨 _淄博_:以高质量文旅活动供给激活消费市场",
-      "url": "https://baijiahao.baidu.com/s?id=1872669512748331588&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "权威发布丨争创区域性消费中心城市 _淄博_ 加力实施消费提振扩容工程",
-      "url": "https://baijiahao.baidu.com/s?id=1872669512751362048&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "近郊出游首选!_淄博_ 这里藏着满满乡村烟火与野趣",
-      "url": "https://baijiahao.baidu.com/s?id=1872591690716700830&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -104,38 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博_ 正上再生资源有限公司完成商务部绿色流通服务企业备案公示...",
-          "url": "https://baijiahao.baidu.com/s?id=1873103704492024471&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "权威发布丨 _淄博市_ 商务局:聚焦四大主线!全力深耕扩内需、稳增长",
-          "url": "https://baijiahao.baidu.com/s?id=1872763222872446591&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "权威发布丨 _淄博_:以高质量文旅活动供给激活消费市场",
-          "url": "https://baijiahao.baidu.com/s?id=1872669512748331588&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "权威发布丨争创区域性消费中心城市 _淄博_ 加力实施消费提振扩容工程",
-          "url": "https://baijiahao.baidu.com/s?id=1872669512751362048&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "近郊出游首选!_淄博_ 这里藏着满满乡村烟火与野趣",
-          "url": "https://baijiahao.baidu.com/s?id=1872591690716700830&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
