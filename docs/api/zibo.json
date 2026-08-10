@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-10T08:45:03.614Z",
-  "count": 5,
+  "updatedAt": "2026-08-10T10:24:07.990Z",
+  "count": 11,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,42 @@
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博_“探麟志・林影寻踪”青年创意文化交流活动落幕 小众文创...",
+      "url": "https://baijiahao.baidu.com/s?id=1873131295451139990&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "警媒联动话安全 _淄博_ 交警“齐鲁守护 幸‘盔’有你”交通安全公益...",
+      "url": "https://baijiahao.baidu.com/s?id=1873130048140146834&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "近郊出游首选!_淄博_ 这里藏着满满乡村烟火与野趣",
+      "url": "https://baijiahao.baidu.com/s?id=1872591690716700830&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博_ 发布雷电黄色预警,未来三天雷雨大风持续上线",
+      "url": "https://baijiahao.baidu.com/s?id=1873124279636729070&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "高温预警升为红色!2日下午至4日,_淄博_ 局部最高气温40℃以上",
+      "url": "https://baijiahao.baidu.com/s?id=1872393958727641936&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "山东省 _淄博市_ 沂源县发布雷电黄色预警信号",
+      "url": "https://baijiahao.baidu.com/s?id=1873105760945648573&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +110,44 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博_“探麟志・林影寻踪”青年创意文化交流活动落幕 小众文创...",
+          "url": "https://baijiahao.baidu.com/s?id=1873131295451139990&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "警媒联动话安全 _淄博_ 交警“齐鲁守护 幸‘盔’有你”交通安全公益...",
+          "url": "https://baijiahao.baidu.com/s?id=1873130048140146834&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "近郊出游首选!_淄博_ 这里藏着满满乡村烟火与野趣",
+          "url": "https://baijiahao.baidu.com/s?id=1872591690716700830&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博_ 发布雷电黄色预警,未来三天雷雨大风持续上线",
+          "url": "https://baijiahao.baidu.com/s?id=1873124279636729070&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "高温预警升为红色!2日下午至4日,_淄博_ 局部最高气温40℃以上",
+          "url": "https://baijiahao.baidu.com/s?id=1872393958727641936&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "山东省 _淄博市_ 沂源县发布雷电黄色预警信号",
+          "url": "https://baijiahao.baidu.com/s?id=1873105760945648573&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
