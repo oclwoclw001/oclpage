@@ -1,67 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-13T23:50:42.485Z",
-  "count": 10,
+  "updatedAt": "2026-08-14T02:32:43.565Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "中华财险山东首单智能机器人保险落地 _淄博",
-      "url": "https://baijiahao.baidu.com/s?id=1873379946981434339&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_:从“卖风景”到“造场景” 激活文旅新“夜”态",
-      "url": "https://baijiahao.baidu.com/s?id=1873198150860601832&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "感知山东记者谈丨 _淄博_:“00后”匠人用一把琉璃火 点亮千年非遗的...",
-      "url": "https://baijiahao.baidu.com/s?id=1873394287644155523&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "济南地铁里再现“双向奔赴” _淄博_“手艺人”乘客被“爱心雨衣”暖...",
-      "url": "https://baijiahao.baidu.com/s?id=1873450595232256482&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "一张票根玩转全城!_淄博_ 张店这波啤酒节“隐藏”福利不要错过",
-      "url": "https://baijiahao.baidu.com/s?id=1873374504899537080&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "中共 _淄博_ 市委十三届十一次全体会议举行",
-      "url": "https://baijiahao.baidu.com/s?id=1873396739437643119&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "庙会“警”相随 雨“警”更动人 _淄博_ 博山交警坚守岗位保畅通",
-      "url": "https://baijiahao.baidu.com/s?id=1873394287646436151&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "临沂女篮乙组85:63力克 _淄博_,斩获省运会集体项目首金",
-      "url": "https://baijiahao.baidu.com/s?id=1873392842246256228&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 9,
-      "title": "淄博_ 发布“淄博2026青岛啤酒节暨烧烤体验活动”交通出行及停车提醒",
-      "url": "https://baijiahao.baidu.com/s?id=1873401837939436947&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -80,62 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "中华财险山东首单智能机器人保险落地 _淄博",
-          "url": "https://baijiahao.baidu.com/s?id=1873379946981434339&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_:从“卖风景”到“造场景” 激活文旅新“夜”态",
-          "url": "https://baijiahao.baidu.com/s?id=1873198150860601832&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "感知山东记者谈丨 _淄博_:“00后”匠人用一把琉璃火 点亮千年非遗的...",
-          "url": "https://baijiahao.baidu.com/s?id=1873394287644155523&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "济南地铁里再现“双向奔赴” _淄博_“手艺人”乘客被“爱心雨衣”暖...",
-          "url": "https://baijiahao.baidu.com/s?id=1873450595232256482&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "一张票根玩转全城!_淄博_ 张店这波啤酒节“隐藏”福利不要错过",
-          "url": "https://baijiahao.baidu.com/s?id=1873374504899537080&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "中共 _淄博_ 市委十三届十一次全体会议举行",
-          "url": "https://baijiahao.baidu.com/s?id=1873396739437643119&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "庙会“警”相随 雨“警”更动人 _淄博_ 博山交警坚守岗位保畅通",
-          "url": "https://baijiahao.baidu.com/s?id=1873394287646436151&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "临沂女篮乙组85:63力克 _淄博_,斩获省运会集体项目首金",
-          "url": "https://baijiahao.baidu.com/s?id=1873392842246256228&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 9,
-          "title": "淄博_ 发布“淄博2026青岛啤酒节暨烧烤体验活动”交通出行及停车提醒",
-          "url": "https://baijiahao.baidu.com/s?id=1873401837939436947&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
