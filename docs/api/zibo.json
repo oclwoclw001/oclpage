@@ -1,13 +1,49 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-14T02:32:43.565Z",
-  "count": 1,
+  "updatedAt": "2026-08-14T04:54:50.094Z",
+  "count": 7,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博_:从“卖风景”到“造场景” 激活文旅新“夜”态",
+      "url": "https://baijiahao.baidu.com/s?id=1873198150860601832&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "防患于未“燃”——百年人寿 _淄博市_ 淄川支公司开展消防安全培训演练",
+      "url": "https://baijiahao.baidu.com/s?id=1873469598026753090&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博_ 高新区公安联合区教体中心开展保安员集中培训",
+      "url": "https://baijiahao.baidu.com/s?id=1873469785870203963&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "中建一局总承包公司 _淄博_ 火车站北广场洪沟保安片区城市更新项目...",
+      "url": "https://baijiahao.baidu.com/s?id=1873222092458494235&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "5座大中型水库等完成调试工作!_淄博_ 最新发布→",
+      "url": "https://baijiahao.baidu.com/s?id=1873196295953287248&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "淄博市_ 人民政府发布一批最新人事任免,任命罗兴华为淄博市人民政府...",
+      "url": "https://baijiahao.baidu.com/s?id=1873235838363370265&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +62,44 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博_:从“卖风景”到“造场景” 激活文旅新“夜”态",
+          "url": "https://baijiahao.baidu.com/s?id=1873198150860601832&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "防患于未“燃”——百年人寿 _淄博市_ 淄川支公司开展消防安全培训演练",
+          "url": "https://baijiahao.baidu.com/s?id=1873469598026753090&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博_ 高新区公安联合区教体中心开展保安员集中培训",
+          "url": "https://baijiahao.baidu.com/s?id=1873469785870203963&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "中建一局总承包公司 _淄博_ 火车站北广场洪沟保安片区城市更新项目...",
+          "url": "https://baijiahao.baidu.com/s?id=1873222092458494235&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "5座大中型水库等完成调试工作!_淄博_ 最新发布→",
+          "url": "https://baijiahao.baidu.com/s?id=1873196295953287248&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "淄博市_ 人民政府发布一批最新人事任免,任命罗兴华为淄博市人民政府...",
+          "url": "https://baijiahao.baidu.com/s?id=1873235838363370265&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
