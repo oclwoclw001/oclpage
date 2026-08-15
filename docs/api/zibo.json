@@ -1,13 +1,55 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-15T19:26:34.381Z",
-  "count": 1,
+  "updatedAt": "2026-08-15T20:30:20.609Z",
+  "count": 8,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "中路财产保险 _淄博_ 中心支公司和淄川支公司同日领罚!涉“造假”和...",
+      "url": "https://baijiahao.baidu.com/s?id=1873561152208016654&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "淄博市_ 淄川区开展汽车租赁行业检查治理行动",
+      "url": "https://baijiahao.baidu.com/s?id=1873496681684312560&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "好山东|_淄博_ 百年大集去了又来,循着烟火气,十里八乡都来了",
+      "url": "https://baijiahao.baidu.com/s?id=1873581024003180223&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博_:从“卖风景”到“造场景” 激活文旅新“夜”态",
+      "url": "https://baijiahao.baidu.com/s?id=1873198150860601832&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "淄博_ 一地公布中小学招生划片范围",
+      "url": "https://baijiahao.baidu.com/s?id=1873579562611671889&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "中建一局总承包公司 _淄博_ 火车站北广场洪沟保安片区城市更新项目...",
+      "url": "https://baijiahao.baidu.com/s?id=1873222092458494235&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "淄博_ 发布“淄博2026青岛啤酒节暨烧烤体验活动”交通出行及停车提醒",
+      "url": "https://baijiahao.baidu.com/s?id=1873401837939436947&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +68,50 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "中路财产保险 _淄博_ 中心支公司和淄川支公司同日领罚!涉“造假”和...",
+          "url": "https://baijiahao.baidu.com/s?id=1873561152208016654&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "淄博市_ 淄川区开展汽车租赁行业检查治理行动",
+          "url": "https://baijiahao.baidu.com/s?id=1873496681684312560&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "好山东|_淄博_ 百年大集去了又来,循着烟火气,十里八乡都来了",
+          "url": "https://baijiahao.baidu.com/s?id=1873581024003180223&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博_:从“卖风景”到“造场景” 激活文旅新“夜”态",
+          "url": "https://baijiahao.baidu.com/s?id=1873198150860601832&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "淄博_ 一地公布中小学招生划片范围",
+          "url": "https://baijiahao.baidu.com/s?id=1873579562611671889&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "中建一局总承包公司 _淄博_ 火车站北广场洪沟保安片区城市更新项目...",
+          "url": "https://baijiahao.baidu.com/s?id=1873222092458494235&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "淄博_ 发布“淄博2026青岛啤酒节暨烧烤体验活动”交通出行及停车提醒",
+          "url": "https://baijiahao.baidu.com/s?id=1873401837939436947&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
