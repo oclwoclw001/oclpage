@@ -1,55 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-17T21:31:44.949Z",
-  "count": 8,
+  "updatedAt": "2026-08-17T22:31:32.128Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博_ 高青:黄河岸边的“甜蜜密码”",
-      "url": "https://baijiahao.baidu.com/s?id=1873739091193369290&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_:从“卖风景”到“造场景” 激活文旅新“夜”态",
-      "url": "https://baijiahao.baidu.com/s?id=1873198150860601832&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博市_ 淄川区开展汽车租赁行业检查治理行动",
-      "url": "https://baijiahao.baidu.com/s?id=1873496681684312560&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "济南和 _淄博_ 新增一条跨城公交接驳通道",
-      "url": "https://baijiahao.baidu.com/s?id=1873743927817613587&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博市_ 焦裕禄纪念馆举办建馆60周年系列活动",
-      "url": "https://baijiahao.baidu.com/s?id=1873764226034405106&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "九江韶谙新材料有限公司 _淄博市_ 分公司完成商务部绿色流通服务企业...",
-      "url": "https://baijiahao.baidu.com/s?id=1873742466009632818&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "淄博_ 一地发布学校转学通知!这些学校空余学位公布→",
-      "url": "https://baijiahao.baidu.com/s?id=1873752846666279177&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -68,50 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博_ 高青:黄河岸边的“甜蜜密码”",
-          "url": "https://baijiahao.baidu.com/s?id=1873739091193369290&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_:从“卖风景”到“造场景” 激活文旅新“夜”态",
-          "url": "https://baijiahao.baidu.com/s?id=1873198150860601832&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博市_ 淄川区开展汽车租赁行业检查治理行动",
-          "url": "https://baijiahao.baidu.com/s?id=1873496681684312560&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "济南和 _淄博_ 新增一条跨城公交接驳通道",
-          "url": "https://baijiahao.baidu.com/s?id=1873743927817613587&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博市_ 焦裕禄纪念馆举办建馆60周年系列活动",
-          "url": "https://baijiahao.baidu.com/s?id=1873764226034405106&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "九江韶谙新材料有限公司 _淄博市_ 分公司完成商务部绿色流通服务企业...",
-          "url": "https://baijiahao.baidu.com/s?id=1873742466009632818&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "淄博_ 一地发布学校转学通知!这些学校空余学位公布→",
-          "url": "https://baijiahao.baidu.com/s?id=1873752846666279177&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
