@@ -1,73 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-18T15:38:02.962Z",
-  "count": 11,
+  "updatedAt": "2026-08-18T16:39:24.904Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博市_ 妇联随省妇联赴甘肃开展东西部协作交流",
-      "url": "https://baijiahao.baidu.com/s?id=1873866045146793354&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 1-7月外贸经济稳中有进",
-      "url": "https://baijiahao.baidu.com/s?id=1873854792209144001&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "百年人寿 _淄博_ 中心支公司携手青年学生志愿者,聚力星辰暖童心",
-      "url": "https://baijiahao.baidu.com/s?id=1873863159483858097&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 淄川:近万亩富硒猕猴桃喜获丰收 果农采摘上市忙",
-      "url": "https://baijiahao.baidu.com/s?id=1873854823148901253&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "从安贞到 _淄博_,“大血管工匠”郑斯宏的再出发",
-      "url": "https://baijiahao.baidu.com/s?id=1873850639870597443&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "银行卡号不用换,直接升级“一卡通”!_淄博_ 社保卡便民服务再升级",
-      "url": "https://baijiahao.baidu.com/s?id=1873846015249525368&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "淄博_:从“卖风景”到“造场景” 激活文旅新“夜”态",
-      "url": "https://baijiahao.baidu.com/s?id=1873198150860601832&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "淄博_ 火车站上演暖心一幕:客运员肩扛走失女童助其寻亲",
-      "url": "https://baijiahao.baidu.com/s?id=1873855568099645401&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 9,
-      "title": "济南和 _淄博_ 新增一条跨城公交接驳通道",
-      "url": "https://baijiahao.baidu.com/s?id=1873818271242838251&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 10,
-      "title": "淄博市_ 淄川区开展汽车租赁行业检查治理行动",
-      "url": "https://baijiahao.baidu.com/s?id=1873496681684312560&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -86,68 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博市_ 妇联随省妇联赴甘肃开展东西部协作交流",
-          "url": "https://baijiahao.baidu.com/s?id=1873866045146793354&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 1-7月外贸经济稳中有进",
-          "url": "https://baijiahao.baidu.com/s?id=1873854792209144001&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "百年人寿 _淄博_ 中心支公司携手青年学生志愿者,聚力星辰暖童心",
-          "url": "https://baijiahao.baidu.com/s?id=1873863159483858097&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 淄川:近万亩富硒猕猴桃喜获丰收 果农采摘上市忙",
-          "url": "https://baijiahao.baidu.com/s?id=1873854823148901253&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "从安贞到 _淄博_,“大血管工匠”郑斯宏的再出发",
-          "url": "https://baijiahao.baidu.com/s?id=1873850639870597443&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "银行卡号不用换,直接升级“一卡通”!_淄博_ 社保卡便民服务再升级",
-          "url": "https://baijiahao.baidu.com/s?id=1873846015249525368&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "淄博_:从“卖风景”到“造场景” 激活文旅新“夜”态",
-          "url": "https://baijiahao.baidu.com/s?id=1873198150860601832&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "淄博_ 火车站上演暖心一幕:客运员肩扛走失女童助其寻亲",
-          "url": "https://baijiahao.baidu.com/s?id=1873855568099645401&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 9,
-          "title": "济南和 _淄博_ 新增一条跨城公交接驳通道",
-          "url": "https://baijiahao.baidu.com/s?id=1873818271242838251&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 10,
-          "title": "淄博市_ 淄川区开展汽车租赁行业检查治理行动",
-          "url": "https://baijiahao.baidu.com/s?id=1873496681684312560&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
