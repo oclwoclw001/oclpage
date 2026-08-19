@@ -1,13 +1,55 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-19T07:46:43.149Z",
-  "count": 1,
+  "updatedAt": "2026-08-19T08:47:02.265Z",
+  "count": 8,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博_:盛夏狂欢启幕 “藏蓝”坚守护航",
+      "url": "https://baijiahao.baidu.com/s?id=1873937871596603896&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "“齐韵书香·馆校共读”_淄博市_ 中小学必读书目名师讲堂第五期举行",
+      "url": "https://baijiahao.baidu.com/s?id=1873922771002347066&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "暖心瞬间!女童车站走失 _淄博_ 站客运值班员扛肩寻亲",
+      "url": "https://baijiahao.baidu.com/s?id=1873922771002463873&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博市_ 淄川区开展汽车租赁行业检查治理行动",
+      "url": "https://baijiahao.baidu.com/s?id=1873496681684312560&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "...2026年“为福添彩 圆梦大学生行动”走进 _淄博_ 博山,倾听青春心愿",
+      "url": "https://baijiahao.baidu.com/s?id=1873912608135469071&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "淄博_ 多家公司机动车拍卖!起拍价最低2100元",
+      "url": "https://baijiahao.baidu.com/s?id=1873913421772887115&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "2天穿越千年时光!来 _淄博_ 这座小城,沉浸式解锁齐风岁月~",
+      "url": "https://baijiahao.baidu.com/s?id=1873762507062422986&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +68,50 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博_:盛夏狂欢启幕 “藏蓝”坚守护航",
+          "url": "https://baijiahao.baidu.com/s?id=1873937871596603896&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "“齐韵书香·馆校共读”_淄博市_ 中小学必读书目名师讲堂第五期举行",
+          "url": "https://baijiahao.baidu.com/s?id=1873922771002347066&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "暖心瞬间!女童车站走失 _淄博_ 站客运值班员扛肩寻亲",
+          "url": "https://baijiahao.baidu.com/s?id=1873922771002463873&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博市_ 淄川区开展汽车租赁行业检查治理行动",
+          "url": "https://baijiahao.baidu.com/s?id=1873496681684312560&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "...2026年“为福添彩 圆梦大学生行动”走进 _淄博_ 博山,倾听青春心愿",
+          "url": "https://baijiahao.baidu.com/s?id=1873912608135469071&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "淄博_ 多家公司机动车拍卖!起拍价最低2100元",
+          "url": "https://baijiahao.baidu.com/s?id=1873913421772887115&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "2天穿越千年时光!来 _淄博_ 这座小城,沉浸式解锁齐风岁月~",
+          "url": "https://baijiahao.baidu.com/s?id=1873762507062422986&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
