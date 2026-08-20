@@ -1,13 +1,55 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-20T17:36:30.643Z",
-  "count": 1,
+  "updatedAt": "2026-08-20T18:50:59.969Z",
+  "count": 8,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "2天穿越千年时光!来 _淄博_ 这座小城,沉浸式解锁齐风岁月~",
+      "url": "https://baijiahao.baidu.com/s?id=1873762507062422986&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "中共 _淄博_ 市委十三届十一次全体会议举行",
+      "url": "https://baijiahao.baidu.com/s?id=1873396739437643119&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "...层次外国专家齐鲁行暨2026金科力蓄电池技术发展洽谈会在 _淄博_ 举行",
+      "url": "https://baijiahao.baidu.com/s?id=1874028468750038129&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博市_“大学生就业体验营”开启人才专属“鹊桥会”",
+      "url": "https://baijiahao.baidu.com/s?id=1874013367501176598&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "淄博_ 民警30分钟雨中寻回手机,失主送锦旗致谢",
+      "url": "https://baijiahao.baidu.com/s?id=1874018872923807861&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "才入咽喉,又上心头!_淄博_ 淄川黛青山矿山复绿结出秋日甜果",
+      "url": "https://baijiahao.baidu.com/s?id=1874029505579293086&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "...博山啦!|2026年劳动力调查和就业服务进社区宣传服务活动(_淄博_ 站)",
+      "url": "https://baijiahao.baidu.com/s?id=1874030951216034792&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +68,50 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "2天穿越千年时光!来 _淄博_ 这座小城,沉浸式解锁齐风岁月~",
+          "url": "https://baijiahao.baidu.com/s?id=1873762507062422986&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "中共 _淄博_ 市委十三届十一次全体会议举行",
+          "url": "https://baijiahao.baidu.com/s?id=1873396739437643119&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "...层次外国专家齐鲁行暨2026金科力蓄电池技术发展洽谈会在 _淄博_ 举行",
+          "url": "https://baijiahao.baidu.com/s?id=1874028468750038129&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博市_“大学生就业体验营”开启人才专属“鹊桥会”",
+          "url": "https://baijiahao.baidu.com/s?id=1874013367501176598&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "淄博_ 民警30分钟雨中寻回手机,失主送锦旗致谢",
+          "url": "https://baijiahao.baidu.com/s?id=1874018872923807861&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "才入咽喉,又上心头!_淄博_ 淄川黛青山矿山复绿结出秋日甜果",
+          "url": "https://baijiahao.baidu.com/s?id=1874029505579293086&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "...博山啦!|2026年劳动力调查和就业服务进社区宣传服务活动(_淄博_ 站)",
+          "url": "https://baijiahao.baidu.com/s?id=1874030951216034792&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
