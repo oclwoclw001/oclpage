@@ -1,55 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-21T05:38:44.527Z",
-  "count": 8,
+  "updatedAt": "2026-08-21T06:58:34.928Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "2天穿越千年时光!来 _淄博_ 这座小城,沉浸式解锁齐风岁月~",
-      "url": "https://baijiahao.baidu.com/s?id=1873762507062422986&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 一妇幼保健院内设立婚姻登记处,当地民政局:该处只办结婚不办...",
-      "url": "https://baijiahao.baidu.com/s?id=1874096872486094546&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "医院也可以领结婚证了!_淄博_ 一妇幼保健院内设立婚姻登记处,婚检后...",
-      "url": "https://baijiahao.baidu.com/s?id=1874095483696027957&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "医院能办结婚证了,_淄博_ 一妇幼保健院内设立婚姻登记处,院方:婚前...",
-      "url": "https://baijiahao.baidu.com/s?id=1874092474702671778&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "8月20日至24日 _淄博_ 多雷阵雨天气,最高气温33~35℃",
-      "url": "https://baijiahao.baidu.com/s?id=1874005157244569462&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博_ 淄川:近万亩富硒猕猴桃喜获丰收 果农采摘上市忙",
-      "url": "https://baijiahao.baidu.com/s?id=1873854823148901253&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "...博山啦!|2026年劳动力调查和就业服务进社区宣传服务活动(_淄博_ 站)",
-      "url": "https://baijiahao.baidu.com/s?id=1874030951216034792&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -68,50 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "2天穿越千年时光!来 _淄博_ 这座小城,沉浸式解锁齐风岁月~",
-          "url": "https://baijiahao.baidu.com/s?id=1873762507062422986&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 一妇幼保健院内设立婚姻登记处,当地民政局:该处只办结婚不办...",
-          "url": "https://baijiahao.baidu.com/s?id=1874096872486094546&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "医院也可以领结婚证了!_淄博_ 一妇幼保健院内设立婚姻登记处,婚检后...",
-          "url": "https://baijiahao.baidu.com/s?id=1874095483696027957&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "医院能办结婚证了,_淄博_ 一妇幼保健院内设立婚姻登记处,院方:婚前...",
-          "url": "https://baijiahao.baidu.com/s?id=1874092474702671778&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "8月20日至24日 _淄博_ 多雷阵雨天气,最高气温33~35℃",
-          "url": "https://baijiahao.baidu.com/s?id=1874005157244569462&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博_ 淄川:近万亩富硒猕猴桃喜获丰收 果农采摘上市忙",
-          "url": "https://baijiahao.baidu.com/s?id=1873854823148901253&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "...博山啦!|2026年劳动力调查和就业服务进社区宣传服务活动(_淄博_ 站)",
-          "url": "https://baijiahao.baidu.com/s?id=1874030951216034792&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
