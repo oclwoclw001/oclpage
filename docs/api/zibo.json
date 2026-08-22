@@ -1,14 +1,8 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-22T01:41:08.107Z",
-  "count": 10,
+  "updatedAt": "2026-08-22T03:02:10.709Z",
+  "count": 9,
   "items": [
-    {
-      "rank": 1,
-      "title": "我市再添一条“全国美丽公路”",
-      "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
-      "meta": "zbnews.net"
-    },
     {
       "rank": 1,
       "title": "2天穿越千年时光!来 _淄博_ 这座小城,沉浸式解锁齐风岁月~",
@@ -68,14 +62,7 @@
     {
       "key": "local",
       "title": "淄博新闻网",
-      "items": [
-        {
-          "rank": 1,
-          "title": "我市再添一条“全国美丽公路”",
-          "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
-          "meta": "zbnews.net"
-        }
-      ]
+      "items": []
     },
     {
       "key": "province",
