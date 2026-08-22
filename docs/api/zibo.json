@@ -1,13 +1,61 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-22T05:33:41.564Z",
-  "count": 1,
+  "updatedAt": "2026-08-22T07:37:23.663Z",
+  "count": 9,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "2天穿越千年时光!来 _淄博_ 这座小城,沉浸式解锁齐风岁月~",
+      "url": "https://baijiahao.baidu.com/s?id=1873762507062422986&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "淄博_ 烧烤到底为什么火“出圈”?让小么哥张勇跟你“拉一拉”",
+      "url": "https://baijiahao.baidu.com/s?id=1873491775516659225&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "“链”接资本 “贷”动转型:金融赋能 _淄博_ 转型发展",
+      "url": "https://baijiahao.baidu.com/s?id=1874120260769681757&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "8月20日至24日 _淄博_ 多雷阵雨天气,最高气温33~35℃",
+      "url": "https://baijiahao.baidu.com/s?id=1874005157244569462&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "第30届鲁台经贸洽谈会8月31日至9月3日举办!主会场设在潍坊,_淄博_...",
+      "url": "https://baijiahao.baidu.com/s?id=1874129504028296333&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "淄博_ 淄川:近万亩富硒猕猴桃喜获丰收 果农采摘上市忙",
+      "url": "https://baijiahao.baidu.com/s?id=1873854823148901253&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "淄博_ 正昕再生资源有限公司完成商务部绿色流通服务企业备案公示...",
+      "url": "https://baijiahao.baidu.com/s?id=1874126861236568858&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "淄博_ 一医院申请停业",
+      "url": "https://baijiahao.baidu.com/s?id=1873633808943761056&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +74,56 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "2天穿越千年时光!来 _淄博_ 这座小城,沉浸式解锁齐风岁月~",
+          "url": "https://baijiahao.baidu.com/s?id=1873762507062422986&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "淄博_ 烧烤到底为什么火“出圈”?让小么哥张勇跟你“拉一拉”",
+          "url": "https://baijiahao.baidu.com/s?id=1873491775516659225&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "“链”接资本 “贷”动转型:金融赋能 _淄博_ 转型发展",
+          "url": "https://baijiahao.baidu.com/s?id=1874120260769681757&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "8月20日至24日 _淄博_ 多雷阵雨天气,最高气温33~35℃",
+          "url": "https://baijiahao.baidu.com/s?id=1874005157244569462&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "第30届鲁台经贸洽谈会8月31日至9月3日举办!主会场设在潍坊,_淄博_...",
+          "url": "https://baijiahao.baidu.com/s?id=1874129504028296333&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "淄博_ 淄川:近万亩富硒猕猴桃喜获丰收 果农采摘上市忙",
+          "url": "https://baijiahao.baidu.com/s?id=1873854823148901253&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "淄博_ 正昕再生资源有限公司完成商务部绿色流通服务企业备案公示...",
+          "url": "https://baijiahao.baidu.com/s?id=1874126861236568858&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "淄博_ 一医院申请停业",
+          "url": "https://baijiahao.baidu.com/s?id=1873633808943761056&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
