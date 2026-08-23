@@ -1,49 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-23T19:27:19.954Z",
-  "count": 7,
+  "updatedAt": "2026-08-23T20:31:24.496Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "2天穿越千年时光!来 _淄博_ 这座小城,沉浸式解锁齐风岁月~",
-      "url": "https://baijiahao.baidu.com/s?id=1873762507062422986&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 烧烤到底为什么火“出圈”?让小么哥张勇跟你“拉一拉”",
-      "url": "https://baijiahao.baidu.com/s?id=1873491775516659225&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "“链”接资本 “贷”动转型:金融赋能 _淄博_ 转型发展",
-      "url": "https://baijiahao.baidu.com/s?id=1874120260769681757&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 一医院申请停业",
-      "url": "https://baijiahao.baidu.com/s?id=1873633808943761056&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博市_ 政府最新人事任免",
-      "url": "https://baijiahao.baidu.com/s?id=1874200293405106700&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博市_ 发布最新人事任免",
-      "url": "https://baijiahao.baidu.com/s?id=1874216835941600136&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -62,44 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "2天穿越千年时光!来 _淄博_ 这座小城,沉浸式解锁齐风岁月~",
-          "url": "https://baijiahao.baidu.com/s?id=1873762507062422986&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 烧烤到底为什么火“出圈”?让小么哥张勇跟你“拉一拉”",
-          "url": "https://baijiahao.baidu.com/s?id=1873491775516659225&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "“链”接资本 “贷”动转型:金融赋能 _淄博_ 转型发展",
-          "url": "https://baijiahao.baidu.com/s?id=1874120260769681757&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 一医院申请停业",
-          "url": "https://baijiahao.baidu.com/s?id=1873633808943761056&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博市_ 政府最新人事任免",
-          "url": "https://baijiahao.baidu.com/s?id=1874200293405106700&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博市_ 发布最新人事任免",
-          "url": "https://baijiahao.baidu.com/s?id=1874216835941600136&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
