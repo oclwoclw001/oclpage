@@ -1,31 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-23T01:51:09.845Z",
-  "count": 4,
+  "updatedAt": "2026-08-23T03:10:18.802Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博_ 烧烤到底为什么火“出圈”?让小么哥张勇跟你“拉一拉”",
-      "url": "https://baijiahao.baidu.com/s?id=1873491775516659225&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "8月20日至24日 _淄博_ 多雷阵雨天气,最高气温33~35℃",
-      "url": "https://baijiahao.baidu.com/s?id=1874005157244569462&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博_ 一医院申请停业",
-      "url": "https://baijiahao.baidu.com/s?id=1873633808943761056&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -44,26 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博_ 烧烤到底为什么火“出圈”?让小么哥张勇跟你“拉一拉”",
-          "url": "https://baijiahao.baidu.com/s?id=1873491775516659225&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "8月20日至24日 _淄博_ 多雷阵雨天气,最高气温33~35℃",
-          "url": "https://baijiahao.baidu.com/s?id=1874005157244569462&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博_ 一医院申请停业",
-          "url": "https://baijiahao.baidu.com/s?id=1873633808943761056&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
