@@ -1,13 +1,61 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-25T19:37:37.415Z",
-  "count": 1,
+  "updatedAt": "2026-08-25T20:37:02.531Z",
+  "count": 9,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博_|淄博推动工业向智向新向强迈进",
+      "url": "https://baijiahao.baidu.com/s?id=1874460595724372082&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "在 _淄博_ 八大局,感受烟火新流量",
+      "url": "https://baijiahao.baidu.com/s?id=1874462642975902683&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "马彪彪、龙龖龘出圈背后:_淄博_ 解锁传统手艺的打开新方式|活力中国...",
+      "url": "https://baijiahao.baidu.com/s?id=1874476985083516466&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "又上央视!_淄博_ 这里全新夜游场景,惊艳全国→",
+      "url": "https://baijiahao.baidu.com/s?id=1874405381561512839&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "齐鲁医药学院荣获2026年 _淄博市_ 乒协乒乓球赛混合团体赛冠军",
+      "url": "https://baijiahao.baidu.com/s?id=1874475004496273606&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "783套!_淄博_ 这里分房啦",
+      "url": "https://baijiahao.baidu.com/s?id=1874465488459167102&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "最新公告!_淄博_ 一路段即将施工",
+      "url": "https://baijiahao.baidu.com/s?id=1874485666933487504&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "淄博_ 投用森林防火无人机蜂巢系统",
+      "url": "https://baijiahao.baidu.com/s?id=1874472486523070826&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +74,56 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博_|淄博推动工业向智向新向强迈进",
+          "url": "https://baijiahao.baidu.com/s?id=1874460595724372082&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "在 _淄博_ 八大局,感受烟火新流量",
+          "url": "https://baijiahao.baidu.com/s?id=1874462642975902683&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "马彪彪、龙龖龘出圈背后:_淄博_ 解锁传统手艺的打开新方式|活力中国...",
+          "url": "https://baijiahao.baidu.com/s?id=1874476985083516466&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "又上央视!_淄博_ 这里全新夜游场景,惊艳全国→",
+          "url": "https://baijiahao.baidu.com/s?id=1874405381561512839&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "齐鲁医药学院荣获2026年 _淄博市_ 乒协乒乓球赛混合团体赛冠军",
+          "url": "https://baijiahao.baidu.com/s?id=1874475004496273606&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "783套!_淄博_ 这里分房啦",
+          "url": "https://baijiahao.baidu.com/s?id=1874465488459167102&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "最新公告!_淄博_ 一路段即将施工",
+          "url": "https://baijiahao.baidu.com/s?id=1874485666933487504&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "淄博_ 投用森林防火无人机蜂巢系统",
+          "url": "https://baijiahao.baidu.com/s?id=1874472486523070826&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
