@@ -1,55 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-25T11:34:44.843Z",
-  "count": 8,
+  "updatedAt": "2026-08-25T13:00:57.874Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博市_ 工会第十六次代表大会开幕",
-      "url": "https://baijiahao.baidu.com/s?id=1874411207380846076&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "「活力中国调研行」_淄博_ 烧烤的4.0进阶,“宝藏市场”八大局流量变...",
-      "url": "https://baijiahao.baidu.com/s?id=1874471543884902079&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "炉火正旺,好戏连台,_淄博_ 烧烤进化到4.0形态了|活力中国调研行",
-      "url": "https://baijiahao.baidu.com/s?id=1874449270130366049&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "流量红利褪去后,_淄博_ 烧烤热度不减秘密何在?|活力中国调研行",
-      "url": "https://baijiahao.baidu.com/s?id=1874455561365629291&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博_|淄博推动工业向智向新向强迈进",
-      "url": "https://baijiahao.baidu.com/s?id=1874460595724372082&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "在 _淄博_ 八大局,感受烟火新流量",
-      "url": "https://baijiahao.baidu.com/s?id=1874462642975902683&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "马彪彪、龙龖龘出圈背后:_淄博_ 解锁传统手艺的打开新方式|活力中国...",
-      "url": "https://baijiahao.baidu.com/s?id=1874476985083516466&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -68,50 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博市_ 工会第十六次代表大会开幕",
-          "url": "https://baijiahao.baidu.com/s?id=1874411207380846076&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "「活力中国调研行」_淄博_ 烧烤的4.0进阶,“宝藏市场”八大局流量变...",
-          "url": "https://baijiahao.baidu.com/s?id=1874471543884902079&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "炉火正旺,好戏连台,_淄博_ 烧烤进化到4.0形态了|活力中国调研行",
-          "url": "https://baijiahao.baidu.com/s?id=1874449270130366049&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "流量红利褪去后,_淄博_ 烧烤热度不减秘密何在?|活力中国调研行",
-          "url": "https://baijiahao.baidu.com/s?id=1874455561365629291&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博_|淄博推动工业向智向新向强迈进",
-          "url": "https://baijiahao.baidu.com/s?id=1874460595724372082&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "在 _淄博_ 八大局,感受烟火新流量",
-          "url": "https://baijiahao.baidu.com/s?id=1874462642975902683&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "马彪彪、龙龖龘出圈背后:_淄博_ 解锁传统手艺的打开新方式|活力中国...",
-          "url": "https://baijiahao.baidu.com/s?id=1874476985083516466&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
