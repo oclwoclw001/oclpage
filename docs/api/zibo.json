@@ -1,61 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-26T23:17:38.516Z",
-  "count": 9,
+  "updatedAt": "2026-08-27T08:55:35.595Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "爆红三年后,_淄博_ 八大局现状如何?|活力中国调研行",
-      "url": "https://baijiahao.baidu.com/s?id=1874580174026008742&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "活力中国调研行|爆红之后,_淄博_ 八大局如何留住人们的胃和心",
-      "url": "https://baijiahao.baidu.com/s?id=1874579755291393673&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "「活力中国调研行」_淄博_ 烧烤的4.0进阶,“宝藏市场”八大局流量变...",
-      "url": "https://baijiahao.baidu.com/s?id=1874471543884902079&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
-      "url": "https://baijiahao.baidu.com/s?id=1874563900868592817&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "活力中国调研行|暑期打卡热爆!_淄博_ 陶琉文脉出圈",
-      "url": "https://baijiahao.baidu.com/s?id=1874546287265082334&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博市_ 任命两位副市长",
-      "url": "https://baijiahao.baidu.com/s?id=1874591422447833362&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "邀你到烟台图书馆去逛展!_淄博_ 文化三宝展亮相烟台",
-      "url": "https://baijiahao.baidu.com/s?id=1874557484649276051&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "不是感冒!_淄博_ 一男子突发高烧后陷入昏迷,被判定为重症!医生提醒...",
-      "url": "https://baijiahao.baidu.com/s?id=1874577051774871431&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,56 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "爆红三年后,_淄博_ 八大局现状如何?|活力中国调研行",
-          "url": "https://baijiahao.baidu.com/s?id=1874580174026008742&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "活力中国调研行|爆红之后,_淄博_ 八大局如何留住人们的胃和心",
-          "url": "https://baijiahao.baidu.com/s?id=1874579755291393673&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "「活力中国调研行」_淄博_ 烧烤的4.0进阶,“宝藏市场”八大局流量变...",
-          "url": "https://baijiahao.baidu.com/s?id=1874471543884902079&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
-          "url": "https://baijiahao.baidu.com/s?id=1874563900868592817&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "活力中国调研行|暑期打卡热爆!_淄博_ 陶琉文脉出圈",
-          "url": "https://baijiahao.baidu.com/s?id=1874546287265082334&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博市_ 任命两位副市长",
-          "url": "https://baijiahao.baidu.com/s?id=1874591422447833362&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "邀你到烟台图书馆去逛展!_淄博_ 文化三宝展亮相烟台",
-          "url": "https://baijiahao.baidu.com/s?id=1874557484649276051&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "不是感冒!_淄博_ 一男子突发高烧后陷入昏迷,被判定为重症!医生提醒...",
-          "url": "https://baijiahao.baidu.com/s?id=1874577051774871431&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
