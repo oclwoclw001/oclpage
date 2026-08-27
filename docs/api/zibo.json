@@ -1,13 +1,55 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-27T08:55:35.595Z",
-  "count": 1,
+  "updatedAt": "2026-08-27T19:47:49.419Z",
+  "count": 8,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博市_ 工会第十六次代表大会开幕",
+      "url": "https://baijiahao.baidu.com/s?id=1874642166594503420&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
+      "url": "https://baijiahao.baidu.com/s?id=1874646853573154296&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博发布最新人事任免:戴益聪为 _淄博市_ 人民政府副市长;王建鲁为...",
+      "url": "https://baijiahao.baidu.com/s?id=1874640502236663777&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "排队三小时也要拍!来 _淄博_ 与她合影,随手一发就几万赞",
+      "url": "https://baijiahao.baidu.com/s?id=1874657958674938394&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "山东 _淄博_、潍坊发布最新人事任免",
+      "url": "https://baijiahao.baidu.com/s?id=1874641758360657983&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "告别“海投”迷茫!_淄博_ 这场体验营,让大学生提前“剧透”职业生涯",
+      "url": "https://baijiahao.baidu.com/s?id=1874678216586625672&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "局部大雨或暴雨!预计未来三天,山东多雷阵雨天气!_淄博_ 最新天气预报→",
+      "url": "https://baijiahao.baidu.com/s?id=1874664079660472217&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +68,50 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博市_ 工会第十六次代表大会开幕",
+          "url": "https://baijiahao.baidu.com/s?id=1874642166594503420&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
+          "url": "https://baijiahao.baidu.com/s?id=1874646853573154296&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博发布最新人事任免:戴益聪为 _淄博市_ 人民政府副市长;王建鲁为...",
+          "url": "https://baijiahao.baidu.com/s?id=1874640502236663777&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "排队三小时也要拍!来 _淄博_ 与她合影,随手一发就几万赞",
+          "url": "https://baijiahao.baidu.com/s?id=1874657958674938394&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "山东 _淄博_、潍坊发布最新人事任免",
+          "url": "https://baijiahao.baidu.com/s?id=1874641758360657983&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "告别“海投”迷茫!_淄博_ 这场体验营,让大学生提前“剧透”职业生涯",
+          "url": "https://baijiahao.baidu.com/s?id=1874678216586625672&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "局部大雨或暴雨!预计未来三天,山东多雷阵雨天气!_淄博_ 最新天气预报→",
+          "url": "https://baijiahao.baidu.com/s?id=1874664079660472217&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
