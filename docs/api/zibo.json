@@ -1,55 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-30T12:45:12.573Z",
-  "count": 8,
+  "updatedAt": "2026-08-30T17:19:03.383Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
-      "url": "https://baijiahao.baidu.com/s?id=1874563900868592817&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 街头,鲁C2*7被警方当街拦截!",
-      "url": "https://baijiahao.baidu.com/s?id=1874860320824996847&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博_ 这里发布搬迁通知!新址公布→",
-      "url": "https://baijiahao.baidu.com/s?id=1874909226464018314&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 一地最新人事任免",
-      "url": "https://baijiahao.baidu.com/s?id=1874824930994847972&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "邵仁哲头球破门,济南队1比0战胜 _淄博_ 齐稷联合锐思达队",
-      "url": "https://baijiahao.baidu.com/s?id=1874865700015679169&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "网安战线的“攻坚者”——记山东 _淄博_ 公安局网安支队副支队长杜通",
-      "url": "https://baijiahao.baidu.com/s?id=1874495709223581736&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "...聊城、德州、泰安、菏泽、济宁、枣庄、_淄博_、潍坊35～36℃...",
-      "url": "https://baijiahao.baidu.com/s?id=1874546711039064881&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -68,50 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
-          "url": "https://baijiahao.baidu.com/s?id=1874563900868592817&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 街头,鲁C2*7被警方当街拦截!",
-          "url": "https://baijiahao.baidu.com/s?id=1874860320824996847&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博_ 这里发布搬迁通知!新址公布→",
-          "url": "https://baijiahao.baidu.com/s?id=1874909226464018314&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 一地最新人事任免",
-          "url": "https://baijiahao.baidu.com/s?id=1874824930994847972&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "邵仁哲头球破门,济南队1比0战胜 _淄博_ 齐稷联合锐思达队",
-          "url": "https://baijiahao.baidu.com/s?id=1874865700015679169&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "网安战线的“攻坚者”——记山东 _淄博_ 公安局网安支队副支队长杜通",
-          "url": "https://baijiahao.baidu.com/s?id=1874495709223581736&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "...聊城、德州、泰安、菏泽、济宁、枣庄、_淄博_、潍坊35～36℃...",
-          "url": "https://baijiahao.baidu.com/s?id=1874546711039064881&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
