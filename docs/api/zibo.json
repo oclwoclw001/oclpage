@@ -1,73 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-08-31T05:14:42.501Z",
-  "count": 11,
+  "updatedAt": "2026-08-31T13:27:06.540Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "爆红三年后,_淄博_ 八大局现状如何?|活力中国调研行",
-      "url": "https://baijiahao.baidu.com/s?id=1874580174026008742&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "活力中国调研行|_淄博_ 烧烤的4.0进阶,“宝藏市场”八大局流量变留量...",
-      "url": "https://baijiahao.baidu.com/s?id=1874565701217704276&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
-      "url": "https://baijiahao.baidu.com/s?id=1874652263331963846&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "活力中国调研行丨“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品...",
-      "url": "https://baijiahao.baidu.com/s?id=1874571063566617863&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
-      "url": "https://baijiahao.baidu.com/s?id=1874560919184271242&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "活力中国调研行|暑期打卡热爆!_淄博_ 陶琉文脉出圈",
-      "url": "https://baijiahao.baidu.com/s?id=1874546287265082334&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "炉火正旺,好戏连台,_淄博_ 烧烤进化到4.0形态",
-      "url": "https://baijiahao.baidu.com/s?id=1874448548933723601&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "流量红利褪去后,_淄博_ 烧烤热度不减秘密何在?|活力中国调研行",
-      "url": "https://baijiahao.baidu.com/s?id=1874455561365629291&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 9,
-      "title": "人民日报海外版|_淄博_ 完善用电基础设施:助力小摊贩 催旺“夜经济”",
-      "url": "https://baijiahao.baidu.com/s?id=1875001094188667911&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 10,
-      "title": "淄博_ 主城区标杆项目方正·岳里正式落地:不开空调,室温恒定22℃-26℃",
-      "url": "https://baijiahao.baidu.com/s?id=1874549306773049434&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -86,68 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "爆红三年后,_淄博_ 八大局现状如何?|活力中国调研行",
-          "url": "https://baijiahao.baidu.com/s?id=1874580174026008742&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "活力中国调研行|_淄博_ 烧烤的4.0进阶,“宝藏市场”八大局流量变留量...",
-          "url": "https://baijiahao.baidu.com/s?id=1874565701217704276&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
-          "url": "https://baijiahao.baidu.com/s?id=1874652263331963846&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "活力中国调研行丨“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品...",
-          "url": "https://baijiahao.baidu.com/s?id=1874571063566617863&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
-          "url": "https://baijiahao.baidu.com/s?id=1874560919184271242&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "活力中国调研行|暑期打卡热爆!_淄博_ 陶琉文脉出圈",
-          "url": "https://baijiahao.baidu.com/s?id=1874546287265082334&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "炉火正旺,好戏连台,_淄博_ 烧烤进化到4.0形态",
-          "url": "https://baijiahao.baidu.com/s?id=1874448548933723601&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "流量红利褪去后,_淄博_ 烧烤热度不减秘密何在?|活力中国调研行",
-          "url": "https://baijiahao.baidu.com/s?id=1874455561365629291&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 9,
-          "title": "人民日报海外版|_淄博_ 完善用电基础设施:助力小摊贩 催旺“夜经济”",
-          "url": "https://baijiahao.baidu.com/s?id=1875001094188667911&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 10,
-          "title": "淄博_ 主城区标杆项目方正·岳里正式落地:不开空调,室温恒定22℃-26℃",
-          "url": "https://baijiahao.baidu.com/s?id=1874549306773049434&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
