@@ -1,13 +1,73 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-01T14:42:31.128Z",
-  "count": 1,
+  "updatedAt": "2026-09-01T18:20:31.364Z",
+  "count": 11,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "爆红三年后,_淄博_ 八大局现状如何?|活力中国调研行",
+      "url": "https://baijiahao.baidu.com/s?id=1874580174026008742&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "手印墙、花种盲盒、趣味闯关!_淄博_ 经开区各校开学名场面来了",
+      "url": "https://baijiahao.baidu.com/s?id=1875126042969982626&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "“沂蒙精神代代传”主题宣讲走进 _淄博市_ 博山区",
+      "url": "https://baijiahao.baidu.com/s?id=1875087382996985622&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
+      "url": "https://baijiahao.baidu.com/s?id=1874652263331963846&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "金融活水润老城焕新——中国银行 _淄博_ 分行赋能城市更新与新型城镇...",
+      "url": "https://baijiahao.baidu.com/s?id=1875125446708271150&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "活力中国调研行|暑期打卡热爆!_淄博_ 陶琉文脉出圈",
+      "url": "https://baijiahao.baidu.com/s?id=1874546287265082334&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
+      "url": "https://baijiahao.baidu.com/s?id=1874560919184271242&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "淄博_ 主城区标杆项目方正·岳里正式落地:不开空调,室温恒定22℃-26℃",
+      "url": "https://baijiahao.baidu.com/s?id=1874549306773049434&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "马肉冒充驴肉、肉类未经检疫!_淄博_ 第十二批食安典型案例公布",
+      "url": "https://baijiahao.baidu.com/s?id=1875125980761665040&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 10,
+      "title": "省运会女丙足球青岛2比0力克 _淄博_,包揽女足三组金牌",
+      "url": "https://baijiahao.baidu.com/s?id=1875047556876334043&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +86,68 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "爆红三年后,_淄博_ 八大局现状如何?|活力中国调研行",
+          "url": "https://baijiahao.baidu.com/s?id=1874580174026008742&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "手印墙、花种盲盒、趣味闯关!_淄博_ 经开区各校开学名场面来了",
+          "url": "https://baijiahao.baidu.com/s?id=1875126042969982626&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "“沂蒙精神代代传”主题宣讲走进 _淄博市_ 博山区",
+          "url": "https://baijiahao.baidu.com/s?id=1875087382996985622&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
+          "url": "https://baijiahao.baidu.com/s?id=1874652263331963846&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "金融活水润老城焕新——中国银行 _淄博_ 分行赋能城市更新与新型城镇...",
+          "url": "https://baijiahao.baidu.com/s?id=1875125446708271150&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "活力中国调研行|暑期打卡热爆!_淄博_ 陶琉文脉出圈",
+          "url": "https://baijiahao.baidu.com/s?id=1874546287265082334&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
+          "url": "https://baijiahao.baidu.com/s?id=1874560919184271242&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "淄博_ 主城区标杆项目方正·岳里正式落地:不开空调,室温恒定22℃-26℃",
+          "url": "https://baijiahao.baidu.com/s?id=1874549306773049434&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "马肉冒充驴肉、肉类未经检疫!_淄博_ 第十二批食安典型案例公布",
+          "url": "https://baijiahao.baidu.com/s?id=1875125980761665040&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 10,
+          "title": "省运会女丙足球青岛2比0力克 _淄博_,包揽女足三组金牌",
+          "url": "https://baijiahao.baidu.com/s?id=1875047556876334043&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
