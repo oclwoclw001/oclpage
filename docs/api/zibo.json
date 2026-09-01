@@ -1,61 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-01T04:50:05.533Z",
-  "count": 9,
+  "updatedAt": "2026-09-01T09:54:46.453Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "“沂蒙精神代代传”主题宣讲走进 _淄博市_ 博山区",
-      "url": "https://baijiahao.baidu.com/s?id=1875087382996985622&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "“沂蒙精神代代传”主题宣讲活动走进 _淄博市_ 博山区",
-      "url": "https://baijiahao.baidu.com/s?id=1875027457445956719&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "新风育新人,礼赞少年行!_淄博_ 经开区升学礼氛围感拉满",
-      "url": "https://baijiahao.baidu.com/s?id=1875034282957532457&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
-      "url": "https://baijiahao.baidu.com/s?id=1874652263331963846&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
-      "url": "https://baijiahao.baidu.com/s?id=1874560919184271242&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "新华制药优迪加赞助 2026全国女子篮球锦标赛(_淄博_ 赛区)燃情开赛",
-      "url": "https://baijiahao.baidu.com/s?id=1875024792939806862&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "知识产权看山东|喜获国家级平台资质!_淄博市_ 知识产权保护中心技术...",
-      "url": "https://baijiahao.baidu.com/s?id=1875029753167265298&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "炉火正旺,好戏连台,_淄博_ 烧烤进化到4.0形态",
-      "url": "https://baijiahao.baidu.com/s?id=1874448548933723601&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,56 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "“沂蒙精神代代传”主题宣讲走进 _淄博市_ 博山区",
-          "url": "https://baijiahao.baidu.com/s?id=1875087382996985622&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "“沂蒙精神代代传”主题宣讲活动走进 _淄博市_ 博山区",
-          "url": "https://baijiahao.baidu.com/s?id=1875027457445956719&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "新风育新人,礼赞少年行!_淄博_ 经开区升学礼氛围感拉满",
-          "url": "https://baijiahao.baidu.com/s?id=1875034282957532457&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
-          "url": "https://baijiahao.baidu.com/s?id=1874652263331963846&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
-          "url": "https://baijiahao.baidu.com/s?id=1874560919184271242&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "新华制药优迪加赞助 2026全国女子篮球锦标赛(_淄博_ 赛区)燃情开赛",
-          "url": "https://baijiahao.baidu.com/s?id=1875024792939806862&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "知识产权看山东|喜获国家级平台资质!_淄博市_ 知识产权保护中心技术...",
-          "url": "https://baijiahao.baidu.com/s?id=1875029753167265298&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "炉火正旺,好戏连台,_淄博_ 烧烤进化到4.0形态",
-          "url": "https://baijiahao.baidu.com/s?id=1874448548933723601&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }

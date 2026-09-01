@@ -1,37 +1,127 @@
 {
   "source": "sina",
-  "updatedAt": "2026-09-01T04:50:05.533Z",
-  "count": 5,
+  "updatedAt": "2026-09-01T09:54:46.452Z",
+  "count": 20,
   "items": [
     {
       "rank": 1,
-      "title": "抖音推荐 难看",
-      "url": "https://s.weibo.com/weibo?q=%E6%8A%96%E9%9F%B3%E6%8E%A8%E8%8D%90+%E9%9A%BE%E7%9C%8B",
-      "meta": "话题"
+      "title": "金秋开学启新篇 少年逐梦正当时",
+      "url": "https://news.sina.com.cn/zx/gj/2026-09-01/doc-iniqiatw4852020.shtml",
+      "meta": "新闻"
     },
     {
       "rank": 2,
-      "title": "深圳校服 去商场自己买",
-      "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%A0%A1%E6%9C%8D+%E5%8E%BB%E5%95%86%E5%9C%BA%E8%87%AA%E5%B7%B1%E4%B9%B0",
-      "meta": "话题"
+      "title": "“高颜值食堂”亮相 暑期厦门45所学校完成食堂改造",
+      "url": "https://news.sina.com.cn/zx/gj/2026-09-01/doc-iniqiaty1628645.shtml",
+      "meta": "新闻"
     },
     {
       "rank": 3,
-      "title": "20后入学家长年龄相差近30岁",
-      "url": "https://s.weibo.com/weibo?q=20%E5%90%8E%E5%85%A5%E5%AD%A6%E5%AE%B6%E9%95%BF%E5%B9%B4%E9%BE%84%E7%9B%B8%E5%B7%AE%E8%BF%9130%E5%B2%81",
-      "meta": "话题"
+      "title": "观察｜上海文博特展“扎堆”，缘何值得奔赴？",
+      "url": "https://news.sina.com.cn/zx/gj/2026-09-01/doc-iniqiaty1500095.shtml",
+      "meta": "新闻"
     },
     {
       "rank": 4,
-      "title": "郑钦文回应打哭16岁少女",
-      "url": "https://k.sina.com.cn/article_7879923918_1d5ae18ce02001h6cy.html?from=sports",
+      "title": "视频丨7年间农村互联网普及率升至69.5% 中国数字乡村成绩单来了",
+      "url": "https://news.sina.com.cn/zx/gj/2026-09-01/doc-iniqhwmy4815939.shtml",
       "meta": "新闻"
     },
     {
       "rank": 5,
-      "title": "西藏公布多起涉吉隆泥石流灾害网络谣言典型案例",
-      "url": "https://news.sina.com.cn/o/2026-08-31/doc-iniqfeat8887114.shtml",
+      "title": "行进中国丨闽宁镇上架起“算力桥”",
+      "url": "https://news.sina.com.cn/zx/gj/2026-09-01/doc-iniqhwna1579795.shtml",
       "meta": "新闻"
+    },
+    {
+      "rank": 6,
+      "title": "2026年暑期档电影票房为124.98亿元",
+      "url": "https://news.sina.com.cn/zx/gj/2026-09-01/doc-iniqhwmy4740673.shtml",
+      "meta": "新闻"
+    },
+    {
+      "rank": 7,
+      "title": "重庆首批开发4533个“养老协管员”公益岗 重点面向11类就业困难群体",
+      "url": "https://news.sina.com.cn/zx/gj/2026-09-01/doc-iniqhsee1582952.shtml",
+      "meta": "新闻"
+    },
+    {
+      "rank": 8,
+      "title": "单项冠军县，何以扛打丨便宜又好穿，曹县汉服斩获全国市场过半份额",
+      "url": "https://news.sina.com.cn/zx/gj/2026-09-01/doc-iniqiatv8162309.shtml",
+      "meta": "新闻"
+    },
+    {
+      "rank": 9,
+      "title": "从“寻根者”到“合伙人”：百余台港澳客商陇上觅商机",
+      "url": "https://news.sina.com.cn/zx/gj/2026-09-01/doc-iniqiatv8215503.shtml",
+      "meta": "新闻"
+    },
+    {
+      "rank": 10,
+      "title": "各地学校举办丰富多彩“开学第一课” 以昂扬姿态开启新学期",
+      "url": "https://news.sina.com.cn/zx/gj/2026-09-01/doc-iniqhwmx8241771.shtml",
+      "meta": "新闻"
+    },
+    {
+      "rank": 11,
+      "title": "田曦薇红秀双封面",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E7%BA%A2%E7%A7%80%E5%8F%8C%E5%B0%81%E9%9D%A2",
+      "meta": "话题"
+    },
+    {
+      "rank": 12,
+      "title": "夏之光爱豆发色",
+      "url": "https://s.weibo.com/weibo?q=%E5%A4%8F%E4%B9%8B%E5%85%89%E7%88%B1%E8%B1%86%E5%8F%91%E8%89%B2",
+      "meta": "话题"
+    },
+    {
+      "rank": 13,
+      "title": "迪丽热巴棕调卷发",
+      "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%A3%95%E8%B0%83%E5%8D%B7%E5%8F%91",
+      "meta": "话题"
+    },
+    {
+      "rank": 14,
+      "title": "柳智敏大光明马尾",
+      "url": "https://s.weibo.com/weibo?q=%E6%9F%B3%E6%99%BA%E6%95%8F%E5%A4%A7%E5%85%89%E6%98%8E%E9%A9%AC%E5%B0%BE",
+      "meta": "话题"
+    },
+    {
+      "rank": 15,
+      "title": "邓为迪奥PCD历史最高明星日产出",
+      "url": "https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E8%BF%AA%E5%A5%A5PCD%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%E6%98%8E%E6%98%9F%E6%97%A5%E4%BA%A7%E5%87%BA",
+      "meta": "话题"
+    },
+    {
+      "rank": 16,
+      "title": "田嘉瑞把聊城方言说洋气了",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E5%98%89%E7%91%9E%E6%8A%8A%E8%81%8A%E5%9F%8E%E6%96%B9%E8%A8%80%E8%AF%B4%E6%B4%8B%E6%B0%94%E4%BA%86",
+      "meta": "话题"
+    },
+    {
+      "rank": 17,
+      "title": "于适已确认出席纽约时装周",
+      "url": "https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%E5%B7%B2%E7%A1%AE%E8%AE%A4%E5%87%BA%E5%B8%AD%E7%BA%BD%E7%BA%A6%E6%97%B6%E8%A3%85%E5%91%A8",
+      "meta": "话题"
+    },
+    {
+      "rank": 18,
+      "title": "田曦薇Gucci海外双封",
+      "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87Gucci%E6%B5%B7%E5%A4%96%E5%8F%8C%E5%B0%81",
+      "meta": "话题"
+    },
+    {
+      "rank": 19,
+      "title": "宋祖儿新剧利落短发造型",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%E6%96%B0%E5%89%A7%E5%88%A9%E8%90%BD%E7%9F%AD%E5%8F%91%E9%80%A0%E5%9E%8B",
+      "meta": "话题"
+    },
+    {
+      "rank": 20,
+      "title": "宋祖儿短发少年气",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%E7%9F%AD%E5%8F%91%E5%B0%91%E5%B9%B4%E6%B0%94",
+      "meta": "话题"
     }
   ]
 }
