@@ -1,73 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-02T04:16:58.993Z",
-  "count": 11,
+  "updatedAt": "2026-09-02T09:26:12.216Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "爆红三年后,_淄博_ 八大局现状如何?|活力中国调研行",
-      "url": "https://baijiahao.baidu.com/s?id=1874580174026008742&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "手印墙、花种盲盒、趣味闯关!_淄博_ 经开区各校开学名场面来了",
-      "url": "https://baijiahao.baidu.com/s?id=1875126042969982626&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "活力中国调研行|炉火正旺,好戏连台,_淄博_ 烧烤进化到4.0形态了",
-      "url": "https://baijiahao.baidu.com/s?id=1874415171203548390&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
-      "url": "https://baijiahao.baidu.com/s?id=1874652263331963846&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
-      "url": "https://baijiahao.baidu.com/s?id=1874560919184271242&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "流量红利褪去后,_淄博_ 烧烤热度不减秘密何在?|活力中国调研行",
-      "url": "https://baijiahao.baidu.com/s?id=1874455561365629291&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "首周31万人次围观!_淄博_ 工伤预防知识竞答第二周启动,红包、题库...",
-      "url": "https://baijiahao.baidu.com/s?id=1875181946913618107&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "活力中国调研行|暑期打卡热爆!_淄博_ 陶琉文脉出圈",
-      "url": "https://baijiahao.baidu.com/s?id=1874546287265082334&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 9,
-      "title": "金融活水润老城焕新——中国银行 _淄博_ 分行赋能城市更新与新型城镇...",
-      "url": "https://baijiahao.baidu.com/s?id=1875125446708271150&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 10,
-      "title": "深耕精细化工产业赛道恒丰银行 _淄博_ 分行精准服务本地化工企业高...",
-      "url": "https://baijiahao.baidu.com/s?id=1875189148715823186&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -86,68 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "爆红三年后,_淄博_ 八大局现状如何?|活力中国调研行",
-          "url": "https://baijiahao.baidu.com/s?id=1874580174026008742&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "手印墙、花种盲盒、趣味闯关!_淄博_ 经开区各校开学名场面来了",
-          "url": "https://baijiahao.baidu.com/s?id=1875126042969982626&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "活力中国调研行|炉火正旺,好戏连台,_淄博_ 烧烤进化到4.0形态了",
-          "url": "https://baijiahao.baidu.com/s?id=1874415171203548390&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
-          "url": "https://baijiahao.baidu.com/s?id=1874652263331963846&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤:烟火气里品“淄”味丨活力...",
-          "url": "https://baijiahao.baidu.com/s?id=1874560919184271242&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "流量红利褪去后,_淄博_ 烧烤热度不减秘密何在?|活力中国调研行",
-          "url": "https://baijiahao.baidu.com/s?id=1874455561365629291&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "首周31万人次围观!_淄博_ 工伤预防知识竞答第二周启动,红包、题库...",
-          "url": "https://baijiahao.baidu.com/s?id=1875181946913618107&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "活力中国调研行|暑期打卡热爆!_淄博_ 陶琉文脉出圈",
-          "url": "https://baijiahao.baidu.com/s?id=1874546287265082334&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 9,
-          "title": "金融活水润老城焕新——中国银行 _淄博_ 分行赋能城市更新与新型城镇...",
-          "url": "https://baijiahao.baidu.com/s?id=1875125446708271150&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 10,
-          "title": "深耕精细化工产业赛道恒丰银行 _淄博_ 分行精准服务本地化工企业高...",
-          "url": "https://baijiahao.baidu.com/s?id=1875189148715823186&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
