@@ -1,13 +1,67 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-02T23:59:50.054Z",
-  "count": 1,
+  "updatedAt": "2026-09-03T04:16:28.001Z",
+  "count": 10,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "权威发布|_淄博市_ 学生身心健康促进工作新闻发布会答记者问",
+      "url": "https://baijiahao.baidu.com/s?id=1875272108969584071&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "解码齐文化千年魅力!吴向东地域文化百城直播走进 _淄博",
+      "url": "https://baijiahao.baidu.com/s?id=1875214155943491019&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
+      "url": "https://baijiahao.baidu.com/s?id=1874646853573154296&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博_ 生猪夜闯快速路,交警十余分钟化险为夷",
+      "url": "https://baijiahao.baidu.com/s?id=1875217535224639790&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "首周31万人次围观!_淄博_ 工伤预防知识竞答第二周启动,红包、题库...",
+      "url": "https://baijiahao.baidu.com/s?id=1875181946913618107&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "连休5天!_淄博_ 一地公布中小学秋假安排",
+      "url": "https://baijiahao.baidu.com/s?id=1875227968434859689&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "知识产权看山东|喜获国家级平台资质!_淄博市_ 知识产权保护中心技术...",
+      "url": "https://baijiahao.baidu.com/s?id=1875029753167265298&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤已升级到4.0模式 丨活力中国...",
+      "url": "https://baijiahao.baidu.com/s?id=1874477724696647395&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "2026年山东省退役优秀运动员转型学校体育教练员岗前培训班在 _淄博_...",
+      "url": "https://baijiahao.baidu.com/s?id=1875236677717304702&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +80,62 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "权威发布|_淄博市_ 学生身心健康促进工作新闻发布会答记者问",
+          "url": "https://baijiahao.baidu.com/s?id=1875272108969584071&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "解码齐文化千年魅力!吴向东地域文化百城直播走进 _淄博",
+          "url": "https://baijiahao.baidu.com/s?id=1875214155943491019&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博_ 的消费活力,藏在三千年典籍里|活力中国调研行",
+          "url": "https://baijiahao.baidu.com/s?id=1874646853573154296&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博_ 生猪夜闯快速路,交警十余分钟化险为夷",
+          "url": "https://baijiahao.baidu.com/s?id=1875217535224639790&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "首周31万人次围观!_淄博_ 工伤预防知识竞答第二周启动,红包、题库...",
+          "url": "https://baijiahao.baidu.com/s?id=1875181946913618107&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "连休5天!_淄博_ 一地公布中小学秋假安排",
+          "url": "https://baijiahao.baidu.com/s?id=1875227968434859689&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "知识产权看山东|喜获国家级平台资质!_淄博市_ 知识产权保护中心技术...",
+          "url": "https://baijiahao.baidu.com/s?id=1875029753167265298&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "“进淄赶烤”如今你给几分?_淄博_ 烧烤已升级到4.0模式 丨活力中国...",
+          "url": "https://baijiahao.baidu.com/s?id=1874477724696647395&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "2026年山东省退役优秀运动员转型学校体育教练员岗前培训班在 _淄博_...",
+          "url": "https://baijiahao.baidu.com/s?id=1875236677717304702&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
