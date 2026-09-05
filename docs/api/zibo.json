@@ -1,13 +1,61 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-05T08:56:15.585Z",
-  "count": 1,
+  "updatedAt": "2026-09-05T12:35:16.777Z",
+  "count": 9,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博_ 烧烤火爆“出圈” 一座小城的人情味“烤”验",
+      "url": "https://baijiahao.baidu.com/s?id=1875356435143885395&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "...暨(第五届)北方不锈钢产业链发展大会将于9月11日至13日在 _淄博_...",
+      "url": "https://baijiahao.baidu.com/s?id=1875460017512218841&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "公告!_淄博_ 这所诊所已注销!",
+      "url": "https://baijiahao.baidu.com/s?id=1875475730147766423&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "知识产权看山东|喜获国家级平台资质!_淄博市_ 知识产权保护中心技术...",
+      "url": "https://baijiahao.baidu.com/s?id=1875029753167265298&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "金融活水润老城焕新——中国银行 _淄博_ 分行赋能城市更新与新型城镇...",
+      "url": "https://baijiahao.baidu.com/s?id=1875125446708271150&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "从信访高发到绿色示范,_淄博_ 临淄破解垃圾焚烧项目重复信访顽疾",
+      "url": "https://baijiahao.baidu.com/s?id=1874821760844390864&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "周末服务不打烊 农行 _淄博_ 城南支行为留学家庭解燃眉之急",
+      "url": "https://www.dzwww.com/xinwen/jishixinwen/202609/t20260905_18087439.htm",
+      "meta": "dzwww.com"
+    },
+    {
+      "rank": 8,
+      "title": "淄博_ 这里发布搬迁通知!新址公布→",
+      "url": "https://baijiahao.baidu.com/s?id=1874909226464018314&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +74,56 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博_ 烧烤火爆“出圈” 一座小城的人情味“烤”验",
+          "url": "https://baijiahao.baidu.com/s?id=1875356435143885395&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "...暨(第五届)北方不锈钢产业链发展大会将于9月11日至13日在 _淄博_...",
+          "url": "https://baijiahao.baidu.com/s?id=1875460017512218841&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "公告!_淄博_ 这所诊所已注销!",
+          "url": "https://baijiahao.baidu.com/s?id=1875475730147766423&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "知识产权看山东|喜获国家级平台资质!_淄博市_ 知识产权保护中心技术...",
+          "url": "https://baijiahao.baidu.com/s?id=1875029753167265298&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "金融活水润老城焕新——中国银行 _淄博_ 分行赋能城市更新与新型城镇...",
+          "url": "https://baijiahao.baidu.com/s?id=1875125446708271150&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "从信访高发到绿色示范,_淄博_ 临淄破解垃圾焚烧项目重复信访顽疾",
+          "url": "https://baijiahao.baidu.com/s?id=1874821760844390864&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "周末服务不打烊 农行 _淄博_ 城南支行为留学家庭解燃眉之急",
+          "url": "https://www.dzwww.com/xinwen/jishixinwen/202609/t20260905_18087439.htm",
+          "meta": "dzwww.com"
+        },
+        {
+          "rank": 8,
+          "title": "淄博_ 这里发布搬迁通知!新址公布→",
+          "url": "https://baijiahao.baidu.com/s?id=1874909226464018314&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
