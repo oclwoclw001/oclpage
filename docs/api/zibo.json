@@ -1,43 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-05T04:09:50.735Z",
-  "count": 6,
+  "updatedAt": "2026-09-05T08:56:15.585Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博市_ 工会驿站开展秋季场景化关爱职工服务活动",
-      "url": "https://baijiahao.baidu.com/s?id=1875392077457614473&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "...2026年劳动力调查和就业政策进社区宣传服务活动 _淄博_ 站顺利举行",
-      "url": "https://baijiahao.baidu.com/s?id=1875391291115280877&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "知识产权看山东|喜获国家级平台资质!_淄博市_ 知识产权保护中心技术...",
-      "url": "https://baijiahao.baidu.com/s?id=1875029753167265298&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "间接控股股东破产重组获确认,_淄博_ 鲁阳节能或将迎来无实控人时代",
-      "url": "https://baijiahao.baidu.com/s?id=1875411439559650600&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "通报!_淄博_ 一地3人违规被处分",
-      "url": "https://baijiahao.baidu.com/s?id=1874758726780627388&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -56,38 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博市_ 工会驿站开展秋季场景化关爱职工服务活动",
-          "url": "https://baijiahao.baidu.com/s?id=1875392077457614473&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "...2026年劳动力调查和就业政策进社区宣传服务活动 _淄博_ 站顺利举行",
-          "url": "https://baijiahao.baidu.com/s?id=1875391291115280877&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "知识产权看山东|喜获国家级平台资质!_淄博市_ 知识产权保护中心技术...",
-          "url": "https://baijiahao.baidu.com/s?id=1875029753167265298&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "间接控股股东破产重组获确认,_淄博_ 鲁阳节能或将迎来无实控人时代",
-          "url": "https://baijiahao.baidu.com/s?id=1875411439559650600&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "通报!_淄博_ 一地3人违规被处分",
-          "url": "https://baijiahao.baidu.com/s?id=1874758726780627388&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
