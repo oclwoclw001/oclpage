@@ -1,67 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-07T12:15:23.572Z",
-  "count": 10,
+  "updatedAt": "2026-09-07T18:12:31.140Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博_ 烧烤火爆“出圈” 一座小城的人情味“烤”验",
-      "url": "https://baijiahao.baidu.com/s?id=1875356435143885395&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "2026年国家网络安全宣传周 _淄博市_ 活动启动",
-      "url": "https://baijiahao.baidu.com/s?id=1875673149051491355&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "山东省工贸生产安全事故综合救援演练在 _淄博市_ 举行",
-      "url": "https://baijiahao.baidu.com/s?id=1875658027921502381&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 民警助群众追回45万元,获赠锦旗致谢",
-      "url": "https://baijiahao.baidu.com/s?id=1875669212004653434&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博_ 素人歌友会引来周华健打Call:每个站上舞台的人都是“真心英雄”",
-      "url": "https://baijiahao.baidu.com/s?id=1875658457528393946&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "中共淄博市委、_淄博市_ 人民政府贺信",
-      "url": "https://baijiahao.baidu.com/s?id=1875634014819957550&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "供暖时间确定,明日开始缴费!_淄博_ 两家公司最新通知",
-      "url": "https://baijiahao.baidu.com/s?id=1875672553115056993&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "中国人寿财险山东省 _淄博_ 中支数智赋能特色农业——“保险+科技...",
-      "url": "https://baijiahao.baidu.com/s?id=1875667518301799202&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 9,
-      "title": "百年人寿 _淄博_ 中心支公司开展“星童”融合成长教室捐赠行动",
-      "url": "https://baijiahao.baidu.com/s?id=1875667485917013974&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -80,62 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博_ 烧烤火爆“出圈” 一座小城的人情味“烤”验",
-          "url": "https://baijiahao.baidu.com/s?id=1875356435143885395&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "2026年国家网络安全宣传周 _淄博市_ 活动启动",
-          "url": "https://baijiahao.baidu.com/s?id=1875673149051491355&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "山东省工贸生产安全事故综合救援演练在 _淄博市_ 举行",
-          "url": "https://baijiahao.baidu.com/s?id=1875658027921502381&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 民警助群众追回45万元,获赠锦旗致谢",
-          "url": "https://baijiahao.baidu.com/s?id=1875669212004653434&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博_ 素人歌友会引来周华健打Call:每个站上舞台的人都是“真心英雄”",
-          "url": "https://baijiahao.baidu.com/s?id=1875658457528393946&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "中共淄博市委、_淄博市_ 人民政府贺信",
-          "url": "https://baijiahao.baidu.com/s?id=1875634014819957550&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "供暖时间确定,明日开始缴费!_淄博_ 两家公司最新通知",
-          "url": "https://baijiahao.baidu.com/s?id=1875672553115056993&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "中国人寿财险山东省 _淄博_ 中支数智赋能特色农业——“保险+科技...",
-          "url": "https://baijiahao.baidu.com/s?id=1875667518301799202&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 9,
-          "title": "百年人寿 _淄博_ 中心支公司开展“星童”融合成长教室捐赠行动",
-          "url": "https://baijiahao.baidu.com/s?id=1875667485917013974&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
