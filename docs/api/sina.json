@@ -1,54 +1,60 @@
 {
   "source": "sina",
-  "updatedAt": "2026-09-06T22:03:42.758Z",
-  "count": 8,
+  "updatedAt": "2026-09-07T00:49:56.700Z",
+  "count": 9,
   "items": [
     {
       "rank": 1,
-      "title": "爷爷提前剪葫芦是给流量的一记耳光",
-      "url": "https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E6%8F%90%E5%89%8D%E5%89%AA%E8%91%AB%E8%8A%A6%E6%98%AF%E7%BB%99%E6%B5%81%E9%87%8F%E7%9A%84%E4%B8%80%E8%AE%B0%E8%80%B3%E5%85%89",
-      "meta": "话题"
-    },
-    {
-      "rank": 2,
-      "title": "中国女篮vs捷克女篮",
-      "url": "https://k.sina.com.cn/article_7879923917_1d5ae18cd020022uqw.html?from=sports",
+      "title": "官方回应赴港看演唱会被取消全家低保",
+      "url": "https://k.sina.com.cn/article_1823630913_6cb2664104001ho1q.html?from=news",
       "meta": "新闻"
     },
     {
-      "rank": 3,
-      "title": "终南山怪虫",
-      "url": "https://s.weibo.com/weibo?q=%E7%BB%88%E5%8D%97%E5%B1%B1%E6%80%AA%E8%99%AB",
-      "meta": "话题"
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "单亲妈妈月捐数年无人问停捐后遭催捐",
       "url": "https://s.weibo.com/weibo?q=%E5%8D%95%E4%BA%B2%E5%A6%88%E5%A6%88%E6%9C%88%E6%8D%90%E6%95%B0%E5%B9%B4%E6%97%A0%E4%BA%BA%E9%97%AE%E5%81%9C%E6%8D%90%E5%90%8E%E9%81%AD%E5%82%AC%E6%8D%90",
       "meta": "话题"
     },
     {
+      "rank": 3,
+      "title": "爷爷提前剪葫芦是给流量的一记耳光",
+      "url": "https://s.weibo.com/weibo?q=%E7%88%B7%E7%88%B7%E6%8F%90%E5%89%8D%E5%89%AA%E8%91%AB%E8%8A%A6%E6%98%AF%E7%BB%99%E6%B5%81%E9%87%8F%E7%9A%84%E4%B8%80%E8%AE%B0%E8%80%B3%E5%85%89",
+      "meta": "话题"
+    },
+    {
+      "rank": 4,
+      "title": "伊朗将宣布霍尔木兹海峡禁区",
+      "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%A6%81%E5%8C%BA",
+      "meta": "话题"
+    },
+    {
       "rank": 5,
-      "title": "萨巴伦卡vs汤森德",
-      "url": "https://s.weibo.com/weibo?q=%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1vs%E6%B1%A4%E6%A3%AE%E5%BE%B7",
+      "title": "安徽造车F4齐聚中国科大",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%89%E5%BE%BD%E9%80%A0%E8%BD%A6F4%E9%BD%90%E8%81%9A%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%A4%A7",
       "meta": "话题"
     },
     {
       "rank": 6,
+      "title": "华为 韬定律",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA+%E9%9F%AC%E5%AE%9A%E5%BE%8B",
+      "meta": "话题"
+    },
+    {
+      "rank": 7,
       "title": "网传“青铜峡大坝开始泄洪”？假消息！",
       "url": "https://news.sina.com.cn/c/2026-09-06/doc-iniqvvph7002943.shtml",
       "meta": "新闻"
     },
     {
-      "rank": 7,
-      "title": "阿森纳切尔西 互捅局",
-      "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A3%AE%E7%BA%B3%E5%88%87%E5%B0%94%E8%A5%BF+%E4%BA%92%E6%8D%85%E5%B1%80",
+      "rank": 8,
+      "title": "王一博赛车被撞调查结果",
+      "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%9B%E8%BD%A6%E8%A2%AB%E6%92%9E%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C",
       "meta": "话题"
     },
     {
-      "rank": 8,
-      "title": "华为 韬定律",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA+%E9%9F%AC%E5%AE%9A%E5%BE%8B",
+      "rank": 9,
+      "title": "美国女篮3分险胜意大利",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE3%E5%88%86%E9%99%A9%E8%83%9C%E6%84%8F%E5%A4%A7%E5%88%A9",
       "meta": "话题"
     }
   ]
