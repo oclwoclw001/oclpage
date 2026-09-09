@@ -1,49 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-09T17:06:43.212Z",
-  "count": 7,
+  "updatedAt": "2026-09-09T20:50:32.009Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "连续五届稳居前三,这场“省运长跑”_淄博_ 的耐力从何而来",
-      "url": "https://baijiahao.baidu.com/s?id=1875840499663727404&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "秋游首选!_淄博_ 这些地方藏着最美秋景,适合现在就出发~",
-      "url": "https://baijiahao.baidu.com/s?id=1875750807527393885&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
-      "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "科技护航,_淄博_ 高校开学季玩出新花样",
-      "url": "https://baijiahao.baidu.com/s?id=1875840690933349054&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "解码齐文化千年魅力!吴向东地域文化百城直播走进 _淄博",
-      "url": "https://baijiahao.baidu.com/s?id=1875213872751946910&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "...此处,慢慢聊——我的非遗人生》烈焰炼就“小炉匠”,让 _淄博_...",
-      "url": "https://baijiahao.baidu.com/s?id=1875864250030601978&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -62,44 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "连续五届稳居前三,这场“省运长跑”_淄博_ 的耐力从何而来",
-          "url": "https://baijiahao.baidu.com/s?id=1875840499663727404&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "秋游首选!_淄博_ 这些地方藏着最美秋景,适合现在就出发~",
-          "url": "https://baijiahao.baidu.com/s?id=1875750807527393885&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
-          "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "科技护航,_淄博_ 高校开学季玩出新花样",
-          "url": "https://baijiahao.baidu.com/s?id=1875840690933349054&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "解码齐文化千年魅力!吴向东地域文化百城直播走进 _淄博",
-          "url": "https://baijiahao.baidu.com/s?id=1875213872751946910&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "...此处,慢慢聊——我的非遗人生》烈焰炼就“小炉匠”,让 _淄博_...",
-          "url": "https://baijiahao.baidu.com/s?id=1875864250030601978&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
