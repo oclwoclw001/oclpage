@@ -1,13 +1,49 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-10T09:33:17.549Z",
-  "count": 1,
+  "updatedAt": "2026-09-10T14:14:40.180Z",
+  "count": 7,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "周乃翔在 _淄博_ 看望慰问教师",
+      "url": "https://baijiahao.baidu.com/s?id=1875930184537219857&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "经十路东延入 _淄博_,济南都市圈百公里新轴线雏形显现",
+      "url": "https://baijiahao.baidu.com/s?id=1875939181003312925&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博_ 市委市人民政府致全市广大教师和教育工作者的一封信",
+      "url": "https://baijiahao.baidu.com/s?id=1875927571396659757&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "秋游首选!_淄博_ 这些地方藏着最美秋景,适合现在就出发~",
+      "url": "https://baijiahao.baidu.com/s?id=1875750807527393885&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
+      "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "解码齐文化千年魅力!吴向东地域文化百城直播走进 _淄博",
+      "url": "https://baijiahao.baidu.com/s?id=1875213872751946910&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +62,44 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "周乃翔在 _淄博_ 看望慰问教师",
+          "url": "https://baijiahao.baidu.com/s?id=1875930184537219857&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "经十路东延入 _淄博_,济南都市圈百公里新轴线雏形显现",
+          "url": "https://baijiahao.baidu.com/s?id=1875939181003312925&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博_ 市委市人民政府致全市广大教师和教育工作者的一封信",
+          "url": "https://baijiahao.baidu.com/s?id=1875927571396659757&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "秋游首选!_淄博_ 这些地方藏着最美秋景,适合现在就出发~",
+          "url": "https://baijiahao.baidu.com/s?id=1875750807527393885&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
+          "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "解码齐文化千年魅力!吴向东地域文化百城直播走进 _淄博",
+          "url": "https://baijiahao.baidu.com/s?id=1875213872751946910&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
