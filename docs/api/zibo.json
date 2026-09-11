@@ -1,61 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-11T09:29:57.099Z",
-  "count": 9,
+  "updatedAt": "2026-09-11T14:14:43.602Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "周乃翔在 _淄博_ 看望慰问教师",
-      "url": "https://baijiahao.baidu.com/s?id=1876017826839557650&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "经十路东延入 _淄博_,济南都市圈百公里新轴线雏形显现",
-      "url": "https://baijiahao.baidu.com/s?id=1876015936221085623&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "...改革激活乡村振兴新动能——_淄博_ 数字农业农村改革的生动实践",
-      "url": "https://baijiahao.baidu.com/s?id=1876025500535207755&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "秋游首选!_淄博_ 这些地方藏着最美秋景,适合现在就出发~",
-      "url": "https://baijiahao.baidu.com/s?id=1875750807527393885&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
-      "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博市_“启航‘十五五’共筑中国梦”巡回宣讲走进妇联系统",
-      "url": "https://baijiahao.baidu.com/s?id=1876021926718651443&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "阳光财险 _淄博_ 中支护航烟草种植业",
-      "url": "https://baijiahao.baidu.com/s?id=1876021350548621160&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "人保寿险 _淄博_ 中支开展“传承红色革命基因 锤炼党员初心使命”主题...",
-      "url": "https://baijiahao.baidu.com/s?id=1876005872585419779&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,56 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "周乃翔在 _淄博_ 看望慰问教师",
-          "url": "https://baijiahao.baidu.com/s?id=1876017826839557650&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "经十路东延入 _淄博_,济南都市圈百公里新轴线雏形显现",
-          "url": "https://baijiahao.baidu.com/s?id=1876015936221085623&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "...改革激活乡村振兴新动能——_淄博_ 数字农业农村改革的生动实践",
-          "url": "https://baijiahao.baidu.com/s?id=1876025500535207755&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "秋游首选!_淄博_ 这些地方藏着最美秋景,适合现在就出发~",
-          "url": "https://baijiahao.baidu.com/s?id=1875750807527393885&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
-          "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博市_“启航‘十五五’共筑中国梦”巡回宣讲走进妇联系统",
-          "url": "https://baijiahao.baidu.com/s?id=1876021926718651443&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "阳光财险 _淄博_ 中支护航烟草种植业",
-          "url": "https://baijiahao.baidu.com/s?id=1876021350548621160&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "人保寿险 _淄博_ 中支开展“传承红色革命基因 锤炼党员初心使命”主题...",
-          "url": "https://baijiahao.baidu.com/s?id=1876005872585419779&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
