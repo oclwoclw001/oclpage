@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-12T13:59:02.268Z",
-  "count": 5,
+  "updatedAt": "2026-09-12T17:00:40.241Z",
+  "count": 6,
   "items": [
     {
       "rank": 1,
@@ -23,14 +23,20 @@
     },
     {
       "rank": 3,
+      "title": "中秋和国庆节期间,_淄博市_ 图书馆延时开放至20:30",
+      "url": "https://baijiahao.baidu.com/s?id=1876103798257999328&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
       "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
       "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
       "meta": "baijiahao.baidu.com"
     },
     {
-      "rank": 4,
-      "title": "中秋和国庆节期间,_淄博市_ 图书馆延时开放至20:30",
-      "url": "https://baijiahao.baidu.com/s?id=1876103798257999328&wfr=spider&for=pc",
+      "rank": 5,
+      "title": "淄博_ 发布“人工智能+制造”三年行动方案",
+      "url": "https://baijiahao.baidu.com/s?id=1876031556487046525&wfr=spider&for=pc",
       "meta": "baijiahao.baidu.com"
     }
   ],
@@ -65,14 +71,20 @@
         },
         {
           "rank": 3,
+          "title": "中秋和国庆节期间,_淄博市_ 图书馆延时开放至20:30",
+          "url": "https://baijiahao.baidu.com/s?id=1876103798257999328&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
           "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
           "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
           "meta": "baijiahao.baidu.com"
         },
         {
-          "rank": 4,
-          "title": "中秋和国庆节期间,_淄博市_ 图书馆延时开放至20:30",
-          "url": "https://baijiahao.baidu.com/s?id=1876103798257999328&wfr=spider&for=pc",
+          "rank": 5,
+          "title": "淄博_ 发布“人工智能+制造”三年行动方案",
+          "url": "https://baijiahao.baidu.com/s?id=1876031556487046525&wfr=spider&for=pc",
           "meta": "baijiahao.baidu.com"
         }
       ]
