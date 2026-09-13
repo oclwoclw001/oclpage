@@ -1,49 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-13T00:49:09.298Z",
-  "count": 7,
+  "updatedAt": "2026-09-13T05:54:44.057Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "秋游首选!_淄博_ 这些地方藏着最美秋景,适合现在就出发~",
-      "url": "https://baijiahao.baidu.com/s?id=1875750807527393885&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "经十路东延入 _淄博_,济南都市圈百公里新轴线雏形显现",
-      "url": "https://baijiahao.baidu.com/s?id=1876015936221085623&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "中秋和国庆节期间,_淄博市_ 图书馆延时开放至20:30",
-      "url": "https://baijiahao.baidu.com/s?id=1876103798257999328&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
-      "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "短期天气晴好,_淄博_ 气温缓升 下周前半段最高气温或升至34℃",
-      "url": "https://baijiahao.baidu.com/s?id=1876029603203614257&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博_ 发布“人工智能+制造”三年行动方案",
-      "url": "https://baijiahao.baidu.com/s?id=1876030689821389136&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -62,44 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "秋游首选!_淄博_ 这些地方藏着最美秋景,适合现在就出发~",
-          "url": "https://baijiahao.baidu.com/s?id=1875750807527393885&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "经十路东延入 _淄博_,济南都市圈百公里新轴线雏形显现",
-          "url": "https://baijiahao.baidu.com/s?id=1876015936221085623&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "中秋和国庆节期间,_淄博市_ 图书馆延时开放至20:30",
-          "url": "https://baijiahao.baidu.com/s?id=1876103798257999328&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
-          "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "短期天气晴好,_淄博_ 气温缓升 下周前半段最高气温或升至34℃",
-          "url": "https://baijiahao.baidu.com/s?id=1876029603203614257&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博_ 发布“人工智能+制造”三年行动方案",
-          "url": "https://baijiahao.baidu.com/s?id=1876030689821389136&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
