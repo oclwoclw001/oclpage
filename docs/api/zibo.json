@@ -1,13 +1,73 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-15T14:52:20.751Z",
-  "count": 1,
+  "updatedAt": "2026-09-15T18:52:09.329Z",
+  "count": 11,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博_:市总工会开展“慈心一日捐”活动",
+      "url": "https://baijiahao.baidu.com/s?id=1876383327027428718&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "淄博_ 多元服务筑近悦远来人才港湾",
+      "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博_ 职业技术大学2026级新生开学典礼举行",
+      "url": "https://baijiahao.baidu.com/s?id=1876414123435797371&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "济南经十路长度增加13.7公里,东延进入 _淄博_,济淄“一小时通勤圈...",
+      "url": "https://baijiahao.baidu.com/s?id=1876387132076331725&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "“琉光璃彩——_淄博_ 琉璃艺术展”10月于保利美高梅博物馆启幕",
+      "url": "https://baijiahao.baidu.com/s?id=1876401323591356302&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "秋游首选!_淄博_ 这些地方藏着最美秋景,适合现在就出发~",
+      "url": "https://baijiahao.baidu.com/s?id=1875750807527393885&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "一杯奶茶变成60万元的账单!_淄博_ 警方跨省抓获11人电诈团伙",
+      "url": "https://baijiahao.baidu.com/s?id=1876399905900560078&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
+      "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "解锁《考工记》先秦科技光华,_淄博市_ 博物馆上新",
+      "url": "https://baijiahao.baidu.com/s?id=1876368858236822200&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 10,
+      "title": "消保润齐鲁 守护夕阳红——中国民生银行 _淄博_ 分行进社区筑牢银发...",
+      "url": "https://baijiahao.baidu.com/s?id=1876389775914001031&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +86,68 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博_:市总工会开展“慈心一日捐”活动",
+          "url": "https://baijiahao.baidu.com/s?id=1876383327027428718&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "淄博_ 多元服务筑近悦远来人才港湾",
+          "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博_ 职业技术大学2026级新生开学典礼举行",
+          "url": "https://baijiahao.baidu.com/s?id=1876414123435797371&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "济南经十路长度增加13.7公里,东延进入 _淄博_,济淄“一小时通勤圈...",
+          "url": "https://baijiahao.baidu.com/s?id=1876387132076331725&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "“琉光璃彩——_淄博_ 琉璃艺术展”10月于保利美高梅博物馆启幕",
+          "url": "https://baijiahao.baidu.com/s?id=1876401323591356302&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "秋游首选!_淄博_ 这些地方藏着最美秋景,适合现在就出发~",
+          "url": "https://baijiahao.baidu.com/s?id=1875750807527393885&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "一杯奶茶变成60万元的账单!_淄博_ 警方跨省抓获11人电诈团伙",
+          "url": "https://baijiahao.baidu.com/s?id=1876399905900560078&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
+          "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "解锁《考工记》先秦科技光华,_淄博市_ 博物馆上新",
+          "url": "https://baijiahao.baidu.com/s?id=1876368858236822200&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 10,
+          "title": "消保润齐鲁 守护夕阳红——中国民生银行 _淄博_ 分行进社区筑牢银发...",
+          "url": "https://baijiahao.baidu.com/s?id=1876389775914001031&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
