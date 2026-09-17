@@ -1,61 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-16T22:02:02.762Z",
-  "count": 9,
+  "updatedAt": "2026-09-17T01:16:32.746Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "稷下新语|数据跃动间,看见 _淄博_ 外贸的韧性与新姿",
-      "url": "https://baijiahao.baidu.com/s?id=1876487924304900841&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博市_ 举行2026年国家网络安全宣传周校园日活动",
-      "url": "https://baijiahao.baidu.com/s?id=1876455858882185160&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博_ 多元服务筑近悦远来人才港湾",
-      "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
-      "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "经十路东延入 _淄博_,济南都市圈百公里新轴线雏形显现",
-      "url": "https://baijiahao.baidu.com/s?id=1875934159679070439&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "“琉光璃彩——_淄博_ 琉璃艺术展”十月在澳门启幕",
-      "url": "https://baijiahao.baidu.com/s?id=1876468610909263365&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "...改革激活乡村振兴新动能——_淄博_ 数字农业农村改革的生动实践",
-      "url": "https://baijiahao.baidu.com/s?id=1876025500535207755&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "淄博_ 发布“人工智能+制造”三年行动方案",
-      "url": "https://baijiahao.baidu.com/s?id=1876030689821389136&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,56 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "稷下新语|数据跃动间,看见 _淄博_ 外贸的韧性与新姿",
-          "url": "https://baijiahao.baidu.com/s?id=1876487924304900841&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博市_ 举行2026年国家网络安全宣传周校园日活动",
-          "url": "https://baijiahao.baidu.com/s?id=1876455858882185160&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博_ 多元服务筑近悦远来人才港湾",
-          "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博市_ 市长赵庆文:统筹推进结构减排工程减排管理减排",
-          "url": "https://baijiahao.baidu.com/s?id=1875761728872340141&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "经十路东延入 _淄博_,济南都市圈百公里新轴线雏形显现",
-          "url": "https://baijiahao.baidu.com/s?id=1875934159679070439&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "“琉光璃彩——_淄博_ 琉璃艺术展”十月在澳门启幕",
-          "url": "https://baijiahao.baidu.com/s?id=1876468610909263365&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "...改革激活乡村振兴新动能——_淄博_ 数字农业农村改革的生动实践",
-          "url": "https://baijiahao.baidu.com/s?id=1876025500535207755&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "淄博_ 发布“人工智能+制造”三年行动方案",
-          "url": "https://baijiahao.baidu.com/s?id=1876030689821389136&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
