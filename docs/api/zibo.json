@@ -1,13 +1,55 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-18T01:11:57.349Z",
-  "count": 1,
+  "updatedAt": "2026-09-18T07:19:36.482Z",
+  "count": 8,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "“华光异彩”_淄博_ 琉璃艺术展闪耀新加坡",
+      "url": "https://baijiahao.baidu.com/s?id=1876593759173000833&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "“华光异彩”_淄博_ 琉璃艺术展在新加坡举行",
+      "url": "https://baijiahao.baidu.com/s?id=1876650870182694857&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博_ 多元服务筑近悦远来人才港湾",
+      "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博_ 3件原创舞蹈作品荣获省级奖项",
+      "url": "https://baijiahao.baidu.com/s?id=1876650399512137433&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "冒充班主任收教材费,涉案100余起!_淄博_ 警方跨省追捕 潜伏班级群4名...",
+      "url": "https://baijiahao.baidu.com/s?id=1876645718342754822&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "淄博_ 能源集团同日挂牌转让旗下两家公司,转让方去年底已申请注销登记",
+      "url": "https://baijiahao.baidu.com/s?id=1876632656877514926&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "淄博_ 焕能再生资源有限公司完成商务部绿色流通服务企业备案公示...",
+      "url": "https://baijiahao.baidu.com/s?id=1876566584147942845&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +68,50 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "“华光异彩”_淄博_ 琉璃艺术展闪耀新加坡",
+          "url": "https://baijiahao.baidu.com/s?id=1876593759173000833&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "“华光异彩”_淄博_ 琉璃艺术展在新加坡举行",
+          "url": "https://baijiahao.baidu.com/s?id=1876650870182694857&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博_ 多元服务筑近悦远来人才港湾",
+          "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博_ 3件原创舞蹈作品荣获省级奖项",
+          "url": "https://baijiahao.baidu.com/s?id=1876650399512137433&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "冒充班主任收教材费,涉案100余起!_淄博_ 警方跨省追捕 潜伏班级群4名...",
+          "url": "https://baijiahao.baidu.com/s?id=1876645718342754822&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "淄博_ 能源集团同日挂牌转让旗下两家公司,转让方去年底已申请注销登记",
+          "url": "https://baijiahao.baidu.com/s?id=1876632656877514926&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "淄博_ 焕能再生资源有限公司完成商务部绿色流通服务企业备案公示...",
+          "url": "https://baijiahao.baidu.com/s?id=1876566584147942845&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
