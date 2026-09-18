@@ -1,67 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-17T22:02:33.372Z",
-  "count": 10,
+  "updatedAt": "2026-09-18T01:11:57.349Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "云话山东丨 _淄博市_ 外事办:搭建涉外综合服务平台 护航企业扬帆出海",
-      "url": "https://baijiahao.baidu.com/s?id=1876584521197101450&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 琉璃展登陆新加坡,美到next level!",
-      "url": "https://baijiahao.baidu.com/s?id=1876575819183524145&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "“华光异彩”_淄博_ 琉璃艺术展闪耀新加坡",
-      "url": "https://baijiahao.baidu.com/s?id=1876569871428475251&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 多元服务筑近悦远来人才港湾",
-      "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "60件 _淄博_ 琉璃漂洋过海,闪耀新加坡",
-      "url": "https://baijiahao.baidu.com/s?id=1876562790756614835&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "“华光异彩”_淄博_ 琉璃艺术展走进新加坡",
-      "url": "https://baijiahao.baidu.com/s?id=1876565244397245083&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "【权威发布】_淄博市_“村村都有好项目”优质农产品共富市集将于9月...",
-      "url": "http://news.10jqka.com.cn/20260917/c680015108.shtml",
-      "meta": "news.10jqka.com.cn"
-    },
-    {
-      "rank": 8,
-      "title": "聚焦重点人群,幸福人寿 _淄博_ 中支开展2026年金融教育宣传周活动",
-      "url": "https://baijiahao.baidu.com/s?id=1876571725892948212&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 9,
-      "title": "【权威发布】_淄博市_ 庆祝2026年中国农民丰收节活动丰富多彩",
-      "url": "http://news.10jqka.com.cn/20260917/c680015125.shtml",
-      "meta": "news.10jqka.com.cn"
     }
   ],
   "sections": [
@@ -80,62 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "云话山东丨 _淄博市_ 外事办:搭建涉外综合服务平台 护航企业扬帆出海",
-          "url": "https://baijiahao.baidu.com/s?id=1876584521197101450&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 琉璃展登陆新加坡,美到next level!",
-          "url": "https://baijiahao.baidu.com/s?id=1876575819183524145&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "“华光异彩”_淄博_ 琉璃艺术展闪耀新加坡",
-          "url": "https://baijiahao.baidu.com/s?id=1876569871428475251&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 多元服务筑近悦远来人才港湾",
-          "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "60件 _淄博_ 琉璃漂洋过海,闪耀新加坡",
-          "url": "https://baijiahao.baidu.com/s?id=1876562790756614835&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "“华光异彩”_淄博_ 琉璃艺术展走进新加坡",
-          "url": "https://baijiahao.baidu.com/s?id=1876565244397245083&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "【权威发布】_淄博市_“村村都有好项目”优质农产品共富市集将于9月...",
-          "url": "http://news.10jqka.com.cn/20260917/c680015108.shtml",
-          "meta": "news.10jqka.com.cn"
-        },
-        {
-          "rank": 8,
-          "title": "聚焦重点人群,幸福人寿 _淄博_ 中支开展2026年金融教育宣传周活动",
-          "url": "https://baijiahao.baidu.com/s?id=1876571725892948212&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 9,
-          "title": "【权威发布】_淄博市_ 庆祝2026年中国农民丰收节活动丰富多彩",
-          "url": "http://news.10jqka.com.cn/20260917/c680015125.shtml",
-          "meta": "news.10jqka.com.cn"
-        }
-      ]
+      "items": []
     }
   ]
 }
