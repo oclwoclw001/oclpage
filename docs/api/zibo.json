@@ -1,61 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-19T17:08:56.797Z",
-  "count": 9,
+  "updatedAt": "2026-09-19T20:28:39.129Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博_ 何以“长红”?|评论员观察",
-      "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "贸易结构持续优化 _淄博市_ 外贸发展韧性凸显",
-      "url": "https://baijiahao.baidu.com/s?id=1876745714874344357&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "齐鲁超赛四分之一决赛首回合:烟台队客场1:0战胜 _淄博_ 队",
-      "url": "https://baijiahao.baidu.com/s?id=1876769248247929909&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 多元服务筑近悦远来人才港湾",
-      "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "壹点帮办|_淄博_ 一市民买了个地下室,一年半多次漏水,原因几何?",
-      "url": "https://baijiahao.baidu.com/s?id=1876718537736574712&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "美到next level!_淄博_ 琉璃展亮相新加坡",
-      "url": "https://baijiahao.baidu.com/s?id=1876755844337291772&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "60件 _淄博_ 琉璃漂洋过海,闪耀新加坡",
-      "url": "https://baijiahao.baidu.com/s?id=1876562790756614835&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "短期天气晴好,_淄博_ 气温缓升 下周前半段最高气温或升至34℃",
-      "url": "https://baijiahao.baidu.com/s?id=1876029603203614257&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,56 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博_ 何以“长红”?|评论员观察",
-          "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "贸易结构持续优化 _淄博市_ 外贸发展韧性凸显",
-          "url": "https://baijiahao.baidu.com/s?id=1876745714874344357&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "齐鲁超赛四分之一决赛首回合:烟台队客场1:0战胜 _淄博_ 队",
-          "url": "https://baijiahao.baidu.com/s?id=1876769248247929909&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 多元服务筑近悦远来人才港湾",
-          "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "壹点帮办|_淄博_ 一市民买了个地下室,一年半多次漏水,原因几何?",
-          "url": "https://baijiahao.baidu.com/s?id=1876718537736574712&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "美到next level!_淄博_ 琉璃展亮相新加坡",
-          "url": "https://baijiahao.baidu.com/s?id=1876755844337291772&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "60件 _淄博_ 琉璃漂洋过海,闪耀新加坡",
-          "url": "https://baijiahao.baidu.com/s?id=1876562790756614835&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "短期天气晴好,_淄博_ 气温缓升 下周前半段最高气温或升至34℃",
-          "url": "https://baijiahao.baidu.com/s?id=1876029603203614257&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
