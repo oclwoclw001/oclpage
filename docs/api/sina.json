@@ -1,67 +1,61 @@
 {
   "source": "sina",
-  "updatedAt": "2026-09-19T20:28:39.129Z",
-  "count": 10,
+  "updatedAt": "2026-09-19T22:51:55.857Z",
+  "count": 9,
   "items": [
     {
       "rank": 1,
-      "title": "被顾客用西瓜砸头摊主获赔7万元",
-      "url": "https://k.sina.com.cn/article_1887344341_707e96d502001vkt4.html?from=news",
+      "title": "亚运会中国队夺金日",
+      "url": "https://k.sina.com.cn/article_7879923917_1d5ae18cd020024vea.html?from=sports",
       "meta": "新闻"
     },
     {
       "rank": 2,
+      "title": "中国体育代表团入场观众哇声一片",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BD%93%E8%82%B2%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%A5%E5%9C%BA%E8%A7%82%E4%BC%97%E5%93%87%E5%A3%B0%E4%B8%80%E7%89%87",
+      "meta": "话题"
+    },
+    {
+      "rank": 3,
       "title": "亚运会开幕式 诡异",
       "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F+%E8%AF%A1%E5%BC%82",
       "meta": "话题"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "沙特罕见向以色列求援",
+      "url": "https://k.sina.com.cn/article_1914880192_7222c0c002001o89u.html?from=news",
+      "meta": "新闻"
+    },
+    {
+      "rank": 5,
+      "title": "十几万合同被母亲当废纸9元卖掉",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E5%87%A0%E4%B8%87%E5%90%88%E5%90%8C%E8%A2%AB%E6%AF%8D%E4%BA%B2%E5%BD%93%E5%BA%9F%E7%BA%B89%E5%85%83%E5%8D%96%E6%8E%89",
+      "meta": "话题"
+    },
+    {
+      "rank": 6,
       "title": "两兄妹被蜇亡母亲发声",
       "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%85%84%E5%A6%B9%E8%A2%AB%E8%9C%87%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0",
       "meta": "话题"
     },
     {
-      "rank": 4,
-      "title": "LPL出征仪式 寒酸",
-      "url": "https://k.sina.com.cn/article_5137468776_132378d6804002o5so.html?from=game",
-      "meta": "新闻"
-    },
-    {
-      "rank": 5,
-      "title": "前8月全国铁路发送旅客超33亿人次",
-      "url": "https://s.weibo.com/weibo?q=%E5%89%8D8%E6%9C%88%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8F%91%E9%80%81%E6%97%85%E5%AE%A2%E8%B6%8533%E4%BA%BF%E4%BA%BA%E6%AC%A1",
-      "meta": "话题"
-    },
-    {
-      "rank": 6,
-      "title": "承接别人情绪的聊天技巧",
-      "url": "https://s.weibo.com/weibo?q=%E6%89%BF%E6%8E%A5%E5%88%AB%E4%BA%BA%E6%83%85%E7%BB%AA%E7%9A%84%E8%81%8A%E5%A4%A9%E6%8A%80%E5%B7%A7",
-      "meta": "话题"
-    },
-    {
       "rank": 7,
-      "title": "布莱顿3比0阿森纳",
-      "url": "https://k.sina.com.cn/article_2747143811_a3be168304001jhk0.html?from=sports",
-      "meta": "新闻"
-    },
-    {
-      "rank": 8,
       "title": "红水河发生洪灾导致30人被困？官方辟谣",
       "url": "https://k.sina.com.cn/article_1784473157_6a5ce64502003u4yy.html?from=news",
       "meta": "新闻"
     },
     {
-      "rank": 9,
-      "title": "父女在商场遭人围堵4岁女儿被吓哭",
-      "url": "https://s.weibo.com/weibo?q=%E7%88%B6%E5%A5%B3%E5%9C%A8%E5%95%86%E5%9C%BA%E9%81%AD%E4%BA%BA%E5%9B%B4%E5%A0%B54%E5%B2%81%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%90%93%E5%93%AD",
+      "rank": 8,
+      "title": "名古屋亚运会吉祥物吓到观众",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E5%90%93%E5%88%B0%E8%A7%82%E4%BC%97",
       "meta": "话题"
     },
     {
-      "rank": 10,
-      "title": "Bin要拿S16冠军",
-      "url": "https://k.sina.com.cn/article_6355176057_17acc4a7904002o5ua.html?from=game",
-      "meta": "新闻"
+      "rank": 9,
+      "title": "前8月全国铁路发送旅客超33亿人次",
+      "url": "https://s.weibo.com/weibo?q=%E5%89%8D8%E6%9C%88%E5%85%A8%E5%9B%BD%E9%93%81%E8%B7%AF%E5%8F%91%E9%80%81%E6%97%85%E5%AE%A2%E8%B6%8533%E4%BA%BF%E4%BA%BA%E6%AC%A1",
+      "meta": "话题"
     }
   ]
 }
