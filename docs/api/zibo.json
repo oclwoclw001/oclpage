@@ -1,55 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-20T06:01:04.808Z",
-  "count": 8,
+  "updatedAt": "2026-09-20T12:12:29.193Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博_ 何以“长红”?|评论员观察",
-      "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "片区化推进乡村振兴的山东实践丨 _淄博市_ 桓台县起凤镇:小苇草编出大...",
-      "url": "https://baijiahao.baidu.com/s?id=1876801365704174077&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "海报观察|借镜合肥“科里科气”,练好 _淄博_ 创业内功",
-      "url": "https://baijiahao.baidu.com/s?id=1876821369086140895&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博市_ 国资委聚焦“愿为、敢为、善为”激发国企干部担当作为活力",
-      "url": "https://baijiahao.baidu.com/s?id=1876812783802532456&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博_ 人注意!9月20日起,公积金能提出来装修、交物业费了",
-      "url": "https://baijiahao.baidu.com/s?id=1876818822817418891&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "齐鲁超赛1/4决赛首轮淘汰赛 _淄博_ 队主场0比1不敌烟台队",
-      "url": "https://baijiahao.baidu.com/s?id=1876817217928127753&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "齐鲁超赛四分之一决赛首回合:烟台队客场1:0战胜 _淄博_ 队",
-      "url": "https://baijiahao.baidu.com/s?id=1876769248247929909&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -68,50 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博_ 何以“长红”?|评论员观察",
-          "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "片区化推进乡村振兴的山东实践丨 _淄博市_ 桓台县起凤镇:小苇草编出大...",
-          "url": "https://baijiahao.baidu.com/s?id=1876801365704174077&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "海报观察|借镜合肥“科里科气”,练好 _淄博_ 创业内功",
-          "url": "https://baijiahao.baidu.com/s?id=1876821369086140895&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博市_ 国资委聚焦“愿为、敢为、善为”激发国企干部担当作为活力",
-          "url": "https://baijiahao.baidu.com/s?id=1876812783802532456&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博_ 人注意!9月20日起,公积金能提出来装修、交物业费了",
-          "url": "https://baijiahao.baidu.com/s?id=1876818822817418891&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "齐鲁超赛1/4决赛首轮淘汰赛 _淄博_ 队主场0比1不敌烟台队",
-          "url": "https://baijiahao.baidu.com/s?id=1876817217928127753&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "齐鲁超赛四分之一决赛首回合:烟台队客场1:0战胜 _淄博_ 队",
-          "url": "https://baijiahao.baidu.com/s?id=1876769248247929909&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
