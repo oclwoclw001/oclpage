@@ -1,49 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-22T14:38:03.547Z",
-  "count": 7,
+  "updatedAt": "2026-09-22T18:43:19.035Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "林武在 _淄博_ 调研",
-      "url": "https://baijiahao.baidu.com/s?id=1877023421271209130&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 何以“长红”?|评论员观察",
-      "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "山东 _淄博_:文创月饼饱含城市温情",
-      "url": "https://baijiahao.baidu.com/s?id=1877030685839463551&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 多元服务筑近悦远来人才港湾",
-      "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博_ 创业菁英,合肥“取经”",
-      "url": "https://baijiahao.baidu.com/s?id=1877015429708204068&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "师恩暖半生!_淄博_ 高校副教授盼寻小学恩师圆梦",
-      "url": "https://baijiahao.baidu.com/s?id=1877021438367268590&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -62,44 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "林武在 _淄博_ 调研",
-          "url": "https://baijiahao.baidu.com/s?id=1877023421271209130&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 何以“长红”?|评论员观察",
-          "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "山东 _淄博_:文创月饼饱含城市温情",
-          "url": "https://baijiahao.baidu.com/s?id=1877030685839463551&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 多元服务筑近悦远来人才港湾",
-          "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博_ 创业菁英,合肥“取经”",
-          "url": "https://baijiahao.baidu.com/s?id=1877015429708204068&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "师恩暖半生!_淄博_ 高校副教授盼寻小学恩师圆梦",
-          "url": "https://baijiahao.baidu.com/s?id=1877021438367268590&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
