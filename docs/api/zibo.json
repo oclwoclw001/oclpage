@@ -1,13 +1,49 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-22T21:57:45.625Z",
-  "count": 1,
+  "updatedAt": "2026-09-23T00:19:38.036Z",
+  "count": 7,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "林武在 _淄博_ 调研",
+      "url": "https://baijiahao.baidu.com/s?id=1877023421271209130&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "淄博_ 何以“长红”?|评论员观察",
+      "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "山东 _淄博_:文创月饼饱含城市温情",
+      "url": "https://baijiahao.baidu.com/s?id=1877030685839463551&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "共青团山东 _淄博_ 市委:线上线下联动 护航青少年网络安全",
+      "url": "https://baijiahao.baidu.com/s?id=1877039370229349665&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "淄博_ 多元服务筑近悦远来人才港湾",
+      "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "淄博_ 创业菁英,合肥“取经”",
+      "url": "https://baijiahao.baidu.com/s?id=1877015429708204068&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +62,44 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "林武在 _淄博_ 调研",
+          "url": "https://baijiahao.baidu.com/s?id=1877023421271209130&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "淄博_ 何以“长红”?|评论员观察",
+          "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "山东 _淄博_:文创月饼饱含城市温情",
+          "url": "https://baijiahao.baidu.com/s?id=1877030685839463551&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "共青团山东 _淄博_ 市委:线上线下联动 护航青少年网络安全",
+          "url": "https://baijiahao.baidu.com/s?id=1877039370229349665&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "淄博_ 多元服务筑近悦远来人才港湾",
+          "url": "https://baijiahao.baidu.com/s?id=1876364200672622768&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "淄博_ 创业菁英,合肥“取经”",
+          "url": "https://baijiahao.baidu.com/s?id=1877015429708204068&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
