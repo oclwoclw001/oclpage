@@ -1,13 +1,73 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-24T18:59:22.076Z",
-  "count": 1,
+  "updatedAt": "2026-09-24T22:16:40.161Z",
+  "count": 11,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "林武在 _淄博_ 调研",
+      "url": "https://baijiahao.baidu.com/s?id=1877023421271209130&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "喜庆丰收,喜迎中秋,多展联动!新一期 _淄博_ 共富市集即将燃爆全城",
+      "url": "https://baijiahao.baidu.com/s?id=1877118515959097057&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博_ 陶琉燃动这个秋天!「看见华夏」镇馆之宝数字特展在淄开展",
+      "url": "https://baijiahao.baidu.com/s?id=1877211253151530751&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "淄博_ 何以“长红”?|评论员观察",
+      "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "镶月湖畔庆丰收!_淄博_ 这场丰收节藏着乡村烟火",
+      "url": "https://baijiahao.baidu.com/s?id=1877202477974510016&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "淄博市_ 青春健康教育基地·淄博莲池医院“阳光父母课堂”进社区...",
+      "url": "https://baijiahao.baidu.com/s?id=1877208291196788289&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "山东 _淄博_:文创月饼饱含城市温情",
+      "url": "https://baijiahao.baidu.com/s?id=1877030685839463551&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "壹点图集|新展上线,燃烧吧陶琉!解锁 _淄博_ 陶琉数字新体验",
+      "url": "https://baijiahao.baidu.com/s?id=1877211441546081908&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "这类电动车将禁行!_淄博_ 一地最新通告:10月1日起设立严管路,明年1月...",
+      "url": "https://baijiahao.baidu.com/s?id=1877166802945497612&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 10,
+      "title": "淄博_ 博山猕猴桃:新农人种出“未来果园”",
+      "url": "https://baijiahao.baidu.com/s?id=1877073600443573515&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +86,68 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "林武在 _淄博_ 调研",
+          "url": "https://baijiahao.baidu.com/s?id=1877023421271209130&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "喜庆丰收,喜迎中秋,多展联动!新一期 _淄博_ 共富市集即将燃爆全城",
+          "url": "https://baijiahao.baidu.com/s?id=1877118515959097057&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博_ 陶琉燃动这个秋天!「看见华夏」镇馆之宝数字特展在淄开展",
+          "url": "https://baijiahao.baidu.com/s?id=1877211253151530751&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "淄博_ 何以“长红”?|评论员观察",
+          "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "镶月湖畔庆丰收!_淄博_ 这场丰收节藏着乡村烟火",
+          "url": "https://baijiahao.baidu.com/s?id=1877202477974510016&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "淄博市_ 青春健康教育基地·淄博莲池医院“阳光父母课堂”进社区...",
+          "url": "https://baijiahao.baidu.com/s?id=1877208291196788289&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "山东 _淄博_:文创月饼饱含城市温情",
+          "url": "https://baijiahao.baidu.com/s?id=1877030685839463551&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "壹点图集|新展上线,燃烧吧陶琉!解锁 _淄博_ 陶琉数字新体验",
+          "url": "https://baijiahao.baidu.com/s?id=1877211441546081908&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "这类电动车将禁行!_淄博_ 一地最新通告:10月1日起设立严管路,明年1月...",
+          "url": "https://baijiahao.baidu.com/s?id=1877166802945497612&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 10,
+          "title": "淄博_ 博山猕猴桃:新农人种出“未来果园”",
+          "url": "https://baijiahao.baidu.com/s?id=1877073600443573515&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
