@@ -1,13 +1,73 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-09-25T18:27:30.157Z",
-  "count": 1,
+  "updatedAt": "2026-09-25T22:11:14.344Z",
+  "count": 11,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "林武在 _淄博市_ 调研",
+      "url": "https://baijiahao.baidu.com/s?id=1877084259814400510&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "林武在 _淄博_ 调研",
+      "url": "https://baijiahao.baidu.com/s?id=1877023421271209130&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博_ 何以“长红”?|评论员观察",
+      "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "双节出行必看!这份 _淄博_ 避堵指南请收好",
+      "url": "https://baijiahao.baidu.com/s?id=1877109458503541000&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "淄博市_ 青春健康教育基地·淄博莲池医院“阳光父母课堂”进社区...",
+      "url": "https://baijiahao.baidu.com/s?id=1877208291196788289&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "山东 _淄博_:文创月饼饱含城市温情",
+      "url": "https://baijiahao.baidu.com/s?id=1877030685839463551&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "山东 _淄博_:金秋梨园丰收忙 科技赋能农旅融合促增收",
+      "url": "https://baijiahao.baidu.com/s?id=1877109724031776908&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "燃烧吧陶琉!_淄博_ 这场数字特展解锁文物新体验",
+      "url": "https://baijiahao.baidu.com/s?id=1877263000275933278&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "淄博_ 博山猕猴桃:新农人种出“未来果园”",
+      "url": "https://baijiahao.baidu.com/s?id=1877073600443573515&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 10,
+      "title": "“贷”动猕猴桃,甜透果农心——建行 _淄博_ 博山支行精准助力博山特色...",
+      "url": "https://baijiahao.baidu.com/s?id=1876566061493857471&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +86,68 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "林武在 _淄博市_ 调研",
+          "url": "https://baijiahao.baidu.com/s?id=1877084259814400510&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "林武在 _淄博_ 调研",
+          "url": "https://baijiahao.baidu.com/s?id=1877023421271209130&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博_ 何以“长红”?|评论员观察",
+          "url": "https://baijiahao.baidu.com/s?id=1876747729546962907&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "双节出行必看!这份 _淄博_ 避堵指南请收好",
+          "url": "https://baijiahao.baidu.com/s?id=1877109458503541000&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "淄博市_ 青春健康教育基地·淄博莲池医院“阳光父母课堂”进社区...",
+          "url": "https://baijiahao.baidu.com/s?id=1877208291196788289&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "山东 _淄博_:文创月饼饱含城市温情",
+          "url": "https://baijiahao.baidu.com/s?id=1877030685839463551&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "山东 _淄博_:金秋梨园丰收忙 科技赋能农旅融合促增收",
+          "url": "https://baijiahao.baidu.com/s?id=1877109724031776908&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "燃烧吧陶琉!_淄博_ 这场数字特展解锁文物新体验",
+          "url": "https://baijiahao.baidu.com/s?id=1877263000275933278&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "淄博_ 博山猕猴桃:新农人种出“未来果园”",
+          "url": "https://baijiahao.baidu.com/s?id=1877073600443573515&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 10,
+          "title": "“贷”动猕猴桃,甜透果农心——建行 _淄博_ 博山支行精准助力博山特色...",
+          "url": "https://baijiahao.baidu.com/s?id=1876566061493857471&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
