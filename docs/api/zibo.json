@@ -1,13 +1,61 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-10-03T00:21:14.149Z",
-  "count": 1,
+  "updatedAt": "2026-10-03T06:18:57.658Z",
+  "count": 9,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "烟火不散!中秋 _淄博_ 八大局依旧热闹出圈",
+      "url": "https://baijiahao.baidu.com/s?id=1877543535922834626&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "出圈之后①|_淄博_ 烧烤升级4.0:烟火气旺、文化味更浓",
+      "url": "https://baijiahao.baidu.com/s?id=1877892177886558370&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "窑火不熄,丝路绵长,_淄博_ 用立法“激活”特色产业",
+      "url": "https://baijiahao.baidu.com/s?id=1877814760294765789&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "国庆遇“囍”!在 _淄博_ 经开区 10对新人喜结连理",
+      "url": "https://baijiahao.baidu.com/s?id=1878001484979606434&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "电力赋能山东 _淄博_ 机器人产业高质量发展",
+      "url": "https://baijiahao.baidu.com/s?id=1877652913463222584&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "国庆假期临近,_淄博_ 将迎两次冷空气过程",
+      "url": "https://baijiahao.baidu.com/s?id=1877542811925026780&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "当聊斋白狐遇上太空科学,_淄博_ 这个新地标你打卡了么?",
+      "url": "https://baijiahao.baidu.com/s?id=1877662160422153110&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "一款创新药的 “_淄博_ 配方”",
+      "url": "https://baijiahao.baidu.com/s?id=1877801421262976419&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +74,56 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "烟火不散!中秋 _淄博_ 八大局依旧热闹出圈",
+          "url": "https://baijiahao.baidu.com/s?id=1877543535922834626&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "出圈之后①|_淄博_ 烧烤升级4.0:烟火气旺、文化味更浓",
+          "url": "https://baijiahao.baidu.com/s?id=1877892177886558370&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "窑火不熄,丝路绵长,_淄博_ 用立法“激活”特色产业",
+          "url": "https://baijiahao.baidu.com/s?id=1877814760294765789&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "国庆遇“囍”!在 _淄博_ 经开区 10对新人喜结连理",
+          "url": "https://baijiahao.baidu.com/s?id=1878001484979606434&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "电力赋能山东 _淄博_ 机器人产业高质量发展",
+          "url": "https://baijiahao.baidu.com/s?id=1877652913463222584&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "国庆假期临近,_淄博_ 将迎两次冷空气过程",
+          "url": "https://baijiahao.baidu.com/s?id=1877542811925026780&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "当聊斋白狐遇上太空科学,_淄博_ 这个新地标你打卡了么?",
+          "url": "https://baijiahao.baidu.com/s?id=1877662160422153110&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "一款创新药的 “_淄博_ 配方”",
+          "url": "https://baijiahao.baidu.com/s?id=1877801421262976419&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
