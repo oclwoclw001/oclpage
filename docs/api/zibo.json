@@ -1,13 +1,67 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-10-06T17:07:34.005Z",
-  "count": 1,
+  "updatedAt": "2026-10-06T22:34:50.668Z",
+  "count": 10,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博_ 八大局热度多么高?这家店一天走单两万串",
+      "url": "https://baijiahao.baidu.com/s?id=1878317259500257475&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "火了三年,_淄博_ 烧烤如何留住流量?记者探访八大局阿淄烧烤:把烧烤...",
+      "url": "https://baijiahao.baidu.com/s?id=1878095703806937370&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "出圈之后①|_淄博_ 烧烤升级4.0:烟火气旺、文化味更浓",
+      "url": "https://baijiahao.baidu.com/s?id=1877892177886558370&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "跟着文博游山东|一颗战国琉璃珠,映照 _淄博_ 千年炉火",
+      "url": "https://baijiahao.baidu.com/s?id=1878194416912187712&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "淄博_ 城市伴手礼来啦!硅元国瓷用“见贤思齐”照见千年齐风",
+      "url": "https://baijiahao.baidu.com/s?id=1877846125111632486&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "电力赋能山东 _淄博_ 机器人产业高质量发展",
+      "url": "https://baijiahao.baidu.com/s?id=1877652913463222584&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "女子称在山东 _淄博_ 玩岩壁飞拉达遭马蜂攻击,全身被蜇伤180多处",
+      "url": "https://baijiahao.baidu.com/s?id=1878021434291865072&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "当聊斋白狐遇上太空科学,_淄博_ 这个新地标你打卡了么?",
+      "url": "https://baijiahao.baidu.com/s?id=1877662160422153110&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "一款创新药的 “_淄博_ 配方”",
+      "url": "https://baijiahao.baidu.com/s?id=1877801421262976419&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -26,7 +80,62 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博_ 八大局热度多么高?这家店一天走单两万串",
+          "url": "https://baijiahao.baidu.com/s?id=1878317259500257475&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "火了三年,_淄博_ 烧烤如何留住流量?记者探访八大局阿淄烧烤:把烧烤...",
+          "url": "https://baijiahao.baidu.com/s?id=1878095703806937370&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "出圈之后①|_淄博_ 烧烤升级4.0:烟火气旺、文化味更浓",
+          "url": "https://baijiahao.baidu.com/s?id=1877892177886558370&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "跟着文博游山东|一颗战国琉璃珠,映照 _淄博_ 千年炉火",
+          "url": "https://baijiahao.baidu.com/s?id=1878194416912187712&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "淄博_ 城市伴手礼来啦!硅元国瓷用“见贤思齐”照见千年齐风",
+          "url": "https://baijiahao.baidu.com/s?id=1877846125111632486&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "电力赋能山东 _淄博_ 机器人产业高质量发展",
+          "url": "https://baijiahao.baidu.com/s?id=1877652913463222584&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "女子称在山东 _淄博_ 玩岩壁飞拉达遭马蜂攻击,全身被蜇伤180多处",
+          "url": "https://baijiahao.baidu.com/s?id=1878021434291865072&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "当聊斋白狐遇上太空科学,_淄博_ 这个新地标你打卡了么?",
+          "url": "https://baijiahao.baidu.com/s?id=1877662160422153110&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "一款创新药的 “_淄博_ 配方”",
+          "url": "https://baijiahao.baidu.com/s?id=1877801421262976419&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
