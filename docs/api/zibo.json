@@ -1,67 +1,13 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-10-08T23:13:42.713Z",
-  "count": 10,
+  "updatedAt": "2026-10-09T05:51:03.209Z",
+  "count": 1,
   "items": [
     {
       "rank": 1,
       "title": "我市再添一条“全国美丽公路”",
       "url": "http://www.zbnews.net/content/2026-08/05/content_3198663.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "投入警力4035人次!国庆假期 _淄博_ 道路交通总体平稳有序",
-      "url": "https://baijiahao.baidu.com/s?id=1878501892610141131&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "千年窑火与万缕丝线背后的法治力量,_淄博_ 人大特色立法赋能传统产业",
-      "url": "https://baijiahao.baidu.com/s?id=1878471128414692860&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "圆满收官!国庆假期,看见 _淄博_ 的烟火与活力!解锁超多精彩瞬间→",
-      "url": "https://baijiahao.baidu.com/s?id=1878507798740039197&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "淄博_ 八大局热度多么高?这家店一天走单两万串",
-      "url": "https://baijiahao.baidu.com/s?id=1878317259500257475&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "出圈之后①|_淄博_ 烧烤升级4.0:烟火气旺、文化味更浓",
-      "url": "https://baijiahao.baidu.com/s?id=1877892177886558370&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "山东 _淄博_ 万亩红叶迎来观赏期",
-      "url": "https://baijiahao.baidu.com/s?id=1878476984656037733&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "273600毫升!国庆假期,726名 _淄博_ 爱心市民撸袖献血",
-      "url": "https://baijiahao.baidu.com/s?id=1878501865078108099&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "山东 _淄博_ 沂源县突发山火,当地:火已扑灭,无人员伤亡,正组织现场...",
-      "url": "https://baijiahao.baidu.com/s?id=1878481257463280889&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 9,
-      "title": "跟着文博游山东|一颗战国琉璃珠,映照 _淄博_ 千年炉火",
-      "url": "https://baijiahao.baidu.com/s?id=1878194416912187712&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -80,62 +26,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "投入警力4035人次!国庆假期 _淄博_ 道路交通总体平稳有序",
-          "url": "https://baijiahao.baidu.com/s?id=1878501892610141131&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "千年窑火与万缕丝线背后的法治力量,_淄博_ 人大特色立法赋能传统产业",
-          "url": "https://baijiahao.baidu.com/s?id=1878471128414692860&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "圆满收官!国庆假期,看见 _淄博_ 的烟火与活力!解锁超多精彩瞬间→",
-          "url": "https://baijiahao.baidu.com/s?id=1878507798740039197&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "淄博_ 八大局热度多么高?这家店一天走单两万串",
-          "url": "https://baijiahao.baidu.com/s?id=1878317259500257475&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "出圈之后①|_淄博_ 烧烤升级4.0:烟火气旺、文化味更浓",
-          "url": "https://baijiahao.baidu.com/s?id=1877892177886558370&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "山东 _淄博_ 万亩红叶迎来观赏期",
-          "url": "https://baijiahao.baidu.com/s?id=1878476984656037733&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "273600毫升!国庆假期,726名 _淄博_ 爱心市民撸袖献血",
-          "url": "https://baijiahao.baidu.com/s?id=1878501865078108099&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "山东 _淄博_ 沂源县突发山火,当地:火已扑灭,无人员伤亡,正组织现场...",
-          "url": "https://baijiahao.baidu.com/s?id=1878481257463280889&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 9,
-          "title": "跟着文博游山东|一颗战国琉璃珠,映照 _淄博_ 千年炉火",
-          "url": "https://baijiahao.baidu.com/s?id=1878194416912187712&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
