@@ -1,67 +1,31 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-10-11T18:45:57.507Z",
-  "count": 10,
+  "updatedAt": "2026-10-12T02:13:59.365Z",
+  "count": 4,
   "items": [
     {
       "rank": 1,
-      "title": "“心游万仞——蒲松龄与《聊斋志异》”展览今日落幕",
-      "url": "http://www.zbnews.net/content/2026-10/11/content_3203998.html",
-      "meta": "zbnews.net"
-    },
-    {
-      "rank": 2,
       "title": "淄博市205万余亩秋粮收获已超八成",
       "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
       "meta": "zbnews.net"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "泰山观日出",
       "url": "http://www.zbnews.net/content/2026-10/08/content_3203828.html",
       "meta": "zbnews.net"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "窑火映国庆 烟火醉淄博",
       "url": "http://www.zbnews.net/content/2026-10/08/content_3203708.html",
       "meta": "zbnews.net"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行",
       "url": "http://www.zbnews.net/content/2026-10/01/content_3203470.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "火了三年,_淄博_ 烧烤如何留住流量?记者探访八大局阿淄烧烤:把烧烤...",
-      "url": "https://baijiahao.baidu.com/s?id=1878095703806937370&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 八大局热度多么高?这家店一天走单两万串",
-      "url": "https://baijiahao.baidu.com/s?id=1878317259500257475&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "山东 _淄博_ 万亩红叶迎来观赏期",
-      "url": "https://baijiahao.baidu.com/s?id=1878476984656037733&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "跟着文博游山东|一颗战国琉璃珠,映照 _淄博_ 千年炉火",
-      "url": "https://baijiahao.baidu.com/s?id=1878194416912187712&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "山东 _淄博_ 沂源县发生山火,现场升起巨大烟柱,当地:火势目前已经得到...",
-      "url": "https://baijiahao.baidu.com/s?id=1878454151026426402&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -71,30 +35,24 @@
       "items": [
         {
           "rank": 1,
-          "title": "“心游万仞——蒲松龄与《聊斋志异》”展览今日落幕",
-          "url": "http://www.zbnews.net/content/2026-10/11/content_3203998.html",
-          "meta": "zbnews.net"
-        },
-        {
-          "rank": 2,
           "title": "淄博市205万余亩秋粮收获已超八成",
           "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
           "meta": "zbnews.net"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "title": "泰山观日出",
           "url": "http://www.zbnews.net/content/2026-10/08/content_3203828.html",
           "meta": "zbnews.net"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "title": "窑火映国庆 烟火醉淄博",
           "url": "http://www.zbnews.net/content/2026-10/08/content_3203708.html",
           "meta": "zbnews.net"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "title": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行",
           "url": "http://www.zbnews.net/content/2026-10/01/content_3203470.html",
           "meta": "zbnews.net"
@@ -104,38 +62,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "火了三年,_淄博_ 烧烤如何留住流量?记者探访八大局阿淄烧烤:把烧烤...",
-          "url": "https://baijiahao.baidu.com/s?id=1878095703806937370&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 八大局热度多么高?这家店一天走单两万串",
-          "url": "https://baijiahao.baidu.com/s?id=1878317259500257475&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "山东 _淄博_ 万亩红叶迎来观赏期",
-          "url": "https://baijiahao.baidu.com/s?id=1878476984656037733&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "跟着文博游山东|一颗战国琉璃珠,映照 _淄博_ 千年炉火",
-          "url": "https://baijiahao.baidu.com/s?id=1878194416912187712&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "山东 _淄博_ 沂源县发生山火,现场升起巨大烟柱,当地:火势目前已经得到...",
-          "url": "https://baijiahao.baidu.com/s?id=1878454151026426402&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
