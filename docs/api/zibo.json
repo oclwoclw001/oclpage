@@ -1,57 +1,8 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-10-14T15:46:33.604Z",
-  "count": 8,
-  "items": [
-    {
-      "rank": 1,
-      "title": "全国高端装备“尖子生”,_淄博_ 开赛!",
-      "url": "https://baijiahao.baidu.com/s?id=1879006332515807335&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 海关:瓷韵传四海 海关护远航",
-      "url": "https://baijiahao.baidu.com/s?id=1878994438367940966&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "男子前往 _淄博_ 一小区送钱,警方紧急拦截!",
-      "url": "https://baijiahao.baidu.com/s?id=1879006327646727454&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "金秋赏秋福利来袭!_淄博_ 潭溪山推出“女王出行全家免票”活动",
-      "url": "https://baijiahao.baidu.com/s?id=1879034769516424426&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博_ 的秋天,藏在这片万亩红叶里!",
-      "url": "https://baijiahao.baidu.com/s?id=1878657954298175777&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "山东省 _淄博市_ 博山区发布大风蓝色预警信号",
-      "url": "https://baijiahao.baidu.com/s?id=1879015325262808717&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 7,
-      "title": "东岳硅材:_淄博_ 晓希减持计划实施完成,减持1199.99万股",
-      "url": "https://baijiahao.baidu.com/s?id=1879024070956498175&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "东岳硅材:_淄博_ 晓希减持1%公司股份 持股降至6.76%",
-      "url": "https://baijiahao.baidu.com/s?id=1879026273290865275&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    }
-  ],
+  "updatedAt": "2026-10-14T20:07:28.183Z",
+  "count": 0,
+  "items": [],
   "sections": [
     {
       "key": "local",
@@ -61,56 +12,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "全国高端装备“尖子生”,_淄博_ 开赛!",
-          "url": "https://baijiahao.baidu.com/s?id=1879006332515807335&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 海关:瓷韵传四海 海关护远航",
-          "url": "https://baijiahao.baidu.com/s?id=1878994438367940966&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "男子前往 _淄博_ 一小区送钱,警方紧急拦截!",
-          "url": "https://baijiahao.baidu.com/s?id=1879006327646727454&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "金秋赏秋福利来袭!_淄博_ 潭溪山推出“女王出行全家免票”活动",
-          "url": "https://baijiahao.baidu.com/s?id=1879034769516424426&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博_ 的秋天,藏在这片万亩红叶里!",
-          "url": "https://baijiahao.baidu.com/s?id=1878657954298175777&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "山东省 _淄博市_ 博山区发布大风蓝色预警信号",
-          "url": "https://baijiahao.baidu.com/s?id=1879015325262808717&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 7,
-          "title": "东岳硅材:_淄博_ 晓希减持计划实施完成,减持1199.99万股",
-          "url": "https://baijiahao.baidu.com/s?id=1879024070956498175&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "东岳硅材:_淄博_ 晓希减持1%公司股份 持股降至6.76%",
-          "url": "https://baijiahao.baidu.com/s?id=1879026273290865275&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
