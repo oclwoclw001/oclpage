@@ -1,129 +1,18 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-10-25T18:19:40.476Z",
-  "count": 9,
-  "items": [
-    {
-      "rank": 1,
-      "title": "悬崖红叶节",
-      "url": "http://www.zbnews.net/content/2026-10/14/content_3204232.html",
-      "meta": "zbnews.net"
-    },
-    {
-      "rank": 2,
-      "title": "非遗进校园",
-      "url": "http://www.zbnews.net/content/2026-10/13/content_3204130.html",
-      "meta": "zbnews.net"
-    },
-    {
-      "rank": 3,
-      "title": "马踏湖畔上演秋日体育盛会",
-      "url": "http://www.zbnews.net/content/2026-10/12/content_3204058.html",
-      "meta": "zbnews.net"
-    },
-    {
-      "rank": 4,
-      "title": "“心游万仞——蒲松龄与《聊斋志异》”展览今日落幕",
-      "url": "http://www.zbnews.net/content/2026-10/11/content_3203998.html",
-      "meta": "zbnews.net"
-    },
-    {
-      "rank": 5,
-      "title": "淄博市205万余亩秋粮收获已超八成",
-      "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
-      "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "“品阅齐风 遇见淄味”,_淄博_ 美物、美食走进清华园",
-      "url": "https://baijiahao.baidu.com/s?id=1879749288688971125&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "旅行商山东行走进 _淄博_:解锁齐风陶韵新体验",
-      "url": "https://baijiahao.baidu.com/s?id=1879625001535517983&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "霜降过后,_淄博_ 美如画:万山红遍·满目丹霞",
-      "url": "https://baijiahao.baidu.com/s?id=1880010415580758186&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "注意!该病毒感染进入高发期,_淄博_ 疾控发布提示",
-      "url": "https://baijiahao.baidu.com/s?id=1880013540811645435&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    }
-  ],
+  "updatedAt": "2026-10-26T12:46:38.207Z",
+  "count": 0,
+  "items": [],
   "sections": [
     {
       "key": "local",
       "title": "淄博新闻网",
-      "items": [
-        {
-          "rank": 1,
-          "title": "悬崖红叶节",
-          "url": "http://www.zbnews.net/content/2026-10/14/content_3204232.html",
-          "meta": "zbnews.net"
-        },
-        {
-          "rank": 2,
-          "title": "非遗进校园",
-          "url": "http://www.zbnews.net/content/2026-10/13/content_3204130.html",
-          "meta": "zbnews.net"
-        },
-        {
-          "rank": 3,
-          "title": "马踏湖畔上演秋日体育盛会",
-          "url": "http://www.zbnews.net/content/2026-10/12/content_3204058.html",
-          "meta": "zbnews.net"
-        },
-        {
-          "rank": 4,
-          "title": "“心游万仞——蒲松龄与《聊斋志异》”展览今日落幕",
-          "url": "http://www.zbnews.net/content/2026-10/11/content_3203998.html",
-          "meta": "zbnews.net"
-        },
-        {
-          "rank": 5,
-          "title": "淄博市205万余亩秋粮收获已超八成",
-          "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
-          "meta": "zbnews.net"
-        }
-      ]
+      "items": []
     },
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "“品阅齐风 遇见淄味”,_淄博_ 美物、美食走进清华园",
-          "url": "https://baijiahao.baidu.com/s?id=1879749288688971125&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "旅行商山东行走进 _淄博_:解锁齐风陶韵新体验",
-          "url": "https://baijiahao.baidu.com/s?id=1879625001535517983&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "霜降过后,_淄博_ 美如画:万山红遍·满目丹霞",
-          "url": "https://baijiahao.baidu.com/s?id=1880010415580758186&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "注意!该病毒感染进入高发期,_淄博_ 疾控发布提示",
-          "url": "https://baijiahao.baidu.com/s?id=1880013540811645435&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
