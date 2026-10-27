@@ -1,8 +1,39 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-10-26T12:46:38.207Z",
-  "count": 0,
-  "items": [],
+  "updatedAt": "2026-10-27T16:23:09.212Z",
+  "count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "title": "旅行商山东行走进 _淄博_:解锁齐风陶韵新体验",
+      "url": "https://baijiahao.baidu.com/s?id=1879625001535517983&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "跨越山海寻英才!_淄博_—大连校地双向奔赴太暖心",
+      "url": "https://baijiahao.baidu.com/s?id=1880203407237844227&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "秋色出圈,民宿爆单!_淄博_ 电力“满格”护航乡村振兴",
+      "url": "https://baijiahao.baidu.com/s?id=1880163485077326767&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "光芯片“龙头”再获 _淄博_ 国资加持,中科际联连续斩获多轮融资",
+      "url": "https://baijiahao.baidu.com/s?id=1880158077633607594&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "价格“大跳水”!跌破200元!_淄博_ 人捡漏机会来了",
+      "url": "https://baijiahao.baidu.com/s?id=1880181030998507287&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    }
+  ],
   "sections": [
     {
       "key": "local",
@@ -12,7 +43,38 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "旅行商山东行走进 _淄博_:解锁齐风陶韵新体验",
+          "url": "https://baijiahao.baidu.com/s?id=1879625001535517983&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "跨越山海寻英才!_淄博_—大连校地双向奔赴太暖心",
+          "url": "https://baijiahao.baidu.com/s?id=1880203407237844227&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "秋色出圈,民宿爆单!_淄博_ 电力“满格”护航乡村振兴",
+          "url": "https://baijiahao.baidu.com/s?id=1880163485077326767&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "光芯片“龙头”再获 _淄博_ 国资加持,中科际联连续斩获多轮融资",
+          "url": "https://baijiahao.baidu.com/s?id=1880158077633607594&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "价格“大跳水”!跌破200元!_淄博_ 人捡漏机会来了",
+          "url": "https://baijiahao.baidu.com/s?id=1880181030998507287&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
