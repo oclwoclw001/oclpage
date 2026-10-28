@@ -1,36 +1,90 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-10-27T16:23:09.212Z",
-  "count": 5,
+  "updatedAt": "2026-10-28T20:55:57.534Z",
+  "count": 14,
   "items": [
     {
       "rank": 1,
+      "title": "悬崖红叶节",
+      "url": "http://www.zbnews.net/content/2026-10/14/content_3204232.html",
+      "meta": "zbnews.net"
+    },
+    {
+      "rank": 2,
+      "title": "非遗进校园",
+      "url": "http://www.zbnews.net/content/2026-10/13/content_3204130.html",
+      "meta": "zbnews.net"
+    },
+    {
+      "rank": 3,
+      "title": "马踏湖畔上演秋日体育盛会",
+      "url": "http://www.zbnews.net/content/2026-10/12/content_3204058.html",
+      "meta": "zbnews.net"
+    },
+    {
+      "rank": 4,
+      "title": "“心游万仞——蒲松龄与《聊斋志异》”展览今日落幕",
+      "url": "http://www.zbnews.net/content/2026-10/11/content_3203998.html",
+      "meta": "zbnews.net"
+    },
+    {
+      "rank": 5,
+      "title": "淄博市205万余亩秋粮收获已超八成",
+      "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
+      "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "“品阅齐风 遇见淄味”,_淄博_ 美物、美食走进清华园",
+      "url": "https://baijiahao.baidu.com/s?id=1879749288688971125&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "品阅齐风·遇见淄味,_淄博_ 绽放清华园",
+      "url": "https://baijiahao.baidu.com/s?id=1879746834376442745&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
       "title": "旅行商山东行走进 _淄博_:解锁齐风陶韵新体验",
       "url": "https://baijiahao.baidu.com/s?id=1879625001535517983&wfr=spider&for=pc",
       "meta": "baijiahao.baidu.com"
     },
     {
-      "rank": 2,
-      "title": "跨越山海寻英才!_淄博_—大连校地双向奔赴太暖心",
-      "url": "https://baijiahao.baidu.com/s?id=1880203407237844227&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "秋色出圈,民宿爆单!_淄博_ 电力“满格”护航乡村振兴",
-      "url": "https://baijiahao.baidu.com/s?id=1880163485077326767&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
       "rank": 4,
-      "title": "光芯片“龙头”再获 _淄博_ 国资加持,中科际联连续斩获多轮融资",
-      "url": "https://baijiahao.baidu.com/s?id=1880158077633607594&wfr=spider&for=pc",
+      "title": "铁锤敲头盔、安全知识进乡村 山东 _淄博_ 交警携手九号电动车开展公益...",
+      "url": "https://baijiahao.baidu.com/s?id=1880260449110302073&wfr=spider&for=pc",
       "meta": "baijiahao.baidu.com"
     },
     {
       "rank": 5,
-      "title": "价格“大跳水”!跌破200元!_淄博_ 人捡漏机会来了",
-      "url": "https://baijiahao.baidu.com/s?id=1880181030998507287&wfr=spider&for=pc",
+      "title": "淄博_ 这里棚户区改造!涉及3栋住宅楼及车库,12月开工",
+      "url": "https://baijiahao.baidu.com/s?id=1880252095393082049&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "霜降过后,_淄博_ 美如画:万山红遍·满目丹霞",
+      "url": "https://baijiahao.baidu.com/s?id=1880010415580758186&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "人工智能都卷到收废品赛道了!山东 _淄博_ 街头现无人废品回收车,纸箱...",
+      "url": "https://baijiahao.baidu.com/s?id=1879903409058356948&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "屡教不改!_淄博_ 博山交警查获4次酒驾“钉子户”",
+      "url": "https://baijiahao.baidu.com/s?id=1879755359703918607&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "山东 _淄博_:红叶进入最佳观赏期 赏秋休闲欢乐多",
+      "url": "https://baijiahao.baidu.com/s?id=1879837752317456476&wfr=spider&for=pc",
       "meta": "baijiahao.baidu.com"
     }
   ],
@@ -38,7 +92,38 @@
     {
       "key": "local",
       "title": "淄博新闻网",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "悬崖红叶节",
+          "url": "http://www.zbnews.net/content/2026-10/14/content_3204232.html",
+          "meta": "zbnews.net"
+        },
+        {
+          "rank": 2,
+          "title": "非遗进校园",
+          "url": "http://www.zbnews.net/content/2026-10/13/content_3204130.html",
+          "meta": "zbnews.net"
+        },
+        {
+          "rank": 3,
+          "title": "马踏湖畔上演秋日体育盛会",
+          "url": "http://www.zbnews.net/content/2026-10/12/content_3204058.html",
+          "meta": "zbnews.net"
+        },
+        {
+          "rank": 4,
+          "title": "“心游万仞——蒲松龄与《聊斋志异》”展览今日落幕",
+          "url": "http://www.zbnews.net/content/2026-10/11/content_3203998.html",
+          "meta": "zbnews.net"
+        },
+        {
+          "rank": 5,
+          "title": "淄博市205万余亩秋粮收获已超八成",
+          "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
+          "meta": "zbnews.net"
+        }
+      ]
     },
     {
       "key": "province",
@@ -46,32 +131,56 @@
       "items": [
         {
           "rank": 1,
+          "title": "“品阅齐风 遇见淄味”,_淄博_ 美物、美食走进清华园",
+          "url": "https://baijiahao.baidu.com/s?id=1879749288688971125&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "品阅齐风·遇见淄味,_淄博_ 绽放清华园",
+          "url": "https://baijiahao.baidu.com/s?id=1879746834376442745&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
           "title": "旅行商山东行走进 _淄博_:解锁齐风陶韵新体验",
           "url": "https://baijiahao.baidu.com/s?id=1879625001535517983&wfr=spider&for=pc",
           "meta": "baijiahao.baidu.com"
         },
         {
-          "rank": 2,
-          "title": "跨越山海寻英才!_淄博_—大连校地双向奔赴太暖心",
-          "url": "https://baijiahao.baidu.com/s?id=1880203407237844227&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "秋色出圈,民宿爆单!_淄博_ 电力“满格”护航乡村振兴",
-          "url": "https://baijiahao.baidu.com/s?id=1880163485077326767&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
           "rank": 4,
-          "title": "光芯片“龙头”再获 _淄博_ 国资加持,中科际联连续斩获多轮融资",
-          "url": "https://baijiahao.baidu.com/s?id=1880158077633607594&wfr=spider&for=pc",
+          "title": "铁锤敲头盔、安全知识进乡村 山东 _淄博_ 交警携手九号电动车开展公益...",
+          "url": "https://baijiahao.baidu.com/s?id=1880260449110302073&wfr=spider&for=pc",
           "meta": "baijiahao.baidu.com"
         },
         {
           "rank": 5,
-          "title": "价格“大跳水”!跌破200元!_淄博_ 人捡漏机会来了",
-          "url": "https://baijiahao.baidu.com/s?id=1880181030998507287&wfr=spider&for=pc",
+          "title": "淄博_ 这里棚户区改造!涉及3栋住宅楼及车库,12月开工",
+          "url": "https://baijiahao.baidu.com/s?id=1880252095393082049&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "霜降过后,_淄博_ 美如画:万山红遍·满目丹霞",
+          "url": "https://baijiahao.baidu.com/s?id=1880010415580758186&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "人工智能都卷到收废品赛道了!山东 _淄博_ 街头现无人废品回收车,纸箱...",
+          "url": "https://baijiahao.baidu.com/s?id=1879903409058356948&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "屡教不改!_淄博_ 博山交警查获4次酒驾“钉子户”",
+          "url": "https://baijiahao.baidu.com/s?id=1879755359703918607&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "山东 _淄博_:红叶进入最佳观赏期 赏秋休闲欢乐多",
+          "url": "https://baijiahao.baidu.com/s?id=1879837752317456476&wfr=spider&for=pc",
           "meta": "baijiahao.baidu.com"
         }
       ]
