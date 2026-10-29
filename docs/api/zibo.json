@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-10-29T00:45:17.102Z",
-  "count": 5,
+  "updatedAt": "2026-10-29T14:05:05.100Z",
+  "count": 14,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,60 @@
       "title": "淄博市205万余亩秋粮收获已超八成",
       "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "济南、烟台、_淄博_ 3市最新人事任免",
+      "url": "https://baijiahao.baidu.com/s?id=1880355795113766926&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "淄博_ 博山公安:“全红时刻”警色更红",
+      "url": "https://baijiahao.baidu.com/s?id=1880370441393231593&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "AI化身“合伙人”,_淄博_ 小伙在济南的“一人公司”创业记",
+      "url": "https://baijiahao.baidu.com/s?id=1880378779769121625&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "【权威发布】先申先审 先审先发!_淄博_ 货运报废更新补贴申领要点",
+      "url": "http://news.10jqka.com.cn/20261029/c681239363.shtml",
+      "meta": "news.10jqka.com.cn"
+    },
+    {
+      "rank": 5,
+      "title": "淄博_ 琉璃被“抢”上热搜 山东老手艺成年轻人新宠",
+      "url": "https://baijiahao.baidu.com/s?id=1880350735882407656&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "硕博人才占比超74%,_淄博_ 东北引才收获满满",
+      "url": "https://baijiahao.baidu.com/s?id=1880340717322497340&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "霜降过后,_淄博_ 美如画:万山红遍·满目丹霞",
+      "url": "https://baijiahao.baidu.com/s?id=1880010415580758186&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "“与人民同行”山东省舞协青年舞团文艺走基层(_淄博_ 站)惠民演出举办",
+      "url": "https://baijiahao.baidu.com/s?id=1880378717214306311&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "【权威发布】最高补贴14万元!_淄博_ 正式启动2026年老旧营运货车报废...",
+      "url": "http://news.10jqka.com.cn/20261029/c681231168.shtml",
+      "meta": "news.10jqka.com.cn"
     }
   ],
   "sections": [
@@ -74,7 +128,62 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "济南、烟台、_淄博_ 3市最新人事任免",
+          "url": "https://baijiahao.baidu.com/s?id=1880355795113766926&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "淄博_ 博山公安:“全红时刻”警色更红",
+          "url": "https://baijiahao.baidu.com/s?id=1880370441393231593&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "AI化身“合伙人”,_淄博_ 小伙在济南的“一人公司”创业记",
+          "url": "https://baijiahao.baidu.com/s?id=1880378779769121625&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "【权威发布】先申先审 先审先发!_淄博_ 货运报废更新补贴申领要点",
+          "url": "http://news.10jqka.com.cn/20261029/c681239363.shtml",
+          "meta": "news.10jqka.com.cn"
+        },
+        {
+          "rank": 5,
+          "title": "淄博_ 琉璃被“抢”上热搜 山东老手艺成年轻人新宠",
+          "url": "https://baijiahao.baidu.com/s?id=1880350735882407656&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "硕博人才占比超74%,_淄博_ 东北引才收获满满",
+          "url": "https://baijiahao.baidu.com/s?id=1880340717322497340&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "霜降过后,_淄博_ 美如画:万山红遍·满目丹霞",
+          "url": "https://baijiahao.baidu.com/s?id=1880010415580758186&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "“与人民同行”山东省舞协青年舞团文艺走基层(_淄博_ 站)惠民演出举办",
+          "url": "https://baijiahao.baidu.com/s?id=1880378717214306311&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "【权威发布】最高补贴14万元!_淄博_ 正式启动2026年老旧营运货车报废...",
+          "url": "http://news.10jqka.com.cn/20261029/c681231168.shtml",
+          "meta": "news.10jqka.com.cn"
+        }
+      ]
     }
   ]
 }
