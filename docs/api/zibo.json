@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-11-05T06:21:15.285Z",
-  "count": 10,
+  "updatedAt": "2026-11-05T15:19:40.805Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,36 +32,6 @@
       "title": "淄博市205万余亩秋粮收获已超八成",
       "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "淄博_ 经开区:备战供暖季 守护万家暖",
-      "url": "https://news.iqilu.com/shandong/shandonggedi/20261105/5958697.shtml",
-      "meta": "news.iqilu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 淄川区城市治理有多细?步行巡城500公里绣出烟火之城",
-      "url": "https://baijiahao.baidu.com/s?id=1880560446441500655&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "留住限定秋色!_淄博市_ 34条城市道路启动“落叶缓扫”",
-      "url": "http://baijiahao.baidu.com/s?id=1880919370929508148&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "中华财险 _淄博_ 中支协办张店区“擎盾杯”产业工人安全应急技能比武...",
-      "url": "http://baijiahao.baidu.com/s?id=1880990142889936662&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "西城三大片区一线牵,济南 _淄博_ 路最后“肠梗阻”即将打通",
-      "url": "https://baijiahao.baidu.com/s?id=1880636322289067648&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -104,38 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "淄博_ 经开区:备战供暖季 守护万家暖",
-          "url": "https://news.iqilu.com/shandong/shandonggedi/20261105/5958697.shtml",
-          "meta": "news.iqilu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 淄川区城市治理有多细?步行巡城500公里绣出烟火之城",
-          "url": "https://baijiahao.baidu.com/s?id=1880560446441500655&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "留住限定秋色!_淄博市_ 34条城市道路启动“落叶缓扫”",
-          "url": "http://baijiahao.baidu.com/s?id=1880919370929508148&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "中华财险 _淄博_ 中支协办张店区“擎盾杯”产业工人安全应急技能比武...",
-          "url": "http://baijiahao.baidu.com/s?id=1880990142889936662&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "西城三大片区一线牵,济南 _淄博_ 路最后“肠梗阻”即将打通",
-          "url": "https://baijiahao.baidu.com/s?id=1880636322289067648&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
