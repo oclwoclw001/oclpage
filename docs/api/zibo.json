@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-11-10T08:12:57.248Z",
-  "count": 11,
+  "updatedAt": "2026-11-10T16:57:04.883Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,42 +32,6 @@
       "title": "淄博市205万余亩秋粮收获已超八成",
       "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "山东城市观察|拿下国字号零突破,_淄博_ 机器人集群靠什么",
-      "url": "http://baijiahao.baidu.com/s?id=1881092446637638252&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "“研学+乡村旅游” 打造70余门主题课程!_淄博_ 这个研学基地你来过么?",
-      "url": "http://baijiahao.baidu.com/s?id=1881456310610983642&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "淄博_ 般河两岸金叶舞 文化路上满目金",
-      "url": "http://baijiahao.baidu.com/s?id=1881456247693146489&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "注意添衣!_淄博_ 发布寒潮蓝色预警 局部地区降温超过10℃",
-      "url": "http://baijiahao.baidu.com/s?id=1881101344029468040&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "漠韵芳华!_淄博_ 刻瓷艺术家二度捧回泰山文艺奖",
-      "url": "https://baijiahao.baidu.com/s?id=1881456310611962383&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 6,
-      "title": "淄博_ 发布多条寒潮预警!山东这个周末“冻真格”,多地供暖启动热态...",
-      "url": "http://baijiahao.baidu.com/s?id=1881182437778557349&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -110,44 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "山东城市观察|拿下国字号零突破,_淄博_ 机器人集群靠什么",
-          "url": "http://baijiahao.baidu.com/s?id=1881092446637638252&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "“研学+乡村旅游” 打造70余门主题课程!_淄博_ 这个研学基地你来过么?",
-          "url": "http://baijiahao.baidu.com/s?id=1881456310610983642&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "淄博_ 般河两岸金叶舞 文化路上满目金",
-          "url": "http://baijiahao.baidu.com/s?id=1881456247693146489&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "注意添衣!_淄博_ 发布寒潮蓝色预警 局部地区降温超过10℃",
-          "url": "http://baijiahao.baidu.com/s?id=1881101344029468040&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "漠韵芳华!_淄博_ 刻瓷艺术家二度捧回泰山文艺奖",
-          "url": "https://baijiahao.baidu.com/s?id=1881456310611962383&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 6,
-          "title": "淄博_ 发布多条寒潮预警!山东这个周末“冻真格”,多地供暖启动热态...",
-          "url": "http://baijiahao.baidu.com/s?id=1881182437778557349&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
