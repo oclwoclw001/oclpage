@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-11-12T09:39:07.957Z",
-  "count": 5,
+  "updatedAt": "2026-11-12T18:05:36.679Z",
+  "count": 14,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,60 @@
       "title": "淄博市205万余亩秋粮收获已超八成",
       "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博市_ 政协原党组副书记、副主席刘东军严重违纪违法被开除党籍",
+      "url": "https://baijiahao.baidu.com/s?id=1881654623131726261&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "山东城市观察|拿下国字号零突破,_淄博_ 机器人集群靠什么",
+      "url": "https://baijiahao.baidu.com/s?id=1881091695969222251&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "聚焦企业环境风险防范 京鲁法律专家齐聚 _淄博_ 共话绿色发展",
+      "url": "https://baijiahao.baidu.com/s?id=1881642156699960886&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "在 _淄博_ 办证不“停生意”!一张证照的“无缝衔接”",
+      "url": "http://baijiahao.baidu.com/s?id=1881643912129557267&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "淄博市_ 第三人民医院中医非遗生活化体验馆揭牌暨中医膏方节、中医...",
+      "url": "https://baijiahao.baidu.com/s?id=1881639611780643834&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "探索智能化转型|《大众日报》聚焦 _淄博_ 跳动起机器人的“脉搏”",
+      "url": "https://baijiahao.baidu.com/s?id=1881458620482943246&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "新车次车票今起发售!坐上 _淄博_ 网红绿皮小火车,来看最慢最美的景~",
+      "url": "http://baijiahao.baidu.com/s?id=1881646071814576171&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 8,
+      "title": "今起,_淄博_ 博山部分公交线路临时调整",
+      "url": "https://baijiahao.baidu.com/s?id=1881616087920079571&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 9,
+      "title": "注意添衣!_淄博_ 发布寒潮蓝色预警 局部地区降温超过10℃",
+      "url": "http://baijiahao.baidu.com/s?id=1881101344029468040&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +128,62 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博市_ 政协原党组副书记、副主席刘东军严重违纪违法被开除党籍",
+          "url": "https://baijiahao.baidu.com/s?id=1881654623131726261&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "山东城市观察|拿下国字号零突破,_淄博_ 机器人集群靠什么",
+          "url": "https://baijiahao.baidu.com/s?id=1881091695969222251&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "聚焦企业环境风险防范 京鲁法律专家齐聚 _淄博_ 共话绿色发展",
+          "url": "https://baijiahao.baidu.com/s?id=1881642156699960886&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "在 _淄博_ 办证不“停生意”!一张证照的“无缝衔接”",
+          "url": "http://baijiahao.baidu.com/s?id=1881643912129557267&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "淄博市_ 第三人民医院中医非遗生活化体验馆揭牌暨中医膏方节、中医...",
+          "url": "https://baijiahao.baidu.com/s?id=1881639611780643834&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "探索智能化转型|《大众日报》聚焦 _淄博_ 跳动起机器人的“脉搏”",
+          "url": "https://baijiahao.baidu.com/s?id=1881458620482943246&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "新车次车票今起发售!坐上 _淄博_ 网红绿皮小火车,来看最慢最美的景~",
+          "url": "http://baijiahao.baidu.com/s?id=1881646071814576171&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 8,
+          "title": "今起,_淄博_ 博山部分公交线路临时调整",
+          "url": "https://baijiahao.baidu.com/s?id=1881616087920079571&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 9,
+          "title": "注意添衣!_淄博_ 发布寒潮蓝色预警 局部地区降温超过10℃",
+          "url": "http://baijiahao.baidu.com/s?id=1881101344029468040&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
