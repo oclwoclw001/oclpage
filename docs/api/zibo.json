@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-11-15T17:38:41.219Z",
-  "count": 9,
+  "updatedAt": "2026-11-15T22:42:11.177Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,30 +32,6 @@
       "title": "淄博市205万余亩秋粮收获已超八成",
       "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "「稀土·基层连线」_淄博_ 灵芝开展特……",
-      "url": "http://baijiahao.baidu.com/s?id=1881900371157425785&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "织密西部路网 _淄博_ 路北段民生道路建设如火如荼",
-      "url": "http://baijiahao.baidu.com/s?id=1881907403889413140&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "探索智能化转型|《大众日报》聚焦 _淄博_ 跳动起机器人的“脉搏”",
-      "url": "https://baijiahao.baidu.com/s?id=1881458620482943246&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "山东 _淄博_ 一工厂起火,当地管委会:火已扑灭,无人员伤亡",
-      "url": "http://baijiahao.baidu.com/s?id=1881760555911394917&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -98,32 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "「稀土·基层连线」_淄博_ 灵芝开展特……",
-          "url": "http://baijiahao.baidu.com/s?id=1881900371157425785&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "织密西部路网 _淄博_ 路北段民生道路建设如火如荼",
-          "url": "http://baijiahao.baidu.com/s?id=1881907403889413140&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "探索智能化转型|《大众日报》聚焦 _淄博_ 跳动起机器人的“脉搏”",
-          "url": "https://baijiahao.baidu.com/s?id=1881458620482943246&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "山东 _淄博_ 一工厂起火,当地管委会:火已扑灭,无人员伤亡",
-          "url": "http://baijiahao.baidu.com/s?id=1881760555911394917&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
