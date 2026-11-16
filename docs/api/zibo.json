@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-11-15T22:42:11.177Z",
-  "count": 5,
+  "updatedAt": "2026-11-16T02:39:49.469Z",
+  "count": 9,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,30 @@
       "title": "淄博市205万余亩秋粮收获已超八成",
       "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "织密西部路网 _淄博_ 路北段民生道路建设如火如荼",
+      "url": "http://baijiahao.baidu.com/s?id=1881966408399285970&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "山东 _淄博_ 一工厂起火,当地管委会:火已扑灭,无人员伤亡",
+      "url": "http://baijiahao.baidu.com/s?id=1881760555911394917&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "下周初较强冷空气影响 _淄博_,伴随明显大风降温!局部有雨夹雪,最低...",
+      "url": "https://baijiahao.baidu.com/s?id=1881711917052313451&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "一串烧烤带火一座城,_淄博_ 满是人间烟火气!",
+      "url": "https://baijiahao.baidu.com/s?id=1881647054425412666&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +98,32 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "织密西部路网 _淄博_ 路北段民生道路建设如火如荼",
+          "url": "http://baijiahao.baidu.com/s?id=1881966408399285970&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "山东 _淄博_ 一工厂起火,当地管委会:火已扑灭,无人员伤亡",
+          "url": "http://baijiahao.baidu.com/s?id=1881760555911394917&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "下周初较强冷空气影响 _淄博_,伴随明显大风降温!局部有雨夹雪,最低...",
+          "url": "https://baijiahao.baidu.com/s?id=1881711917052313451&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "一串烧烤带火一座城,_淄博_ 满是人间烟火气!",
+          "url": "https://baijiahao.baidu.com/s?id=1881647054425412666&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
