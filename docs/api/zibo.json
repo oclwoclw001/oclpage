@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-11-21T17:17:49.519Z",
-  "count": 5,
+  "updatedAt": "2026-11-21T23:00:02.272Z",
+  "count": 8,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,24 @@
       "title": "淄博市205万余亩秋粮收获已超八成",
       "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "淄博_:“银企通”金融服务平台破解中小微企业项目资金周转难题",
+      "url": "http://baijiahao.baidu.com/s?id=1882461051198238276&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "冬闲不“猫冬”,乡村忙出热乎劲:《大众日报》特别关注 _淄博_ 乡村新...",
+      "url": "https://baijiahao.baidu.com/s?id=1882090644610406168&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "淄博_:产业带搭上数字快车 跨境电商为外贸添新翼",
+      "url": "https://baijiahao.baidu.com/s?id=1882461051197512024&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -74,7 +92,26 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "淄博_:“银企通”金融服务平台破解中小微企业项目资金周转难题",
+          "url": "http://baijiahao.baidu.com/s?id=1882461051198238276&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "冬闲不“猫冬”,乡村忙出热乎劲:《大众日报》特别关注 _淄博_ 乡村新...",
+          "url": "https://baijiahao.baidu.com/s?id=1882090644610406168&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "淄博_:产业带搭上数字快车 跨境电商为外贸添新翼",
+          "url": "https://baijiahao.baidu.com/s?id=1882461051197512024&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        }
+      ]
     }
   ]
 }
