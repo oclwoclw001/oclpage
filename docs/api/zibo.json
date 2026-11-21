@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-11-19T12:46:15.377Z",
-  "count": 13,
+  "updatedAt": "2026-11-21T17:17:49.519Z",
+  "count": 5,
   "items": [
     {
       "rank": 1,
@@ -32,54 +32,6 @@
       "title": "淄博市205万余亩秋粮收获已超八成",
       "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
       "meta": "zbnews.net"
-    },
-    {
-      "rank": 1,
-      "title": "119辆救护车畅行千个小区,_淄博_ 不到一个月打通了这条生命通道",
-      "url": "https://baijiahao.baidu.com/s?id=1882280086630391735&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 2,
-      "title": "淄博_ 高新区首张食品小餐饮电子证照“装进手机”",
-      "url": "http://baijiahao.baidu.com/s?id=1882278413748772203&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 3,
-      "title": "中国石油 _淄博_ 公司团委:开展爱心抢收芹菜行动,架起助农连心桥",
-      "url": "https://baijiahao.baidu.com/s?id=1882276019850394976&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 4,
-      "title": "两项安全生产违法,_淄博_ 西齐矿业有限公司被罚2.3万元",
-      "url": "https://baijiahao.baidu.com/s?id=1882264874570484101&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 5,
-      "title": "淄博市_ 企业和企业家联合会医疗器械专业委员会成立",
-      "url": "http://news.10jqka.com.cn/20261119/c682012776.shtml",
-      "meta": "news.10jqka.com.cn"
-    },
-    {
-      "rank": 6,
-      "title": "淄博_ 市医疗机构制剂转化平台落地运行",
-      "url": "http://news.10jqka.com.cn/20261119/c682010258.shtml",
-      "meta": "news.10jqka.com.cn"
-    },
-    {
-      "rank": 7,
-      "title": "筑海(_淄博_)投资领军科创赋能实业——扎根淄博、布局全球新能源产业",
-      "url": "http://baijiahao.baidu.com/s?id=1882263242327568984&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
-    },
-    {
-      "rank": 8,
-      "title": "淄博市_ 第三人民医院中医专家坐诊非遗生活馆,公益义诊免费体验!",
-      "url": "http://baijiahao.baidu.com/s?id=1882254189019353475&wfr=spider&for=pc",
-      "meta": "baijiahao.baidu.com"
     }
   ],
   "sections": [
@@ -122,56 +74,7 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": [
-        {
-          "rank": 1,
-          "title": "119辆救护车畅行千个小区,_淄博_ 不到一个月打通了这条生命通道",
-          "url": "https://baijiahao.baidu.com/s?id=1882280086630391735&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 2,
-          "title": "淄博_ 高新区首张食品小餐饮电子证照“装进手机”",
-          "url": "http://baijiahao.baidu.com/s?id=1882278413748772203&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 3,
-          "title": "中国石油 _淄博_ 公司团委:开展爱心抢收芹菜行动,架起助农连心桥",
-          "url": "https://baijiahao.baidu.com/s?id=1882276019850394976&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 4,
-          "title": "两项安全生产违法,_淄博_ 西齐矿业有限公司被罚2.3万元",
-          "url": "https://baijiahao.baidu.com/s?id=1882264874570484101&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 5,
-          "title": "淄博市_ 企业和企业家联合会医疗器械专业委员会成立",
-          "url": "http://news.10jqka.com.cn/20261119/c682012776.shtml",
-          "meta": "news.10jqka.com.cn"
-        },
-        {
-          "rank": 6,
-          "title": "淄博_ 市医疗机构制剂转化平台落地运行",
-          "url": "http://news.10jqka.com.cn/20261119/c682010258.shtml",
-          "meta": "news.10jqka.com.cn"
-        },
-        {
-          "rank": 7,
-          "title": "筑海(_淄博_)投资领军科创赋能实业——扎根淄博、布局全球新能源产业",
-          "url": "http://baijiahao.baidu.com/s?id=1882263242327568984&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        },
-        {
-          "rank": 8,
-          "title": "淄博市_ 第三人民医院中医专家坐诊非遗生活馆,公益义诊免费体验!",
-          "url": "http://baijiahao.baidu.com/s?id=1882254189019353475&wfr=spider&for=pc",
-          "meta": "baijiahao.baidu.com"
-        }
-      ]
+      "items": []
     }
   ]
 }
