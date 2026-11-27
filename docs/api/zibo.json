@@ -1,7 +1,7 @@
 {
   "source": "zibo",
-  "updatedAt": "2026-11-26T04:52:39.143Z",
-  "count": 5,
+  "updatedAt": "2026-11-27T07:59:20.112Z",
+  "count": 12,
   "items": [
     {
       "rank": 1,
@@ -32,6 +32,48 @@
       "title": "淄博市205万余亩秋粮收获已超八成",
       "url": "http://www.zbnews.net/content/2026-10/10/content_3203924.html",
       "meta": "zbnews.net"
+    },
+    {
+      "rank": 1,
+      "title": "文旅深一度|_淄博_:让三千年文脉,变成能走进去的风景",
+      "url": "https://baijiahao.baidu.com/s?id=1882974279723011506&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 2,
+      "title": "五中全会精神在基层|_淄博_ 1045个小区实现120救护车自动识别抬杆...",
+      "url": "https://baijiahao.baidu.com/s?id=1882965233102423441&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 3,
+      "title": "中华财险 _淄博_ 中心支公司寒冬送防灾课进乡村",
+      "url": "http://baijiahao.baidu.com/s?id=1882978430478661065&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 4,
+      "title": "邮储银行 _淄博_ 市分行:让“博山琉璃”在新时代开花结果",
+      "url": "http://baijiahao.baidu.com/s?id=1882927503513614523&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 5,
+      "title": "匠心酿造新活力 恒丰银行 _淄博_ 分行精准服务本土老字号",
+      "url": "https://baijiahao.baidu.com/s?id=1882978422069694465&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 6,
+      "title": "两起环保违法事实查实,_淄博_ 坤瑞环保科技被罚25.45万",
+      "url": "https://baijiahao.baidu.com/s?id=1882930891938619555&wfr=spider&for=pc",
+      "meta": "baijiahao.baidu.com"
+    },
+    {
+      "rank": 7,
+      "title": "淄博_ 价格指数解读",
+      "url": "http://news.10jqka.com.cn/20261127/c682295885.shtml",
+      "meta": "news.10jqka.com.cn"
     }
   ],
   "sections": [
@@ -74,7 +116,50 @@
     {
       "key": "province",
       "title": "省级媒体里的淄博",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "文旅深一度|_淄博_:让三千年文脉,变成能走进去的风景",
+          "url": "https://baijiahao.baidu.com/s?id=1882974279723011506&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 2,
+          "title": "五中全会精神在基层|_淄博_ 1045个小区实现120救护车自动识别抬杆...",
+          "url": "https://baijiahao.baidu.com/s?id=1882965233102423441&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 3,
+          "title": "中华财险 _淄博_ 中心支公司寒冬送防灾课进乡村",
+          "url": "http://baijiahao.baidu.com/s?id=1882978430478661065&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 4,
+          "title": "邮储银行 _淄博_ 市分行:让“博山琉璃”在新时代开花结果",
+          "url": "http://baijiahao.baidu.com/s?id=1882927503513614523&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 5,
+          "title": "匠心酿造新活力 恒丰银行 _淄博_ 分行精准服务本土老字号",
+          "url": "https://baijiahao.baidu.com/s?id=1882978422069694465&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 6,
+          "title": "两起环保违法事实查实,_淄博_ 坤瑞环保科技被罚25.45万",
+          "url": "https://baijiahao.baidu.com/s?id=1882930891938619555&wfr=spider&for=pc",
+          "meta": "baijiahao.baidu.com"
+        },
+        {
+          "rank": 7,
+          "title": "淄博_ 价格指数解读",
+          "url": "http://news.10jqka.com.cn/20261127/c682295885.shtml",
+          "meta": "news.10jqka.com.cn"
+        }
+      ]
     }
   ]
 }
